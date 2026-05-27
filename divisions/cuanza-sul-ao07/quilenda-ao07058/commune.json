@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO07058194",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kilenda",
+      "en": "Kilenda",
+      "slug": "kilenda-ao07058194"
+    },
+    "code": {
+      "id": "AO07058194",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07058",
+      "level": 2,
+      "name": {
+        "local": "Quilenda",
+        "en": "Quilenda",
+        "slug": "quilenda-ao07058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07058",
+        "level": 2,
+        "name": {
+          "local": "Quilenda",
+          "en": "Quilenda",
+          "slug": "quilenda-ao07058"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.695",
+      "lon": "14.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07058195",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kirimbo",
+      "en": "Kirimbo",
+      "slug": "kirimbo-ao07058195"
+    },
+    "code": {
+      "id": "AO07058195",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07058",
+      "level": 2,
+      "name": {
+        "local": "Quilenda",
+        "en": "Quilenda",
+        "slug": "quilenda-ao07058"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07058",
+        "level": 2,
+        "name": {
+          "local": "Quilenda",
+          "en": "Quilenda",
+          "slug": "quilenda-ao07058"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.518",
+      "lon": "14.4"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

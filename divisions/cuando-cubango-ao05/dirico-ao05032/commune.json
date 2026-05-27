@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO05032118",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dirico",
+      "en": "Dirico",
+      "slug": "dirico-ao05032118"
+    },
+    "code": {
+      "id": "AO05032118",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05032",
+      "level": 2,
+      "name": {
+        "local": "Dirico",
+        "en": "Dirico",
+        "slug": "dirico-ao05032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05032",
+        "level": 2,
+        "name": {
+          "local": "Dirico",
+          "en": "Dirico",
+          "slug": "dirico-ao05032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.516",
+      "lon": "20.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05032119",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mucusso",
+      "en": "Mucusso",
+      "slug": "mucusso-ao05032119"
+    },
+    "code": {
+      "id": "AO05032119",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05032",
+      "level": 2,
+      "name": {
+        "local": "Dirico",
+        "en": "Dirico",
+        "slug": "dirico-ao05032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05032",
+        "level": 2,
+        "name": {
+          "local": "Dirico",
+          "en": "Dirico",
+          "slug": "dirico-ao05032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.526",
+      "lon": "21.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05032120",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Xa-Mavera",
+      "en": "Xa-Mavera",
+      "slug": "xa-mavera-ao05032120"
+    },
+    "code": {
+      "id": "AO05032120",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05032",
+      "level": 2,
+      "name": {
+        "local": "Dirico",
+        "en": "Dirico",
+        "slug": "dirico-ao05032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05032",
+        "level": 2,
+        "name": {
+          "local": "Dirico",
+          "en": "Dirico",
+          "slug": "dirico-ao05032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.465",
+      "lon": "20.261"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

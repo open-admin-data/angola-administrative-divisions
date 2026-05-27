@@ -1,0 +1,198 @@
+# Bié — Angola Administrative Divisions
+
+> 9 municipalitys, 36 communes
+> Code: AO03
+> Coordinates: -12.442, 17.417
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Andulo
+
+Code: AO03015, Coordinates: -11.253, 16.425
+Communes: 4
+
+#### Andulo
+
+Code: AO03015058, Coordinates: -11.472, 16.683
+
+#### Chivaulo
+
+Code: AO03015059, Coordinates: -11.671, 16.479
+
+#### Kalucinga
+
+Code: AO03015060, Coordinates: -11.127, 16.231
+
+#### Kassumbe
+
+Code: AO03015061, Coordinates: -10.972, 16.66
+
+### Camacupa
+
+Code: AO03016, Coordinates: -12.38, 17.712
+Communes: 5
+
+#### Kamakupa
+
+Code: AO03016062, Coordinates: -12.091, 17.521
+
+#### Kwanza
+
+Code: AO03016063, Coordinates: -12.071, 17.746
+
+#### Ringoma
+
+Code: AO03016064, Coordinates: -12.419, 17.606
+
+#### St. Antonio da Muinha
+
+Code: AO03016065, Coordinates: -11.842, 17.553
+
+#### Umpulo
+
+Code: AO03016066, Coordinates: -12.692, 17.848
+
+### Catabola
+
+Code: AO03017, Coordinates: -12.138, 17.248
+Communes: 4
+
+#### Chipeta
+
+Code: AO03017067, Coordinates: -12.322, 17.187
+
+#### Chiuca
+
+Code: AO03017068, Coordinates: -12.379, 17.402
+
+#### Kaiuera
+
+Code: AO03017069, Coordinates: -12.015, 17.145
+
+#### Katabola
+
+Code: AO03017070, Coordinates: -12.146, 17.325
+
+### Chinguar
+
+Code: AO03018, Coordinates: -12.547, 16.52
+Communes: 3
+
+#### Chinguar
+
+Code: AO03018071, Coordinates: -12.61, 16.427
+
+#### Kangote
+
+Code: AO03018072, Coordinates: -12.763, 16.659
+
+#### Kutato
+
+Code: AO03018073, Coordinates: -12.36, 16.521
+
+### Chitembo
+
+Code: AO03019, Coordinates: -13.579, 17.243
+Communes: 6
+
+#### Cachingues
+
+Code: AO03019074, Coordinates: -13.135, 16.88
+
+#### Chitembo
+
+Code: AO03019075, Coordinates: -13.486, 16.856
+
+#### Malengue
+
+Code: AO03019076, Coordinates: -13.798, 16.829
+
+#### Mumbue
+
+Code: AO03019077, Coordinates: -13.97, 17.406
+
+#### Mutumbo
+
+Code: AO03019078, Coordinates: -13.157, 17.623
+
+#### Soma Kwanza
+
+Code: AO03019079, Coordinates: -13.56, 17.561
+
+### Cuemba
+
+Code: AO03020, Coordinates: -11.734, 18.302
+Communes: 4
+
+#### Kuemba
+
+Code: AO03020080, Coordinates: -12.183, 18.094
+
+#### Luando
+
+Code: AO03020081, Coordinates: -11.505, 18.797
+
+#### Munhango
+
+Code: AO03020082, Coordinates: -12.102, 18.534
+
+#### Sachinemuna
+
+Code: AO03020083, Coordinates: -11.681, 17.937
+
+### Cuito (Kuito)
+
+Code: AO03022, Coordinates: -12.469, 17.004
+Communes: 4
+
+#### Cambandua
+
+Code: AO03022085, Coordinates: -12.627, 17.217
+
+#### Chicala
+
+Code: AO03022086, Coordinates: -12.745, 16.926
+
+#### Kuito
+
+Code: AO03022087, Coordinates: -12.445, 16.953
+
+#### Trumba
+
+Code: AO03022088, Coordinates: -12.209, 16.947
+
+### Cunhinga
+
+Code: AO03021, Coordinates: -11.974, 16.822
+Communes: 1
+
+#### Kunhinga
+
+Code: AO03021084, Coordinates: -11.974, 16.822
+
+### N&#39;harea
+
+Code: AO03023, Coordinates: -11.288, 17.222
+Communes: 5
+
+#### Dando
+
+Code: AO03023089, Coordinates: -11.174, 17.304
+
+#### Gamba
+
+Code: AO03023090, Coordinates: -11.698, 17.232
+
+#### Kaiei
+
+Code: AO03023091, Coordinates: -11.526, 17.368
+
+#### Lubia
+
+Code: AO03023092, Coordinates: -10.971, 17.089
+
+#### Nharea
+
+Code: AO03023093, Coordinates: -11.512, 17.059
+

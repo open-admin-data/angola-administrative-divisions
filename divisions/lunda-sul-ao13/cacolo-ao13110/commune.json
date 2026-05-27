@@ -1,0 +1,326 @@
+[
+  {
+    "id": "AO13110351",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alto-Chicapa",
+      "en": "Alto-Chicapa",
+      "slug": "alto-chicapa-ao13110351"
+    },
+    "code": {
+      "id": "AO13110351",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13110",
+      "level": 2,
+      "name": {
+        "local": "Cacolo",
+        "en": "Cacolo",
+        "slug": "cacolo-ao13110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13110",
+        "level": 2,
+        "name": {
+          "local": "Cacolo",
+          "en": "Cacolo",
+          "slug": "cacolo-ao13110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.889",
+      "lon": "19.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO13110352",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cacolo",
+      "en": "Cacolo",
+      "slug": "cacolo-ao13110352"
+    },
+    "code": {
+      "id": "AO13110352",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13110",
+      "level": 2,
+      "name": {
+        "local": "Cacolo",
+        "en": "Cacolo",
+        "slug": "cacolo-ao13110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13110",
+        "level": 2,
+        "name": {
+          "local": "Cacolo",
+          "en": "Cacolo",
+          "slug": "cacolo-ao13110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.309",
+      "lon": "19.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO13110353",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cucumbi",
+      "en": "Cucumbi",
+      "slug": "cucumbi-ao13110353"
+    },
+    "code": {
+      "id": "AO13110353",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13110",
+      "level": 2,
+      "name": {
+        "local": "Cacolo",
+        "en": "Cacolo",
+        "slug": "cacolo-ao13110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13110",
+        "level": 2,
+        "name": {
+          "local": "Cacolo",
+          "en": "Cacolo",
+          "slug": "cacolo-ao13110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.389",
+      "lon": "19.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO13110340",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luangue",
+      "en": "Luangue",
+      "slug": "luangue-ao13110340"
+    },
+    "code": {
+      "id": "AO13110340",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13110",
+      "level": 2,
+      "name": {
+        "local": "Cacolo",
+        "en": "Cacolo",
+        "slug": "cacolo-ao13110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13110",
+        "level": 2,
+        "name": {
+          "local": "Cacolo",
+          "en": "Cacolo",
+          "slug": "cacolo-ao13110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.794",
+      "lon": "19.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO13110354",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Xassengue",
+      "en": "Xassengue",
+      "slug": "xassengue-ao13110354"
+    },
+    "code": {
+      "id": "AO13110354",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13110",
+      "level": 2,
+      "name": {
+        "local": "Cacolo",
+        "en": "Cacolo",
+        "slug": "cacolo-ao13110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13110",
+        "level": 2,
+        "name": {
+          "local": "Cacolo",
+          "en": "Cacolo",
+          "slug": "cacolo-ao13110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.495",
+      "lon": "18.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO13110330",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Xinge",
+      "en": "Xinge",
+      "slug": "xinge-ao13110330"
+    },
+    "code": {
+      "id": "AO13110330",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13110",
+      "level": 2,
+      "name": {
+        "local": "Cacolo",
+        "en": "Cacolo",
+        "slug": "cacolo-ao13110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13110",
+        "level": 2,
+        "name": {
+          "local": "Cacolo",
+          "en": "Cacolo",
+          "slug": "cacolo-ao13110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.139",
+      "lon": "18.719"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO09079257",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dinde",
+      "en": "Dinde",
+      "slug": "dinde-ao09079257"
+    },
+    "code": {
+      "id": "AO09079257",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09079",
+      "level": 2,
+      "name": {
+        "local": "Quilengues",
+        "en": "Quilengues",
+        "slug": "quilengues-ao09079"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09079",
+        "level": 2,
+        "name": {
+          "local": "Quilengues",
+          "en": "Quilengues",
+          "slug": "quilengues-ao09079"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.307",
+      "lon": "13.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09079258",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Impulo",
+      "en": "Impulo",
+      "slug": "impulo-ao09079258"
+    },
+    "code": {
+      "id": "AO09079258",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09079",
+      "level": 2,
+      "name": {
+        "local": "Quilengues",
+        "en": "Quilengues",
+        "slug": "quilengues-ao09079"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09079",
+        "level": 2,
+        "name": {
+          "local": "Quilengues",
+          "en": "Quilengues",
+          "slug": "quilengues-ao09079"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.987",
+      "lon": "13.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09079259",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kilengue",
+      "en": "Kilengue",
+      "slug": "kilengue-ao09079259"
+    },
+    "code": {
+      "id": "AO09079259",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09079",
+      "level": 2,
+      "name": {
+        "local": "Quilengues",
+        "en": "Quilengues",
+        "slug": "quilengues-ao09079"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09079",
+        "level": 2,
+        "name": {
+          "local": "Quilengues",
+          "en": "Quilengues",
+          "slug": "quilengues-ao09079"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.031",
+      "lon": "14.157"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

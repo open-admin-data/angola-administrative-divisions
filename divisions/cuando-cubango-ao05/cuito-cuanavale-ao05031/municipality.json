@@ -1,0 +1,47 @@
+{
+  "id": "AO05031",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuito Cuanavale",
+    "en": "Cuito Cuanavale",
+    "slug": "cuito-cuanavale-ao05031"
+  },
+  "code": {
+    "id": "AO05031",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO05",
+    "level": 1,
+    "name": {
+      "local": "Cuando Cubango",
+      "en": "Cuando Cubango",
+      "slug": "cuando-cubango-ao05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO05",
+      "level": 1,
+      "name": {
+        "local": "Cuando Cubango",
+        "en": "Cuando Cubango",
+        "slug": "cuando-cubango-ao05"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.852",
+    "lon": "19.023"
+  },
+  "metadata": {},
+  "source": {}
+}

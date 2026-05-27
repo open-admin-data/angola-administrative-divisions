@@ -1,0 +1,326 @@
+[
+  {
+    "id": "AO03019074",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cachingues",
+      "en": "Cachingues",
+      "slug": "cachingues-ao03019074"
+    },
+    "code": {
+      "id": "AO03019074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03019",
+      "level": 2,
+      "name": {
+        "local": "Chitembo",
+        "en": "Chitembo",
+        "slug": "chitembo-ao03019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03019",
+        "level": 2,
+        "name": {
+          "local": "Chitembo",
+          "en": "Chitembo",
+          "slug": "chitembo-ao03019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.135",
+      "lon": "16.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03019075",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chitembo",
+      "en": "Chitembo",
+      "slug": "chitembo-ao03019075"
+    },
+    "code": {
+      "id": "AO03019075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03019",
+      "level": 2,
+      "name": {
+        "local": "Chitembo",
+        "en": "Chitembo",
+        "slug": "chitembo-ao03019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03019",
+        "level": 2,
+        "name": {
+          "local": "Chitembo",
+          "en": "Chitembo",
+          "slug": "chitembo-ao03019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.486",
+      "lon": "16.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03019076",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Malengue",
+      "en": "Malengue",
+      "slug": "malengue-ao03019076"
+    },
+    "code": {
+      "id": "AO03019076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03019",
+      "level": 2,
+      "name": {
+        "local": "Chitembo",
+        "en": "Chitembo",
+        "slug": "chitembo-ao03019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03019",
+        "level": 2,
+        "name": {
+          "local": "Chitembo",
+          "en": "Chitembo",
+          "slug": "chitembo-ao03019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.798",
+      "lon": "16.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03019077",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mumbue",
+      "en": "Mumbue",
+      "slug": "mumbue-ao03019077"
+    },
+    "code": {
+      "id": "AO03019077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03019",
+      "level": 2,
+      "name": {
+        "local": "Chitembo",
+        "en": "Chitembo",
+        "slug": "chitembo-ao03019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03019",
+        "level": 2,
+        "name": {
+          "local": "Chitembo",
+          "en": "Chitembo",
+          "slug": "chitembo-ao03019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.97",
+      "lon": "17.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03019078",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mutumbo",
+      "en": "Mutumbo",
+      "slug": "mutumbo-ao03019078"
+    },
+    "code": {
+      "id": "AO03019078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03019",
+      "level": 2,
+      "name": {
+        "local": "Chitembo",
+        "en": "Chitembo",
+        "slug": "chitembo-ao03019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03019",
+        "level": 2,
+        "name": {
+          "local": "Chitembo",
+          "en": "Chitembo",
+          "slug": "chitembo-ao03019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.157",
+      "lon": "17.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03019079",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soma Kwanza",
+      "en": "Soma Kwanza",
+      "slug": "soma-kwanza-ao03019079"
+    },
+    "code": {
+      "id": "AO03019079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03019",
+      "level": 2,
+      "name": {
+        "local": "Chitembo",
+        "en": "Chitembo",
+        "slug": "chitembo-ao03019"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03019",
+        "level": 2,
+        "name": {
+          "local": "Chitembo",
+          "en": "Chitembo",
+          "slug": "chitembo-ao03019"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.56",
+      "lon": "17.561"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

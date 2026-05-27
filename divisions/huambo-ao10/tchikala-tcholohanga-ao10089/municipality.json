@@ -1,0 +1,47 @@
+{
+  "id": "AO10089",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tchikala-Tcholohanga",
+    "en": "Tchikala-Tcholohanga",
+    "slug": "tchikala-tcholohanga-ao10089"
+  },
+  "code": {
+    "id": "AO10089",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO10",
+    "level": 1,
+    "name": {
+      "local": "Huambo",
+      "en": "Huambo",
+      "slug": "huambo-ao10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.864",
+    "lon": "16.089"
+  },
+  "metadata": {},
+  "source": {}
+}

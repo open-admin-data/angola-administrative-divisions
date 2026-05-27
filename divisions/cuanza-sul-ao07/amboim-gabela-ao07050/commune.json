@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO07050170",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Assango",
+      "en": "Assango",
+      "slug": "assango-ao07050170"
+    },
+    "code": {
+      "id": "AO07050170",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07050",
+      "level": 2,
+      "name": {
+        "local": "Amboim (Gabela)",
+        "en": "Amboim (Gabela)",
+        "slug": "amboim-gabela-ao07050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07050",
+        "level": 2,
+        "name": {
+          "local": "Amboim (Gabela)",
+          "en": "Amboim (Gabela)",
+          "slug": "amboim-gabela-ao07050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.922",
+      "lon": "14.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07050171",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gabela",
+      "en": "Gabela",
+      "slug": "gabela-ao07050171"
+    },
+    "code": {
+      "id": "AO07050171",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07050",
+      "level": 2,
+      "name": {
+        "local": "Amboim (Gabela)",
+        "en": "Amboim (Gabela)",
+        "slug": "amboim-gabela-ao07050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07050",
+        "level": 2,
+        "name": {
+          "local": "Amboim (Gabela)",
+          "en": "Amboim (Gabela)",
+          "slug": "amboim-gabela-ao07050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.83",
+      "lon": "14.38"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

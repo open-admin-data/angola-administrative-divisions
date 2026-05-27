@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO01001001",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ambriz",
+      "en": "Ambriz",
+      "slug": "ambriz-ao01001001"
+    },
+    "code": {
+      "id": "AO01001001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01001",
+      "level": 2,
+      "name": {
+        "local": "Ambriz",
+        "en": "Ambriz",
+        "slug": "ambriz-ao01001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01001",
+        "level": 2,
+        "name": {
+          "local": "Ambriz",
+          "en": "Ambriz",
+          "slug": "ambriz-ao01001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.86",
+      "lon": "13.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01001002",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bela Vista",
+      "en": "Bela Vista",
+      "slug": "bela-vista-ao01001002"
+    },
+    "code": {
+      "id": "AO01001002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01001",
+      "level": 2,
+      "name": {
+        "local": "Ambriz",
+        "en": "Ambriz",
+        "slug": "ambriz-ao01001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01001",
+        "level": 2,
+        "name": {
+          "local": "Ambriz",
+          "en": "Ambriz",
+          "slug": "ambriz-ao01001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.852",
+      "lon": "13.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01001003",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tabi",
+      "en": "Tabi",
+      "slug": "tabi-ao01001003"
+    },
+    "code": {
+      "id": "AO01001003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01001",
+      "level": 2,
+      "name": {
+        "local": "Ambriz",
+        "en": "Ambriz",
+        "slug": "ambriz-ao01001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01001",
+        "level": 2,
+        "name": {
+          "local": "Ambriz",
+          "en": "Ambriz",
+          "slug": "ambriz-ao01001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.135",
+      "lon": "13.429"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

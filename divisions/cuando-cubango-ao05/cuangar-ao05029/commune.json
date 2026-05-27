@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO05029108",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bondo",
+      "en": "Bondo",
+      "slug": "bondo-ao05029108"
+    },
+    "code": {
+      "id": "AO05029108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05029",
+      "level": 2,
+      "name": {
+        "local": "Cuangar",
+        "en": "Cuangar",
+        "slug": "cuangar-ao05029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05029",
+        "level": 2,
+        "name": {
+          "local": "Cuangar",
+          "en": "Cuangar",
+          "slug": "cuangar-ao05029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.824",
+      "lon": "18.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05029109",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cuangar",
+      "en": "Cuangar",
+      "slug": "cuangar-ao05029109"
+    },
+    "code": {
+      "id": "AO05029109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05029",
+      "level": 2,
+      "name": {
+        "local": "Cuangar",
+        "en": "Cuangar",
+        "slug": "cuangar-ao05029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05029",
+        "level": 2,
+        "name": {
+          "local": "Cuangar",
+          "en": "Cuangar",
+          "slug": "cuangar-ao05029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.494",
+      "lon": "18.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05029110",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Savate",
+      "en": "Savate",
+      "slug": "savate-ao05029110"
+    },
+    "code": {
+      "id": "AO05029110",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05029",
+      "level": 2,
+      "name": {
+        "local": "Cuangar",
+        "en": "Cuangar",
+        "slug": "cuangar-ao05029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05029",
+        "level": 2,
+        "name": {
+          "local": "Cuangar",
+          "en": "Cuangar",
+          "slug": "cuangar-ao05029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.882",
+      "lon": "17.58"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

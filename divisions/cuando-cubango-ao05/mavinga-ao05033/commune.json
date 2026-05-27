@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO05033121",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kunjamba",
+      "en": "Kunjamba",
+      "slug": "kunjamba-ao05033121"
+    },
+    "code": {
+      "id": "AO05033121",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05033",
+      "level": 2,
+      "name": {
+        "local": "Mavinga",
+        "en": "Mavinga",
+        "slug": "mavinga-ao05033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05033",
+        "level": 2,
+        "name": {
+          "local": "Mavinga",
+          "en": "Mavinga",
+          "slug": "mavinga-ao05033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.262",
+      "lon": "20.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05033122",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kutuile",
+      "en": "Kutuile",
+      "slug": "kutuile-ao05033122"
+    },
+    "code": {
+      "id": "AO05033122",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05033",
+      "level": 2,
+      "name": {
+        "local": "Mavinga",
+        "en": "Mavinga",
+        "slug": "mavinga-ao05033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05033",
+        "level": 2,
+        "name": {
+          "local": "Mavinga",
+          "en": "Mavinga",
+          "slug": "mavinga-ao05033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.329",
+      "lon": "20.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05033123",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luengue",
+      "en": "Luengue",
+      "slug": "luengue-ao05033123"
+    },
+    "code": {
+      "id": "AO05033123",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05033",
+      "level": 2,
+      "name": {
+        "local": "Mavinga",
+        "en": "Mavinga",
+        "slug": "mavinga-ao05033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05033",
+        "level": 2,
+        "name": {
+          "local": "Mavinga",
+          "en": "Mavinga",
+          "slug": "mavinga-ao05033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.827",
+      "lon": "20.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05033124",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mavinga",
+      "en": "Mavinga",
+      "slug": "mavinga-ao05033124"
+    },
+    "code": {
+      "id": "AO05033124",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05033",
+      "level": 2,
+      "name": {
+        "local": "Mavinga",
+        "en": "Mavinga",
+        "slug": "mavinga-ao05033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05033",
+        "level": 2,
+        "name": {
+          "local": "Mavinga",
+          "en": "Mavinga",
+          "slug": "mavinga-ao05033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.024",
+      "lon": "20.076"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

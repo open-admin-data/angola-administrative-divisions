@@ -1,0 +1,47 @@
+{
+  "id": "AO09079",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Quilengues",
+    "en": "Quilengues",
+    "slug": "quilengues-ao09079"
+  },
+  "code": {
+    "id": "AO09079",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO09",
+    "level": 1,
+    "name": {
+      "local": "Huíla",
+      "en": "Huíla",
+      "slug": "hula-ao09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.163",
+    "lon": "13.755"
+  },
+  "metadata": {},
+  "source": {}
+}

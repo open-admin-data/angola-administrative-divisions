@@ -1,0 +1,47 @@
+{
+  "id": "AO15132",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Luau",
+    "en": "Luau",
+    "slug": "luau-ao15132"
+  },
+  "code": {
+    "id": "AO15132",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO15",
+    "level": 1,
+    "name": {
+      "local": "Moxico",
+      "en": "Moxico",
+      "slug": "moxico-ao15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO15",
+      "level": 1,
+      "name": {
+        "local": "Moxico",
+        "en": "Moxico",
+        "slug": "moxico-ao15"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.934",
+    "lon": "21.933"
+  },
+  "metadata": {},
+  "source": {}
+}

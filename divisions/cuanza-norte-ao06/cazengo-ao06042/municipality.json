@@ -1,0 +1,47 @@
+{
+  "id": "AO06042",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cazengo",
+    "en": "Cazengo",
+    "slug": "cazengo-ao06042"
+  },
+  "code": {
+    "id": "AO06042",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO06",
+    "level": 1,
+    "name": {
+      "local": "Cuanza Norte",
+      "en": "Cuanza Norte",
+      "slug": "cuanza-norte-ao06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.285",
+    "lon": "14.74"
+  },
+  "metadata": {},
+  "source": {}
+}

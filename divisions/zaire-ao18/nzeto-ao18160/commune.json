@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO18160513",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kindege",
+      "en": "Kindege",
+      "slug": "kindege-ao18160513"
+    },
+    "code": {
+      "id": "AO18160513",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18160",
+      "level": 2,
+      "name": {
+        "local": "N'Zeto",
+        "en": "N'Zeto",
+        "slug": "nzeto-ao18160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18160",
+        "level": 2,
+        "name": {
+          "local": "N'Zeto",
+          "en": "N'Zeto",
+          "slug": "nzeto-ao18160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.13",
+      "lon": "13.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18160514",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Musserra",
+      "en": "Musserra",
+      "slug": "musserra-ao18160514"
+    },
+    "code": {
+      "id": "AO18160514",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18160",
+      "level": 2,
+      "name": {
+        "local": "N'Zeto",
+        "en": "N'Zeto",
+        "slug": "nzeto-ao18160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18160",
+        "level": 2,
+        "name": {
+          "local": "N'Zeto",
+          "en": "N'Zeto",
+          "slug": "nzeto-ao18160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.537",
+      "lon": "13.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18160515",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nzeto",
+      "en": "Nzeto",
+      "slug": "nzeto-ao18160515"
+    },
+    "code": {
+      "id": "AO18160515",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18160",
+      "level": 2,
+      "name": {
+        "local": "N'Zeto",
+        "en": "N'Zeto",
+        "slug": "nzeto-ao18160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18160",
+        "level": 2,
+        "name": {
+          "local": "N'Zeto",
+          "en": "N'Zeto",
+          "slug": "nzeto-ao18160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.178",
+      "lon": "13.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18160516",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Quibala Norte",
+      "en": "Quibala Norte",
+      "slug": "quibala-norte-ao18160516"
+    },
+    "code": {
+      "id": "AO18160516",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18160",
+      "level": 2,
+      "name": {
+        "local": "N'Zeto",
+        "en": "N'Zeto",
+        "slug": "nzeto-ao18160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18160",
+        "level": 2,
+        "name": {
+          "local": "N'Zeto",
+          "en": "N'Zeto",
+          "slug": "nzeto-ao18160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.467",
+      "lon": "13.667"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

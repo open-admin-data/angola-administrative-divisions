@@ -1,0 +1,519 @@
+[
+  {
+    "id": "AO10081",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bailundo",
+      "en": "Bailundo",
+      "slug": "bailundo-ao10081"
+    },
+    "code": {
+      "id": "AO10081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.924",
+      "lon": "15.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10082",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caála",
+      "en": "Caála",
+      "slug": "cala-ao10082"
+    },
+    "code": {
+      "id": "AO10082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.252",
+      "lon": "15.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10083",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Catchiungo",
+      "en": "Catchiungo",
+      "slug": "catchiungo-ao10083"
+    },
+    "code": {
+      "id": "AO10083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.841",
+      "lon": "16.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10084",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ecunha (Ekunha)",
+      "en": "Ecunha (Ekunha)",
+      "slug": "ecunha-ekunha-ao10084"
+    },
+    "code": {
+      "id": "AO10084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.522",
+      "lon": "15.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10085",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Huambo",
+      "en": "Huambo",
+      "slug": "huambo-ao10085"
+    },
+    "code": {
+      "id": "AO10085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.828",
+      "lon": "15.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10086",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Londuimbale",
+      "en": "Londuimbale",
+      "slug": "londuimbale-ao10086"
+    },
+    "code": {
+      "id": "AO10086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.252",
+      "lon": "15.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10087",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Longonjo",
+      "en": "Longonjo",
+      "slug": "longonjo-ao10087"
+    },
+    "code": {
+      "id": "AO10087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.043",
+      "lon": "15.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10088",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mungo",
+      "en": "Mungo",
+      "slug": "mungo-ao10088"
+    },
+    "code": {
+      "id": "AO10088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.737",
+      "lon": "16.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10089",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tchikala-Tcholohanga",
+      "en": "Tchikala-Tcholohanga",
+      "slug": "tchikala-tcholohanga-ao10089"
+    },
+    "code": {
+      "id": "AO10089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.864",
+      "lon": "16.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10090",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tchinjenje",
+      "en": "Tchinjenje",
+      "slug": "tchinjenje-ao10090"
+    },
+    "code": {
+      "id": "AO10090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.84",
+      "lon": "14.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10091",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ukuma",
+      "en": "Ukuma",
+      "slug": "ukuma-ao10091"
+    },
+    "code": {
+      "id": "AO10091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.762",
+      "lon": "15.129"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

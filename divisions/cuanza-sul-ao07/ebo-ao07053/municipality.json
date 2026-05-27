@@ -1,0 +1,47 @@
+{
+  "id": "AO07053",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ebo",
+    "en": "Ebo",
+    "slug": "ebo-ao07053"
+  },
+  "code": {
+    "id": "AO07053",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO07",
+    "level": 1,
+    "name": {
+      "local": "Cuanza Sul",
+      "en": "Cuanza Sul",
+      "slug": "cuanza-sul-ao07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.89",
+    "lon": "14.751"
+  },
+  "metadata": {},
+  "source": {}
+}

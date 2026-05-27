@@ -1,0 +1,284 @@
+[
+  {
+    "id": "AO18158",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuimba",
+      "en": "Cuimba",
+      "slug": "cuimba-ao18158"
+    },
+    "code": {
+      "id": "AO18158",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18",
+      "level": 1,
+      "name": {
+        "local": "Zaire",
+        "en": "Zaire",
+        "slug": "zaire-ao18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.239",
+      "lon": "14.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18159",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mbanza Congo",
+      "en": "Mbanza Congo",
+      "slug": "mbanza-congo-ao18159"
+    },
+    "code": {
+      "id": "AO18159",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18",
+      "level": 1,
+      "name": {
+        "local": "Zaire",
+        "en": "Zaire",
+        "slug": "zaire-ao18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.36",
+      "lon": "14.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18160",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "N'Zeto",
+      "en": "N'Zeto",
+      "slug": "nzeto-ao18160"
+    },
+    "code": {
+      "id": "AO18160",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18",
+      "level": 1,
+      "name": {
+        "local": "Zaire",
+        "en": "Zaire",
+        "slug": "zaire-ao18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.346",
+      "lon": "13.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18161",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nóqui",
+      "en": "Nóqui",
+      "slug": "nqui-ao18161"
+    },
+    "code": {
+      "id": "AO18161",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18",
+      "level": 1,
+      "name": {
+        "local": "Zaire",
+        "en": "Zaire",
+        "slug": "zaire-ao18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.196",
+      "lon": "13.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18162",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Soyo",
+      "en": "Soyo",
+      "slug": "soyo-ao18162"
+    },
+    "code": {
+      "id": "AO18162",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18",
+      "level": 1,
+      "name": {
+        "local": "Zaire",
+        "en": "Zaire",
+        "slug": "zaire-ao18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.301",
+      "lon": "12.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18163",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tomboco",
+      "en": "Tomboco",
+      "slug": "tomboco-ao18163"
+    },
+    "code": {
+      "id": "AO18163",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18",
+      "level": 1,
+      "name": {
+        "local": "Zaire",
+        "en": "Zaire",
+        "slug": "zaire-ao18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.684",
+      "lon": "13.407"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

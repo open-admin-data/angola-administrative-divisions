@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO17154496",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cambambe",
+      "en": "Cambambe",
+      "slug": "cambambe-ao17154496"
+    },
+    "code": {
+      "id": "AO17154496",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17154",
+      "level": 2,
+      "name": {
+        "local": "Quitexe",
+        "en": "Quitexe",
+        "slug": "quitexe-ao17154"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17154",
+        "level": 2,
+        "name": {
+          "local": "Quitexe",
+          "en": "Quitexe",
+          "slug": "quitexe-ao17154"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.107",
+      "lon": "14.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17154497",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Quifuafua",
+      "en": "Quifuafua",
+      "slug": "quifuafua-ao17154497"
+    },
+    "code": {
+      "id": "AO17154497",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17154",
+      "level": 2,
+      "name": {
+        "local": "Quitexe",
+        "en": "Quitexe",
+        "slug": "quitexe-ao17154"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17154",
+        "level": 2,
+        "name": {
+          "local": "Quitexe",
+          "en": "Quitexe",
+          "slug": "quitexe-ao17154"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.257",
+      "lon": "14.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17154498",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Quitende",
+      "en": "Quitende",
+      "slug": "quitende-ao17154498"
+    },
+    "code": {
+      "id": "AO17154498",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17154",
+      "level": 2,
+      "name": {
+        "local": "Quitexe",
+        "en": "Quitexe",
+        "slug": "quitexe-ao17154"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17154",
+        "level": 2,
+        "name": {
+          "local": "Quitexe",
+          "en": "Quitexe",
+          "slug": "quitexe-ao17154"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.034",
+      "lon": "14.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17154499",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Quitexe",
+      "en": "Quitexe",
+      "slug": "quitexe-ao17154499"
+    },
+    "code": {
+      "id": "AO17154499",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17154",
+      "level": 2,
+      "name": {
+        "local": "Quitexe",
+        "en": "Quitexe",
+        "slug": "quitexe-ao17154"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17154",
+        "level": 2,
+        "name": {
+          "local": "Quitexe",
+          "en": "Quitexe",
+          "slug": "quitexe-ao17154"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.962",
+      "lon": "15.069"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,231 @@
+# Huíla — Angola Administrative Divisions
+
+> 14 municipalitys, 38 communes
+> Code: AO09
+> Coordinates: -14.852, 15.01
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Caconda
+
+Code: AO09068, Coordinates: -13.755, 15.137
+Communes: 4
+
+#### Gungue
+
+Code: AO09068226, Coordinates: -13.869, 15.319
+
+#### Kakonda
+
+Code: AO09068227, Coordinates: -13.785, 15.035
+
+#### Kusse
+
+Code: AO09068228, Coordinates: -13.544, 15.203
+
+#### Uaba
+
+Code: AO09068229, Coordinates: -13.849, 14.859
+
+### Cacula
+
+Code: AO09165, Coordinates: -14.413, 14.385
+Communes: 4
+
+#### Cacula
+
+Code: AO09165250, Coordinates: -14.52, 14.144
+
+#### Kilengue
+
+Code: AO09165259, Coordinates: -14.264, 14.088
+
+#### Ngola
+
+Code: AO09165232, Coordinates: -14.388, 14.543
+
+#### Tchipungo
+
+Code: AO09165260, Coordinates: -14.605, 14.319
+
+### Caluquembe
+
+Code: AO09069, Coordinates: -13.928, 14.557
+Communes: 3
+
+#### Kalepi
+
+Code: AO09069230, Coordinates: -13.786, 14.473
+
+#### Kalukembe
+
+Code: AO09069231, Coordinates: -13.854, 14.651
+
+#### Ngola
+
+Code: AO09069232, Coordinates: -14.098, 14.482
+
+### Chibia
+
+Code: AO09070, Coordinates: -15.208, 13.824
+Communes: 4
+
+#### Chibia
+
+Code: AO09070233, Coordinates: -15.313, 13.748
+
+#### Jau
+
+Code: AO09070234, Coordinates: -15.421, 13.572
+
+#### Kapunda Kavilongo
+
+Code: AO09070235, Coordinates: -14.934, 14.005
+
+#### Kihita
+
+Code: AO09070236, Coordinates: -15.344, 13.936
+
+### Chicomba
+
+Code: AO09071, Coordinates: -14.318, 15.029
+Communes: 2
+
+#### Chicomba
+
+Code: AO09071237, Coordinates: -14.307, 14.825
+
+#### Cutenda
+
+Code: AO09071238, Coordinates: -14.369, 15.119
+
+### Chipindo
+
+Code: AO09072, Coordinates: -13.915, 15.712
+Communes: 2
+
+#### Bambi
+
+Code: AO09072239, Coordinates: -14.166, 15.571
+
+#### Chipindo
+
+Code: AO09072240, Coordinates: -13.723, 15.826
+
+### Cuvango (Kuvango)
+
+Code: AO09076, Coordinates: -14.275, 16.303
+Communes: 3
+
+#### Galangue
+
+Code: AO09076247, Coordinates: -13.783, 16.194
+
+#### Kuvango
+
+Code: AO09076248, Coordinates: -14.679, 16.413
+
+#### Vikungo
+
+Code: AO09076249, Coordinates: -13.807, 16.429
+
+### Gambos (ex-Chiange)
+
+Code: AO09073, Coordinates: -15.833, 14.234
+Communes: 2
+
+#### Chiange
+
+Code: AO09073241, Coordinates: -15.961, 13.8
+
+#### Chimbemba
+
+Code: AO09073242, Coordinates: -15.756, 14.436
+
+### Humpata
+
+Code: AO09074, Coordinates: -15.098, 13.384
+Communes: 1
+
+#### Humpata
+
+Code: AO09074243, Coordinates: -15.098, 13.384
+
+### Jamba
+
+Code: AO09075, Coordinates: -14.783, 15.816
+Communes: 3
+
+#### Dongo
+
+Code: AO09075244, Coordinates: -14.529, 15.574
+
+#### Jamba
+
+Code: AO09075245, Coordinates: -14.764, 15.959
+
+#### Kassinga
+
+Code: AO09075246, Coordinates: -15.166, 15.927
+
+### Lubango
+
+Code: AO09077, Coordinates: -14.788, 13.737
+Communes: 3
+
+#### Hoque
+
+Code: AO09077251, Coordinates: -14.666, 13.832
+
+#### Huila
+
+Code: AO09077252, Coordinates: -15.018, 13.697
+
+#### Lubango
+
+Code: AO09077253, Coordinates: -14.836, 13.559
+
+### Matala
+
+Code: AO09078, Coordinates: -15.252, 15.192
+Communes: 3
+
+#### Kapelongo
+
+Code: AO09078254, Coordinates: -14.967, 15.221
+
+#### Matala
+
+Code: AO09078255, Coordinates: -14.687, 15.197
+
+#### Mulondo
+
+Code: AO09078256, Coordinates: -15.572, 15.174
+
+### Quilengues
+
+Code: AO09079, Coordinates: -14.163, 13.755
+Communes: 3
+
+#### Dinde
+
+Code: AO09079257, Coordinates: -14.307, 13.806
+
+#### Impulo
+
+Code: AO09079258, Coordinates: -13.987, 13.777
+
+#### Kilengue
+
+Code: AO09079259, Coordinates: -14.031, 14.157
+
+### Quipungo (Tchipungo)
+
+Code: AO09080, Coordinates: -15.073, 14.583
+Communes: 1
+
+#### Tchipungo
+
+Code: AO09080260, Coordinates: -15.073, 14.583
+

@@ -1,0 +1,199 @@
+# Benguela — Angola Administrative Divisions
+
+> 10 municipalitys, 35 communes
+> Code: AO02
+> Coordinates: -12.819, 13.9
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Baía Farta
+
+Code: AO02006, Coordinates: -13.104, 13.257
+Communes: 4
+
+#### Baia Farta
+
+Code: AO02006024, Coordinates: -12.805, 13.188
+
+#### Dombe Grande
+
+Code: AO02006025, Coordinates: -13.223, 13.079
+
+#### Ekimina
+
+Code: AO02006026, Coordinates: -13.41, 12.787
+
+#### Kalahanga
+
+Code: AO02006027, Coordinates: -13.05, 13.451
+
+### Balombo
+
+Code: AO02007, Coordinates: -12.355, 14.752
+Communes: 3
+
+#### Balombo
+
+Code: AO02007028, Coordinates: -12.283, 14.826
+
+#### Chindumbo
+
+Code: AO02007029, Coordinates: -12.504, 14.864
+
+#### Chingongo
+
+Code: AO02007030, Coordinates: -12.382, 14.589
+
+### Benguela
+
+Code: AO02008, Coordinates: -12.811, 13.612
+Communes: 1
+
+#### Benguela
+
+Code: AO02008031, Coordinates: -12.811, 13.612
+
+### Bocoio
+
+Code: AO02009, Coordinates: -12.287, 14.22
+Communes: 5
+
+#### Bocoio
+
+Code: AO02009032, Coordinates: -12.505, 14.173
+
+#### Cavimbe
+
+Code: AO02009033, Coordinates: -12.183, 14.266
+
+#### Chila
+
+Code: AO02009034, Coordinates: -12.034, 14.435
+
+#### Monte Belo
+
+Code: AO02009035, Coordinates: -12.49, 14.423
+
+#### Passe
+
+Code: AO02009036, Coordinates: -12.561, 13.944
+
+### Caimbambo
+
+Code: AO02010, Coordinates: -13.082, 13.95
+Communes: 5
+
+#### Cayavi
+
+Code: AO02010037, Coordinates: -12.851, 13.923
+
+#### Kaimbambo
+
+Code: AO02010038, Coordinates: -13.11, 13.998
+
+#### Kanhamela
+
+Code: AO02010039, Coordinates: -13.262, 14.089
+
+#### Katengue
+
+Code: AO02010040, Coordinates: -13.136, 13.767
+
+#### Wyiagombe
+
+Code: AO02010041, Coordinates: -12.993, 14.129
+
+### Catumbela
+
+Code: AO02164, Coordinates: -12.497, 13.652
+Communes: 3
+
+#### Biopio
+
+Code: AO02164053, Coordinates: -12.459, 13.752
+
+#### Katumbela
+
+Code: AO02164056, Coordinates: -12.507, 13.615
+
+#### Lobito
+
+Code: AO02164057, Coordinates: -12.429, 13.576
+
+### Chongoroi
+
+Code: AO02011, Coordinates: -13.499, 13.761
+Communes: 2
+
+#### Bolonguela
+
+Code: AO02011042, Coordinates: -13.484, 13.549
+
+#### Chongoroi
+
+Code: AO02011043, Coordinates: -13.605, 14.053
+
+### Cubal
+
+Code: AO02012, Coordinates: -13.157, 14.392
+Communes: 4
+
+#### Cubal
+
+Code: AO02012044, Coordinates: -13.061, 14.368
+
+#### Kapupa
+
+Code: AO02012045, Coordinates: -13.405, 14.252
+
+#### Lambala
+
+Code: AO02012046, Coordinates: -13.417, 14.522
+
+#### Quendo
+
+Code: AO02012047, Coordinates: -12.812, 14.274
+
+### Ganda
+
+Code: AO02013, Coordinates: -13.122, 14.764
+Communes: 5
+
+#### Babaera
+
+Code: AO02013048, Coordinates: -13.003, 14.813
+
+#### Chikuma
+
+Code: AO02013049, Coordinates: -13.473, 14.938
+
+#### Ebanga
+
+Code: AO02013050, Coordinates: -12.729, 14.658
+
+#### Ganda
+
+Code: AO02013051, Coordinates: -12.921, 14.571
+
+#### Kaseke
+
+Code: AO02013052, Coordinates: -13.326, 14.782
+
+### Lobito
+
+Code: AO02014, Coordinates: -12.096, 13.899
+Communes: 3
+
+#### Egito-Praia
+
+Code: AO02014054, Coordinates: -11.887, 13.945
+
+#### Kanjala
+
+Code: AO02014055, Coordinates: -12.153, 13.88
+
+#### Lobito
+
+Code: AO02014057, Coordinates: -12.328, 13.746
+

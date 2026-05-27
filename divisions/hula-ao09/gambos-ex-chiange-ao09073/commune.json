@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO09073241",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chiange",
+      "en": "Chiange",
+      "slug": "chiange-ao09073241"
+    },
+    "code": {
+      "id": "AO09073241",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09073",
+      "level": 2,
+      "name": {
+        "local": "Gambos (ex-Chiange)",
+        "en": "Gambos (ex-Chiange)",
+        "slug": "gambos-ex-chiange-ao09073"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09073",
+        "level": 2,
+        "name": {
+          "local": "Gambos (ex-Chiange)",
+          "en": "Gambos (ex-Chiange)",
+          "slug": "gambos-ex-chiange-ao09073"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.961",
+      "lon": "13.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09073242",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chimbemba",
+      "en": "Chimbemba",
+      "slug": "chimbemba-ao09073242"
+    },
+    "code": {
+      "id": "AO09073242",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09073",
+      "level": 2,
+      "name": {
+        "local": "Gambos (ex-Chiange)",
+        "en": "Gambos (ex-Chiange)",
+        "slug": "gambos-ex-chiange-ao09073"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09073",
+        "level": 2,
+        "name": {
+          "local": "Gambos (ex-Chiange)",
+          "en": "Gambos (ex-Chiange)",
+          "slug": "gambos-ex-chiange-ao09073"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.756",
+      "lon": "14.436"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

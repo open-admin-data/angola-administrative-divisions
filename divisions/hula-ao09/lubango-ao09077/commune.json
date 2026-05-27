@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO09077251",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hoque",
+      "en": "Hoque",
+      "slug": "hoque-ao09077251"
+    },
+    "code": {
+      "id": "AO09077251",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09077",
+      "level": 2,
+      "name": {
+        "local": "Lubango",
+        "en": "Lubango",
+        "slug": "lubango-ao09077"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09077",
+        "level": 2,
+        "name": {
+          "local": "Lubango",
+          "en": "Lubango",
+          "slug": "lubango-ao09077"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.666",
+      "lon": "13.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09077252",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Huila",
+      "en": "Huila",
+      "slug": "huila-ao09077252"
+    },
+    "code": {
+      "id": "AO09077252",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09077",
+      "level": 2,
+      "name": {
+        "local": "Lubango",
+        "en": "Lubango",
+        "slug": "lubango-ao09077"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09077",
+        "level": 2,
+        "name": {
+          "local": "Lubango",
+          "en": "Lubango",
+          "slug": "lubango-ao09077"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.018",
+      "lon": "13.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09077253",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lubango",
+      "en": "Lubango",
+      "slug": "lubango-ao09077253"
+    },
+    "code": {
+      "id": "AO09077253",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09077",
+      "level": 2,
+      "name": {
+        "local": "Lubango",
+        "en": "Lubango",
+        "slug": "lubango-ao09077"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09077",
+        "level": 2,
+        "name": {
+          "local": "Lubango",
+          "en": "Lubango",
+          "slug": "lubango-ao09077"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.836",
+      "lon": "13.559"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

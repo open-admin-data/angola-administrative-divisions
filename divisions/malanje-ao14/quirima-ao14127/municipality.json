@@ -1,0 +1,47 @@
+{
+  "id": "AO14127",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Quirima",
+    "en": "Quirima",
+    "slug": "quirima-ao14127"
+  },
+  "code": {
+    "id": "AO14127",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO14",
+    "level": 1,
+    "name": {
+      "local": "Malanje",
+      "en": "Malanje",
+      "slug": "malanje-ao14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.015",
+    "lon": "18.266"
+  },
+  "metadata": {},
+  "source": {}
+}

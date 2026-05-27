@@ -1,0 +1,566 @@
+[
+  {
+    "id": "AO07050",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Amboim (Gabela)",
+      "en": "Amboim (Gabela)",
+      "slug": "amboim-gabela-ao07050"
+    },
+    "code": {
+      "id": "AO07050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.9",
+      "lon": "14.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07051",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cassongue",
+      "en": "Cassongue",
+      "slug": "cassongue-ao07051"
+    },
+    "code": {
+      "id": "AO07051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.787",
+      "lon": "14.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07061",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cela (Waku Kungo)",
+      "en": "Cela (Waku Kungo)",
+      "slug": "cela-waku-kungo-ao07061"
+    },
+    "code": {
+      "id": "AO07061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.31",
+      "lon": "15.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07052",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Conda",
+      "en": "Conda",
+      "slug": "conda-ao07052"
+    },
+    "code": {
+      "id": "AO07052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.164",
+      "lon": "14.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07053",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ebo",
+      "en": "Ebo",
+      "slug": "ebo-ao07053"
+    },
+    "code": {
+      "id": "AO07053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.89",
+      "lon": "14.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07054",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Libolo (Calulo)",
+      "en": "Libolo (Calulo)",
+      "slug": "libolo-calulo-ao07054"
+    },
+    "code": {
+      "id": "AO07054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.079",
+      "lon": "14.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07055",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mussende",
+      "en": "Mussende",
+      "slug": "mussende-ao07055"
+    },
+    "code": {
+      "id": "AO07055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.36",
+      "lon": "16.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07056",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Porto Amboim",
+      "en": "Porto Amboim",
+      "slug": "porto-amboim-ao07056"
+    },
+    "code": {
+      "id": "AO07056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.617",
+      "lon": "14.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07057",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quibala",
+      "en": "Quibala",
+      "slug": "quibala-ao07057"
+    },
+    "code": {
+      "id": "AO07057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.76",
+      "lon": "15.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07058",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quilenda",
+      "en": "Quilenda",
+      "slug": "quilenda-ao07058"
+    },
+    "code": {
+      "id": "AO07058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.529",
+      "lon": "14.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07059",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Seles (Uku Seles)",
+      "en": "Seles (Uku Seles)",
+      "slug": "seles-uku-seles-ao07059"
+    },
+    "code": {
+      "id": "AO07059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.438",
+      "lon": "14.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07060",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sumbe (Ngangula)",
+      "en": "Sumbe (Ngangula)",
+      "slug": "sumbe-ngangula-ao07060"
+    },
+    "code": {
+      "id": "AO07060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.436",
+      "lon": "13.924"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

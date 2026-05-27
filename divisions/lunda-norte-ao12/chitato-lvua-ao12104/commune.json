@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO12104333",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chitato",
+      "en": "Chitato",
+      "slug": "chitato-ao12104333"
+    },
+    "code": {
+      "id": "AO12104333",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12104",
+      "level": 2,
+      "name": {
+        "local": "Chitato (Lóvua)",
+        "en": "Chitato (Lóvua)",
+        "slug": "chitato-lvua-ao12104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12104",
+        "level": 2,
+        "name": {
+          "local": "Chitato (Lóvua)",
+          "en": "Chitato (Lóvua)",
+          "slug": "chitato-lvua-ao12104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.409",
+      "lon": "20.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12104334",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lovua",
+      "en": "Lovua",
+      "slug": "lovua-ao12104334"
+    },
+    "code": {
+      "id": "AO12104334",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12104",
+      "level": 2,
+      "name": {
+        "local": "Chitato (Lóvua)",
+        "en": "Chitato (Lóvua)",
+        "slug": "chitato-lvua-ao12104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12104",
+        "level": 2,
+        "name": {
+          "local": "Chitato (Lóvua)",
+          "en": "Chitato (Lóvua)",
+          "slug": "chitato-lvua-ao12104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.306",
+      "lon": "20.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12104335",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luachimo",
+      "en": "Luachimo",
+      "slug": "luachimo-ao12104335"
+    },
+    "code": {
+      "id": "AO12104335",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12104",
+      "level": 2,
+      "name": {
+        "local": "Chitato (Lóvua)",
+        "en": "Chitato (Lóvua)",
+        "slug": "chitato-lvua-ao12104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12104",
+        "level": 2,
+        "name": {
+          "local": "Chitato (Lóvua)",
+          "en": "Chitato (Lóvua)",
+          "slug": "chitato-lvua-ao12104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.58",
+      "lon": "20.827"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

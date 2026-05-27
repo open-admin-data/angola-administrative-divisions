@@ -1,0 +1,47 @@
+{
+  "id": "AO12101",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cambulo",
+    "en": "Cambulo",
+    "slug": "cambulo-ao12101"
+  },
+  "code": {
+    "id": "AO12101",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO12",
+    "level": 1,
+    "name": {
+      "local": "Lunda Norte",
+      "en": "Lunda Norte",
+      "slug": "lunda-norte-ao12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.93",
+    "lon": "21.442"
+  },
+  "metadata": {},
+  "source": {}
+}

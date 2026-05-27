@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO04027103",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dinge",
+      "en": "Dinge",
+      "slug": "dinge-ao04027103"
+    },
+    "code": {
+      "id": "AO04027103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04027",
+      "level": 2,
+      "name": {
+        "local": "Cacongo (Landana)",
+        "en": "Cacongo (Landana)",
+        "slug": "cacongo-landana-ao04027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      },
+      {
+        "id": "AO04027",
+        "level": 2,
+        "name": {
+          "local": "Cacongo (Landana)",
+          "en": "Cacongo (Landana)",
+          "slug": "cacongo-landana-ao04027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.044",
+      "lon": "12.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO04027104",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kakongo",
+      "en": "Kakongo",
+      "slug": "kakongo-ao04027104"
+    },
+    "code": {
+      "id": "AO04027104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04027",
+      "level": 2,
+      "name": {
+        "local": "Cacongo (Landana)",
+        "en": "Cacongo (Landana)",
+        "slug": "cacongo-landana-ao04027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      },
+      {
+        "id": "AO04027",
+        "level": 2,
+        "name": {
+          "local": "Cacongo (Landana)",
+          "en": "Cacongo (Landana)",
+          "slug": "cacongo-landana-ao04027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.142",
+      "lon": "12.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO04027105",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Massabi",
+      "en": "Massabi",
+      "slug": "massabi-ao04027105"
+    },
+    "code": {
+      "id": "AO04027105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04027",
+      "level": 2,
+      "name": {
+        "local": "Cacongo (Landana)",
+        "en": "Cacongo (Landana)",
+        "slug": "cacongo-landana-ao04027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      },
+      {
+        "id": "AO04027",
+        "level": 2,
+        "name": {
+          "local": "Cacongo (Landana)",
+          "en": "Cacongo (Landana)",
+          "slug": "cacongo-landana-ao04027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.93",
+      "lon": "12.218"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

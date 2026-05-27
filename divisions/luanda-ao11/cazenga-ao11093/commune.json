@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO11093301",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cazenga",
+      "en": "Cazenga",
+      "slug": "cazenga-ao11093301"
+    },
+    "code": {
+      "id": "AO11093301",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11093",
+      "level": 2,
+      "name": {
+        "local": "Cazenga",
+        "en": "Cazenga",
+        "slug": "cazenga-ao11093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11093",
+        "level": 2,
+        "name": {
+          "local": "Cazenga",
+          "en": "Cazenga",
+          "slug": "cazenga-ao11093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.849",
+      "lon": "13.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11093302",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hoji Ya Henda",
+      "en": "Hoji Ya Henda",
+      "slug": "hoji-ya-henda-ao11093302"
+    },
+    "code": {
+      "id": "AO11093302",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11093",
+      "level": 2,
+      "name": {
+        "local": "Cazenga",
+        "en": "Cazenga",
+        "slug": "cazenga-ao11093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11093",
+        "level": 2,
+        "name": {
+          "local": "Cazenga",
+          "en": "Cazenga",
+          "slug": "cazenga-ao11093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.804",
+      "lon": "13.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11093300",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kikolo",
+      "en": "Kikolo",
+      "slug": "kikolo-ao11093300"
+    },
+    "code": {
+      "id": "AO11093300",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11093",
+      "level": 2,
+      "name": {
+        "local": "Cazenga",
+        "en": "Cazenga",
+        "slug": "cazenga-ao11093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11093",
+        "level": 2,
+        "name": {
+          "local": "Cazenga",
+          "en": "Cazenga",
+          "slug": "cazenga-ao11093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.789",
+      "lon": "13.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11093303",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tala Hadi",
+      "en": "Tala Hadi",
+      "slug": "tala-hadi-ao11093303"
+    },
+    "code": {
+      "id": "AO11093303",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11093",
+      "level": 2,
+      "name": {
+        "local": "Cazenga",
+        "en": "Cazenga",
+        "slug": "cazenga-ao11093"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11093",
+        "level": 2,
+        "name": {
+          "local": "Cazenga",
+          "en": "Cazenga",
+          "slug": "cazenga-ao11093"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.821",
+      "lon": "13.303"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

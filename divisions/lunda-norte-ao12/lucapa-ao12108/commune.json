@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO12108343",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Camissombo",
+      "en": "Camissombo",
+      "slug": "camissombo-ao12108343"
+    },
+    "code": {
+      "id": "AO12108343",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12108",
+      "level": 2,
+      "name": {
+        "local": "Lucapa",
+        "en": "Lucapa",
+        "slug": "lucapa-ao12108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12108",
+        "level": 2,
+        "name": {
+          "local": "Lucapa",
+          "en": "Lucapa",
+          "slug": "lucapa-ao12108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.291",
+      "lon": "20.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12108344",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Capaia",
+      "en": "Capaia",
+      "slug": "capaia-ao12108344"
+    },
+    "code": {
+      "id": "AO12108344",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12108",
+      "level": 2,
+      "name": {
+        "local": "Lucapa",
+        "en": "Lucapa",
+        "slug": "lucapa-ao12108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12108",
+        "level": 2,
+        "name": {
+          "local": "Lucapa",
+          "en": "Lucapa",
+          "slug": "lucapa-ao12108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.36",
+      "lon": "20.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12108345",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lucapa",
+      "en": "Lucapa",
+      "slug": "lucapa-ao12108345"
+    },
+    "code": {
+      "id": "AO12108345",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12108",
+      "level": 2,
+      "name": {
+        "local": "Lucapa",
+        "en": "Lucapa",
+        "slug": "lucapa-ao12108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12108",
+        "level": 2,
+        "name": {
+          "local": "Lucapa",
+          "en": "Lucapa",
+          "slug": "lucapa-ao12108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.415",
+      "lon": "20.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12108346",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Xa-Cassau",
+      "en": "Xa-Cassau",
+      "slug": "xa-cassau-ao12108346"
+    },
+    "code": {
+      "id": "AO12108346",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12108",
+      "level": 2,
+      "name": {
+        "local": "Lucapa",
+        "en": "Lucapa",
+        "slug": "lucapa-ao12108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12108",
+        "level": 2,
+        "name": {
+          "local": "Lucapa",
+          "en": "Lucapa",
+          "slug": "lucapa-ao12108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.973",
+      "lon": "20.157"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO17155500",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alfandega",
+      "en": "Alfandega",
+      "slug": "alfandega-ao17155500"
+    },
+    "code": {
+      "id": "AO17155500",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17155",
+      "level": 2,
+      "name": {
+        "local": "Sanza Pombo",
+        "en": "Sanza Pombo",
+        "slug": "sanza-pombo-ao17155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17155",
+        "level": 2,
+        "name": {
+          "local": "Sanza Pombo",
+          "en": "Sanza Pombo",
+          "slug": "sanza-pombo-ao17155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.367",
+      "lon": "15.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17155501",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cuilo Pombo",
+      "en": "Cuilo Pombo",
+      "slug": "cuilo-pombo-ao17155501"
+    },
+    "code": {
+      "id": "AO17155501",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17155",
+      "level": 2,
+      "name": {
+        "local": "Sanza Pombo",
+        "en": "Sanza Pombo",
+        "slug": "sanza-pombo-ao17155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17155",
+        "level": 2,
+        "name": {
+          "local": "Sanza Pombo",
+          "en": "Sanza Pombo",
+          "slug": "sanza-pombo-ao17155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.102",
+      "lon": "15.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17155502",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sanza Pombo",
+      "en": "Sanza Pombo",
+      "slug": "sanza-pombo-ao17155502"
+    },
+    "code": {
+      "id": "AO17155502",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17155",
+      "level": 2,
+      "name": {
+        "local": "Sanza Pombo",
+        "en": "Sanza Pombo",
+        "slug": "sanza-pombo-ao17155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17155",
+        "level": 2,
+        "name": {
+          "local": "Sanza Pombo",
+          "en": "Sanza Pombo",
+          "slug": "sanza-pombo-ao17155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.259",
+      "lon": "15.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17155503",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Uamba",
+      "en": "Uamba",
+      "slug": "uamba-ao17155503"
+    },
+    "code": {
+      "id": "AO17155503",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17155",
+      "level": 2,
+      "name": {
+        "local": "Sanza Pombo",
+        "en": "Sanza Pombo",
+        "slug": "sanza-pombo-ao17155"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17155",
+        "level": 2,
+        "name": {
+          "local": "Sanza Pombo",
+          "en": "Sanza Pombo",
+          "slug": "sanza-pombo-ao17155"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.224",
+      "lon": "16.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

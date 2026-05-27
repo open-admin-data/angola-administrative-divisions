@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO08063208",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Evale",
+      "en": "Evale",
+      "slug": "evale-ao08063208"
+    },
+    "code": {
+      "id": "AO08063208",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08063",
+      "level": 2,
+      "name": {
+        "local": "Cuanhama",
+        "en": "Cuanhama",
+        "slug": "cuanhama-ao08063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08063",
+        "level": 2,
+        "name": {
+          "local": "Cuanhama",
+          "en": "Cuanhama",
+          "slug": "cuanhama-ao08063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.554",
+      "lon": "15.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08063209",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kafima",
+      "en": "Kafima",
+      "slug": "kafima-ao08063209"
+    },
+    "code": {
+      "id": "AO08063209",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08063",
+      "level": 2,
+      "name": {
+        "local": "Cuanhama",
+        "en": "Cuanhama",
+        "slug": "cuanhama-ao08063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08063",
+        "level": 2,
+        "name": {
+          "local": "Cuanhama",
+          "en": "Cuanhama",
+          "slug": "cuanhama-ao08063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.686",
+      "lon": "16.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08063210",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mongua",
+      "en": "Mongua",
+      "slug": "mongua-ao08063210"
+    },
+    "code": {
+      "id": "AO08063210",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08063",
+      "level": 2,
+      "name": {
+        "local": "Cuanhama",
+        "en": "Cuanhama",
+        "slug": "cuanhama-ao08063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08063",
+        "level": 2,
+        "name": {
+          "local": "Cuanhama",
+          "en": "Cuanhama",
+          "slug": "cuanhama-ao08063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.815",
+      "lon": "15.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08063211",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Onjiva",
+      "en": "Onjiva",
+      "slug": "onjiva-ao08063211"
+    },
+    "code": {
+      "id": "AO08063211",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08063",
+      "level": 2,
+      "name": {
+        "local": "Cuanhama",
+        "en": "Cuanhama",
+        "slug": "cuanhama-ao08063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08063",
+        "level": 2,
+        "name": {
+          "local": "Cuanhama",
+          "en": "Cuanhama",
+          "slug": "cuanhama-ao08063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.074",
+      "lon": "15.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08063212",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Oximolo",
+      "en": "Oximolo",
+      "slug": "oximolo-ao08063212"
+    },
+    "code": {
+      "id": "AO08063212",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08063",
+      "level": 2,
+      "name": {
+        "local": "Cuanhama",
+        "en": "Cuanhama",
+        "slug": "cuanhama-ao08063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08063",
+        "level": 2,
+        "name": {
+          "local": "Cuanhama",
+          "en": "Cuanhama",
+          "slug": "cuanhama-ao08063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.22",
+      "lon": "16.76"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO01043153",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kibaxe",
+      "en": "Kibaxe",
+      "slug": "kibaxe-ao01043153"
+    },
+    "code": {
+      "id": "AO01043153",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01043",
+      "level": 2,
+      "name": {
+        "local": "Dembos-Quibaxe",
+        "en": "Dembos-Quibaxe",
+        "slug": "dembos-quibaxe-ao01043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01043",
+        "level": 2,
+        "name": {
+          "local": "Dembos-Quibaxe",
+          "en": "Dembos-Quibaxe",
+          "slug": "dembos-quibaxe-ao01043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.492",
+      "lon": "14.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01043154",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Paredes",
+      "en": "Paredes",
+      "slug": "paredes-ao01043154"
+    },
+    "code": {
+      "id": "AO01043154",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01043",
+      "level": 2,
+      "name": {
+        "local": "Dembos-Quibaxe",
+        "en": "Dembos-Quibaxe",
+        "slug": "dembos-quibaxe-ao01043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01043",
+        "level": 2,
+        "name": {
+          "local": "Dembos-Quibaxe",
+          "en": "Dembos-Quibaxe",
+          "slug": "dembos-quibaxe-ao01043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.614",
+      "lon": "14.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01043155",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Piri",
+      "en": "Piri",
+      "slug": "piri-ao01043155"
+    },
+    "code": {
+      "id": "AO01043155",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01043",
+      "level": 2,
+      "name": {
+        "local": "Dembos-Quibaxe",
+        "en": "Dembos-Quibaxe",
+        "slug": "dembos-quibaxe-ao01043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01043",
+        "level": 2,
+        "name": {
+          "local": "Dembos-Quibaxe",
+          "en": "Dembos-Quibaxe",
+          "slug": "dembos-quibaxe-ao01043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.501",
+      "lon": "14.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01043156",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "S. Jose das Matas",
+      "en": "S. Jose das Matas",
+      "slug": "s-jose-das-matas-ao01043156"
+    },
+    "code": {
+      "id": "AO01043156",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01043",
+      "level": 2,
+      "name": {
+        "local": "Dembos-Quibaxe",
+        "en": "Dembos-Quibaxe",
+        "slug": "dembos-quibaxe-ao01043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01043",
+        "level": 2,
+        "name": {
+          "local": "Dembos-Quibaxe",
+          "en": "Dembos-Quibaxe",
+          "slug": "dembos-quibaxe-ao01043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.469",
+      "lon": "14.751"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

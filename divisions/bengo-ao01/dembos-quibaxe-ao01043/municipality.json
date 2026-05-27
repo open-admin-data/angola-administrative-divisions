@@ -1,0 +1,47 @@
+{
+  "id": "AO01043",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dembos-Quibaxe",
+    "en": "Dembos-Quibaxe",
+    "slug": "dembos-quibaxe-ao01043"
+  },
+  "code": {
+    "id": "AO01043",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO01",
+    "level": 1,
+    "name": {
+      "local": "Bengo",
+      "en": "Bengo",
+      "slug": "bengo-ao01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO01",
+      "level": 1,
+      "name": {
+        "local": "Bengo",
+        "en": "Bengo",
+        "slug": "bengo-ao01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.548",
+    "lon": "14.532"
+  },
+  "metadata": {},
+  "source": {}
+}

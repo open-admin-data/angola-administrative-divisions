@@ -1,0 +1,30 @@
+{
+  "id": "AO11",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Luanda",
+    "en": "Luanda",
+    "slug": "luanda-ao11"
+  },
+  "code": {
+    "id": "AO11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 7,
+    "commune": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.592",
+    "lon": "13.679"
+  },
+  "metadata": {},
+  "source": {}
+}

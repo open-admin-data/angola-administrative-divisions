@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO02164053",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Biopio",
+      "en": "Biopio",
+      "slug": "biopio-ao02164053"
+    },
+    "code": {
+      "id": "AO02164053",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02164",
+      "level": 2,
+      "name": {
+        "local": "Catumbela",
+        "en": "Catumbela",
+        "slug": "catumbela-ao02164"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02164",
+        "level": 2,
+        "name": {
+          "local": "Catumbela",
+          "en": "Catumbela",
+          "slug": "catumbela-ao02164"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.459",
+      "lon": "13.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02164056",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Katumbela",
+      "en": "Katumbela",
+      "slug": "katumbela-ao02164056"
+    },
+    "code": {
+      "id": "AO02164056",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02164",
+      "level": 2,
+      "name": {
+        "local": "Catumbela",
+        "en": "Catumbela",
+        "slug": "catumbela-ao02164"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02164",
+        "level": 2,
+        "name": {
+          "local": "Catumbela",
+          "en": "Catumbela",
+          "slug": "catumbela-ao02164"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.507",
+      "lon": "13.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02164057",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lobito",
+      "en": "Lobito",
+      "slug": "lobito-ao02164057"
+    },
+    "code": {
+      "id": "AO02164057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02164",
+      "level": 2,
+      "name": {
+        "local": "Catumbela",
+        "en": "Catumbela",
+        "slug": "catumbela-ao02164"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02164",
+        "level": 2,
+        "name": {
+          "local": "Catumbela",
+          "en": "Catumbela",
+          "slug": "catumbela-ao02164"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.429",
+      "lon": "13.576"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

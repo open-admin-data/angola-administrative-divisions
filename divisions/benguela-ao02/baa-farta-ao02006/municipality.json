@@ -1,0 +1,47 @@
+{
+  "id": "AO02006",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Baía Farta",
+    "en": "Baía Farta",
+    "slug": "baa-farta-ao02006"
+  },
+  "code": {
+    "id": "AO02006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO02",
+    "level": 1,
+    "name": {
+      "local": "Benguela",
+      "en": "Benguela",
+      "slug": "benguela-ao02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.104",
+    "lon": "13.257"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "AO17146471",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bungo",
+      "en": "Bungo",
+      "slug": "bungo-ao17146471"
+    },
+    "code": {
+      "id": "AO17146471",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17146",
+      "level": 2,
+      "name": {
+        "local": "Bungo",
+        "en": "Bungo",
+        "slug": "bungo-ao17146"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17146",
+        "level": 2,
+        "name": {
+          "local": "Bungo",
+          "en": "Bungo",
+          "slug": "bungo-ao17146"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.384",
+      "lon": "15.462"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

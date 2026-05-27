@@ -1,0 +1,56 @@
+[
+  {
+    "id": "AO03021084",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kunhinga",
+      "en": "Kunhinga",
+      "slug": "kunhinga-ao03021084"
+    },
+    "code": {
+      "id": "AO03021084",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03021",
+      "level": 2,
+      "name": {
+        "local": "Cunhinga",
+        "en": "Cunhinga",
+        "slug": "cunhinga-ao03021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03021",
+        "level": 2,
+        "name": {
+          "local": "Cunhinga",
+          "en": "Cunhinga",
+          "slug": "cunhinga-ao03021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.974",
+      "lon": "16.822"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

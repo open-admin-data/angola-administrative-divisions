@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO17145468",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Buengas",
+      "en": "Buengas",
+      "slug": "buengas-ao17145468"
+    },
+    "code": {
+      "id": "AO17145468",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17145",
+      "level": 2,
+      "name": {
+        "local": "Buengas",
+        "en": "Buengas",
+        "slug": "buengas-ao17145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17145",
+        "level": 2,
+        "name": {
+          "local": "Buengas",
+          "en": "Buengas",
+          "slug": "buengas-ao17145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.664",
+      "lon": "15.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17145469",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Camboso",
+      "en": "Camboso",
+      "slug": "camboso-ao17145469"
+    },
+    "code": {
+      "id": "AO17145469",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17145",
+      "level": 2,
+      "name": {
+        "local": "Buengas",
+        "en": "Buengas",
+        "slug": "buengas-ao17145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17145",
+        "level": 2,
+        "name": {
+          "local": "Buengas",
+          "en": "Buengas",
+          "slug": "buengas-ao17145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.395",
+      "lon": "15.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17145470",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Quimbianda",
+      "en": "Quimbianda",
+      "slug": "quimbianda-ao17145470"
+    },
+    "code": {
+      "id": "AO17145470",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17145",
+      "level": 2,
+      "name": {
+        "local": "Buengas",
+        "en": "Buengas",
+        "slug": "buengas-ao17145"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17145",
+        "level": 2,
+        "name": {
+          "local": "Buengas",
+          "en": "Buengas",
+          "slug": "buengas-ao17145"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.907",
+      "lon": "15.802"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

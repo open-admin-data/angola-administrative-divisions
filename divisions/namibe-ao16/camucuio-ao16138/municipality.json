@@ -1,0 +1,47 @@
+{
+  "id": "AO16138",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Camucuio",
+    "en": "Camucuio",
+    "slug": "camucuio-ao16138"
+  },
+  "code": {
+    "id": "AO16138",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO16",
+    "level": 1,
+    "name": {
+      "local": "Namibe",
+      "en": "Namibe",
+      "slug": "namibe-ao16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO16",
+      "level": 1,
+      "name": {
+        "local": "Namibe",
+        "en": "Namibe",
+        "slug": "namibe-ao16"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.009",
+    "lon": "13.104"
+  },
+  "metadata": {},
+  "source": {}
+}

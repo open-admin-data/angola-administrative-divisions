@@ -1,0 +1,283 @@
+# Malanje — Angola Administrative Divisions
+
+> 14 municipalitys, 51 communes
+> Code: AO14
+> Coordinates: -9.53, 16.266
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Cacuso
+
+Code: AO14114, Coordinates: -9.473, 15.683
+Communes: 4
+
+#### Cacuso
+
+Code: AO14114365, Coordinates: -9.323, 15.772
+
+#### Kizenga
+
+Code: AO14114366, Coordinates: -9.395, 15.38
+
+#### Lombe
+
+Code: AO14114367, Coordinates: -9.522, 16.013
+
+#### Pungo-Andongo
+
+Code: AO14114368, Coordinates: -9.65, 15.516
+
+### Cahombo
+
+Code: AO14118, Coordinates: -8.715, 16.591
+Communes: 4
+
+#### Bange-Angola
+
+Code: AO14118381, Coordinates: -8.772, 16.905
+
+#### Kahombo
+
+Code: AO14118382, Coordinates: -8.724, 16.559
+
+#### Kambo
+
+Code: AO14118383, Coordinates: -8.448, 16.685
+
+#### Mikanda
+
+Code: AO14118384, Coordinates: -8.522, 16.435
+
+### Calandula
+
+Code: AO14115, Coordinates: -8.737, 15.933
+Communes: 5
+
+#### Calandula
+
+Code: AO14115369, Coordinates: -8.901, 15.985
+
+#### Kateco-Kangola
+
+Code: AO14115370, Coordinates: -8.628, 15.791
+
+#### Kinge
+
+Code: AO14115371, Coordinates: -9.002, 15.751
+
+#### Kota
+
+Code: AO14115372, Coordinates: -9.209, 16.091
+
+#### Kuale
+
+Code: AO14115373, Coordinates: -8.426, 16.125
+
+### Cambundi-Catembo
+
+Code: AO14116, Coordinates: -10.124, 17.882
+Communes: 4
+
+#### Dumba Kabango
+
+Code: AO14116374, Coordinates: -10.321, 17.563
+
+#### Kambundi-Katembo
+
+Code: AO14116375, Coordinates: -10.068, 17.455
+
+#### Quitapa
+
+Code: AO14116349, Coordinates: -10.15, 18.242
+
+#### Tala-Mungongo
+
+Code: AO14116376, Coordinates: -9.766, 17.221
+
+### Cangandala
+
+Code: AO14117, Coordinates: -9.963, 16.636
+Communes: 4
+
+#### Cangandala
+
+Code: AO14117377, Coordinates: -9.813, 16.393
+
+#### Caribo
+
+Code: AO14117378, Coordinates: -9.648, 16.646
+
+#### Kulamagia
+
+Code: AO14117379, Coordinates: -9.806, 16.838
+
+#### Mbembo
+
+Code: AO14117380, Coordinates: -10.122, 16.774
+
+### Cunda-dia-Baze
+
+Code: AO14120, Coordinates: -8.632, 17.387
+Communes: 3
+
+#### Kunda-Dia-Baze
+
+Code: AO14120387, Coordinates: -8.833, 17.227
+
+#### Lemba
+
+Code: AO14120388, Coordinates: -8.519, 17.381
+
+#### Milando
+
+Code: AO14120389, Coordinates: -8.701, 17.496
+
+### Kiuaba-N&#39;Zoji (Cuaba Nzogo)
+
+Code: AO14119, Coordinates: -9.039, 16.415
+Communes: 2
+
+#### Kiwaba-Ngozi
+
+Code: AO14119385, Coordinates: -8.932, 16.423
+
+#### Mufuma
+
+Code: AO14119386, Coordinates: -9.142, 16.609
+
+### Luquembo
+
+Code: AO14121, Coordinates: -10.99, 17.57
+Communes: 4
+
+#### Dombo
+
+Code: AO14121390, Coordinates: -10.497, 17.927
+
+#### Kapunda
+
+Code: AO14121391, Coordinates: -10.584, 17.05
+
+#### Kimbango
+
+Code: AO14121392, Coordinates: -11.185, 17.588
+
+#### Luquembo
+
+Code: AO14121393, Coordinates: -10.672, 17.756
+
+### Malanje
+
+Code: AO14122, Coordinates: -9.447, 16.431
+Communes: 6
+
+#### Cambaxe
+
+Code: AO14122394, Coordinates: -9.388, 16.529
+
+#### Cambondo
+
+Code: AO14122395, Coordinates: -9.456, 16.572
+
+#### Kangando
+
+Code: AO14122396, Coordinates: -9.647, 16.224
+
+#### Kimbamba
+
+Code: AO14122397, Coordinates: -9.354, 16.339
+
+#### Malanje
+
+Code: AO14122398, Coordinates: -9.532, 16.379
+
+#### Ngola-Luige
+
+Code: AO14122399, Coordinates: -9.22, 16.374
+
+### Marimba
+
+Code: AO14123, Coordinates: -8.169, 17.103
+Communes: 3
+
+#### Kabombo
+
+Code: AO14123400, Coordinates: -8.172, 16.825
+
+#### Marimba
+
+Code: AO14123401, Coordinates: -8.4, 17.076
+
+#### Tembo-Aluma
+
+Code: AO14123402, Coordinates: -7.952, 17.168
+
+### Massango
+
+Code: AO14124, Coordinates: -7.768, 16.632
+Communes: 3
+
+#### Kihuhu
+
+Code: AO14124403, Coordinates: -7.624, 16.563
+
+#### Kinguengue
+
+Code: AO14124404, Coordinates: -7.664, 17.058
+
+#### Massango
+
+Code: AO14124405, Coordinates: -7.875, 16.313
+
+### Mucari
+
+Code: AO14125, Coordinates: -9.448, 16.915
+Communes: 4
+
+#### Catala
+
+Code: AO14125406, Coordinates: -9.36, 16.764
+
+#### Caxinga
+
+Code: AO14125407, Coordinates: -9.523, 17.108
+
+#### Mucari
+
+Code: AO14125408, Coordinates: -9.486, 16.845
+
+#### Muquixi
+
+Code: AO14125409, Coordinates: -9.519, 16.708
+
+### Quela
+
+Code: AO14126, Coordinates: -9.406, 17.208
+Communes: 3
+
+#### Moma
+
+Code: AO14126410, Coordinates: -9.736, 17.464
+
+#### Quela
+
+Code: AO14126411, Coordinates: -9.164, 17.008
+
+#### Xandele
+
+Code: AO14126412, Coordinates: -9.226, 17.36
+
+### Quirima
+
+Code: AO14127, Coordinates: -11.015, 18.266
+Communes: 2
+
+#### Quirima
+
+Code: AO14127413, Coordinates: -10.876, 18.152
+
+#### Sautari
+
+Code: AO14127414, Coordinates: -11.015, 18.598
+

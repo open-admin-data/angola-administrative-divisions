@@ -1,0 +1,47 @@
+{
+  "id": "AO05033",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mavinga",
+    "en": "Mavinga",
+    "slug": "mavinga-ao05033"
+  },
+  "code": {
+    "id": "AO05033",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO05",
+    "level": 1,
+    "name": {
+      "local": "Cuando Cubango",
+      "en": "Cuando Cubango",
+      "slug": "cuando-cubango-ao05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO05",
+      "level": 1,
+      "name": {
+        "local": "Cuando Cubango",
+        "en": "Cuando Cubango",
+        "slug": "cuando-cubango-ao05"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.142",
+    "lon": "20.091"
+  },
+  "metadata": {},
+  "source": {}
+}

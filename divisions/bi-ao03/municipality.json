@@ -1,0 +1,425 @@
+[
+  {
+    "id": "AO03015",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Andulo",
+      "en": "Andulo",
+      "slug": "andulo-ao03015"
+    },
+    "code": {
+      "id": "AO03015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03",
+      "level": 1,
+      "name": {
+        "local": "Bié",
+        "en": "Bié",
+        "slug": "bi-ao03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.253",
+      "lon": "16.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03016",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camacupa",
+      "en": "Camacupa",
+      "slug": "camacupa-ao03016"
+    },
+    "code": {
+      "id": "AO03016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03",
+      "level": 1,
+      "name": {
+        "local": "Bié",
+        "en": "Bié",
+        "slug": "bi-ao03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.38",
+      "lon": "17.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03017",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Catabola",
+      "en": "Catabola",
+      "slug": "catabola-ao03017"
+    },
+    "code": {
+      "id": "AO03017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03",
+      "level": 1,
+      "name": {
+        "local": "Bié",
+        "en": "Bié",
+        "slug": "bi-ao03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.138",
+      "lon": "17.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03018",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chinguar",
+      "en": "Chinguar",
+      "slug": "chinguar-ao03018"
+    },
+    "code": {
+      "id": "AO03018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03",
+      "level": 1,
+      "name": {
+        "local": "Bié",
+        "en": "Bié",
+        "slug": "bi-ao03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.547",
+      "lon": "16.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03019",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chitembo",
+      "en": "Chitembo",
+      "slug": "chitembo-ao03019"
+    },
+    "code": {
+      "id": "AO03019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03",
+      "level": 1,
+      "name": {
+        "local": "Bié",
+        "en": "Bié",
+        "slug": "bi-ao03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.579",
+      "lon": "17.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03020",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuemba",
+      "en": "Cuemba",
+      "slug": "cuemba-ao03020"
+    },
+    "code": {
+      "id": "AO03020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03",
+      "level": 1,
+      "name": {
+        "local": "Bié",
+        "en": "Bié",
+        "slug": "bi-ao03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.734",
+      "lon": "18.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03022",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuito (Kuito)",
+      "en": "Cuito (Kuito)",
+      "slug": "cuito-kuito-ao03022"
+    },
+    "code": {
+      "id": "AO03022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03",
+      "level": 1,
+      "name": {
+        "local": "Bié",
+        "en": "Bié",
+        "slug": "bi-ao03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.469",
+      "lon": "17.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03021",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cunhinga",
+      "en": "Cunhinga",
+      "slug": "cunhinga-ao03021"
+    },
+    "code": {
+      "id": "AO03021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03",
+      "level": 1,
+      "name": {
+        "local": "Bié",
+        "en": "Bié",
+        "slug": "bi-ao03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.974",
+      "lon": "16.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03023",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "N'harea",
+      "en": "N'harea",
+      "slug": "nharea-ao03023"
+    },
+    "code": {
+      "id": "AO03023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03",
+      "level": 1,
+      "name": {
+        "local": "Bié",
+        "en": "Bié",
+        "slug": "bi-ao03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.288",
+      "lon": "17.222"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

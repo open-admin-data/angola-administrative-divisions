@@ -1,0 +1,47 @@
+{
+  "id": "AO14114",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cacuso",
+    "en": "Cacuso",
+    "slug": "cacuso-ao14114"
+  },
+  "code": {
+    "id": "AO14114",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO14",
+    "level": 1,
+    "name": {
+      "local": "Malanje",
+      "en": "Malanje",
+      "slug": "malanje-ao14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.473",
+    "lon": "15.683"
+  },
+  "metadata": {},
+  "source": {}
+}

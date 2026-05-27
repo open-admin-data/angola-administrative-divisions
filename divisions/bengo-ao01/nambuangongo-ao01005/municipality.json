@@ -1,0 +1,47 @@
+{
+  "id": "AO01005",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nambuangongo",
+    "en": "Nambuangongo",
+    "slug": "nambuangongo-ao01005"
+  },
+  "code": {
+    "id": "AO01005",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO01",
+    "level": 1,
+    "name": {
+      "local": "Bengo",
+      "en": "Bengo",
+      "slug": "bengo-ao01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO01",
+      "level": 1,
+      "name": {
+        "local": "Bengo",
+        "en": "Bengo",
+        "slug": "bengo-ao01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.042",
+    "lon": "14.284"
+  },
+  "metadata": {},
+  "source": {}
+}

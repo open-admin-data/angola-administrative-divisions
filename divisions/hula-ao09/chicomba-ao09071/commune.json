@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO09071237",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chicomba",
+      "en": "Chicomba",
+      "slug": "chicomba-ao09071237"
+    },
+    "code": {
+      "id": "AO09071237",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09071",
+      "level": 2,
+      "name": {
+        "local": "Chicomba",
+        "en": "Chicomba",
+        "slug": "chicomba-ao09071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09071",
+        "level": 2,
+        "name": {
+          "local": "Chicomba",
+          "en": "Chicomba",
+          "slug": "chicomba-ao09071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.307",
+      "lon": "14.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09071238",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cutenda",
+      "en": "Cutenda",
+      "slug": "cutenda-ao09071238"
+    },
+    "code": {
+      "id": "AO09071238",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09071",
+      "level": 2,
+      "name": {
+        "local": "Chicomba",
+        "en": "Chicomba",
+        "slug": "chicomba-ao09071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09071",
+        "level": 2,
+        "name": {
+          "local": "Chicomba",
+          "en": "Chicomba",
+          "slug": "chicomba-ao09071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.369",
+      "lon": "15.119"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

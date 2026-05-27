@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO12109347",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cassange",
+      "en": "Cassange",
+      "slug": "cassange-ao12109347"
+    },
+    "code": {
+      "id": "AO12109347",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12109",
+      "level": 2,
+      "name": {
+        "local": "Xá-Muteba",
+        "en": "Xá-Muteba",
+        "slug": "x-muteba-ao12109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12109",
+        "level": 2,
+        "name": {
+          "local": "Xá-Muteba",
+          "en": "Xá-Muteba",
+          "slug": "x-muteba-ao12109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.697",
+      "lon": "17.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12109348",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Iongo",
+      "en": "Iongo",
+      "slug": "iongo-ao12109348"
+    },
+    "code": {
+      "id": "AO12109348",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12109",
+      "level": 2,
+      "name": {
+        "local": "Xá-Muteba",
+        "en": "Xá-Muteba",
+        "slug": "x-muteba-ao12109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12109",
+        "level": 2,
+        "name": {
+          "local": "Xá-Muteba",
+          "en": "Xá-Muteba",
+          "slug": "x-muteba-ao12109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.077",
+      "lon": "17.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12109350",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Xa-Muteba",
+      "en": "Xa-Muteba",
+      "slug": "xa-muteba-ao12109350"
+    },
+    "code": {
+      "id": "AO12109350",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12109",
+      "level": 2,
+      "name": {
+        "local": "Xá-Muteba",
+        "en": "Xá-Muteba",
+        "slug": "x-muteba-ao12109"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12109",
+        "level": 2,
+        "name": {
+          "local": "Xá-Muteba",
+          "en": "Xá-Muteba",
+          "slug": "x-muteba-ao12109"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.546",
+      "lon": "17.898"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

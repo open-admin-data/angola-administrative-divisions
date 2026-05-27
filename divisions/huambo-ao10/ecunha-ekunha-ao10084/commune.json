@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO10084273",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ekunha",
+      "en": "Ekunha",
+      "slug": "ekunha-ao10084273"
+    },
+    "code": {
+      "id": "AO10084273",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10084",
+      "level": 2,
+      "name": {
+        "local": "Ecunha (Ekunha)",
+        "en": "Ecunha (Ekunha)",
+        "slug": "ecunha-ekunha-ao10084"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10084",
+        "level": 2,
+        "name": {
+          "local": "Ecunha (Ekunha)",
+          "en": "Ecunha (Ekunha)",
+          "slug": "ecunha-ekunha-ao10084"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.615",
+      "lon": "15.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10084274",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tchipeio",
+      "en": "Tchipeio",
+      "slug": "tchipeio-ao10084274"
+    },
+    "code": {
+      "id": "AO10084274",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10084",
+      "level": 2,
+      "name": {
+        "local": "Ecunha (Ekunha)",
+        "en": "Ecunha (Ekunha)",
+        "slug": "ecunha-ekunha-ao10084"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10084",
+        "level": 2,
+        "name": {
+          "local": "Ecunha (Ekunha)",
+          "en": "Ecunha (Ekunha)",
+          "slug": "ecunha-ekunha-ao10084"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.433",
+      "lon": "15.478"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

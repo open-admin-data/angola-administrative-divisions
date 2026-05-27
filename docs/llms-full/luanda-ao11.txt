@@ -1,0 +1,200 @@
+# Luanda — Angola Administrative Divisions
+
+> 7 municipalitys, 39 communes
+> Code: AO11
+> Coordinates: -9.592, 13.679
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Belas (Samba)
+
+Code: AO11098, Coordinates: -9.115, 13.151
+Communes: 6
+
+#### Benfica
+
+Code: AO11098316, Coordinates: -9.038, 13.124
+
+#### Futungo de Belas
+
+Code: AO11098317, Coordinates: -8.931, 13.187
+
+#### Kilamba Kiaxi
+
+Code: AO11098309, Coordinates: -8.924, 13.229
+
+#### Mussulo
+
+Code: AO11098318, Coordinates: -9.073, 13.003
+
+#### Viana
+
+Code: AO11098324, Coordinates: -9.195, 13.15
+
+#### Viana Sede
+
+Code: AO11098323, Coordinates: -9.024, 13.255
+
+### Cacuaco
+
+Code: AO11092, Coordinates: -8.817, 13.43
+Communes: 3
+
+#### Cacuaco
+
+Code: AO11092298, Coordinates: -8.79, 13.385
+
+#### Funda
+
+Code: AO11092299, Coordinates: -8.816, 13.463
+
+#### Kikolo
+
+Code: AO11092300, Coordinates: -8.803, 13.341
+
+### Cazenga
+
+Code: AO11093, Coordinates: -8.822, 13.297
+Communes: 4
+
+#### Cazenga
+
+Code: AO11093301, Coordinates: -8.849, 13.303
+
+#### Hoji Ya Henda
+
+Code: AO11093302, Coordinates: -8.804, 13.297
+
+#### Kikolo
+
+Code: AO11093300, Coordinates: -8.789, 13.32
+
+#### Tala Hadi
+
+Code: AO11093303, Coordinates: -8.821, 13.303
+
+### Icolo e Bengo
+
+Code: AO11003, Coordinates: -9.189, 13.887
+Communes: 4
+
+#### Bom Jesus
+
+Code: AO11003009, Coordinates: -9.102, 13.549
+
+#### Calomboloca
+
+Code: AO11003010, Coordinates: -9.233, 13.989
+
+#### Catete
+
+Code: AO11003011, Coordinates: -9.106, 13.731
+
+#### Kabiri
+
+Code: AO11003012, Coordinates: -8.944, 13.647
+
+### Luanda
+
+Code: AO11094, Coordinates: -8.832, 13.244
+Communes: 16
+
+#### Cassequel
+
+Code: AO11094310, Coordinates: -8.84, 13.244
+
+#### Ilha do Cabo
+
+Code: AO11094304, Coordinates: -8.814, 13.252
+
+#### Ingombota
+
+Code: AO11094305, Coordinates: -8.816, 13.229
+
+#### Kilamba Kiaxi
+
+Code: AO11094309, Coordinates: -8.869, 13.267
+
+#### Kinanga
+
+Code: AO11094306, Coordinates: -8.812, 13.219
+
+#### Maculusso
+
+Code: AO11094307, Coordinates: -8.824, 13.238
+
+#### Maianga
+
+Code: AO11094311, Coordinates: -8.831, 13.229
+
+#### Marcal
+
+Code: AO11094313, Coordinates: -8.821, 13.258
+
+#### N&#39;gola Kilwanji
+
+Code: AO11094320, Coordinates: -8.778, 13.296
+
+#### Patrice Lumumba
+
+Code: AO11094308, Coordinates: -8.807, 13.244
+
+#### Prenda
+
+Code: AO11094312, Coordinates: -8.864, 13.216
+
+#### Rangel
+
+Code: AO11094314, Coordinates: -8.829, 13.269
+
+#### Samba
+
+Code: AO11094319, Coordinates: -8.86, 13.203
+
+#### Sambizanga
+
+Code: AO11094321, Coordinates: -8.805, 13.271
+
+#### Terra Nova
+
+Code: AO11094315, Coordinates: -8.832, 13.26
+
+#### Viana Sede
+
+Code: AO11094323, Coordinates: -8.892, 13.283
+
+### Quissama (Muxima, Quiçama)
+
+Code: AO11004, Coordinates: -9.795, 13.923
+Communes: 4
+
+#### Dembo Chio
+
+Code: AO11004013, Coordinates: -9.997, 13.797
+
+#### Kixinje
+
+Code: AO11004014, Coordinates: -10.035, 14.409
+
+#### Mumbondo
+
+Code: AO11004015, Coordinates: -10.214, 13.918
+
+#### Muxima
+
+Code: AO11004016, Coordinates: -9.561, 13.664
+
+### Viana
+
+Code: AO11100, Coordinates: -9.008, 13.399
+Communes: 2
+
+#### Calumbo
+
+Code: AO11100322, Coordinates: -9.079, 13.423
+
+#### Viana Sede
+
+Code: AO11100323, Coordinates: -9.006, 13.387
+

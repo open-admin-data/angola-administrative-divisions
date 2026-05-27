@@ -1,0 +1,47 @@
+{
+  "id": "AO17142",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cangola (Alto Cauale)",
+    "en": "Cangola (Alto Cauale)",
+    "slug": "cangola-alto-cauale-ao17142"
+  },
+  "code": {
+    "id": "AO17142",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO17",
+    "level": 1,
+    "name": {
+      "local": "Uíge",
+      "en": "Uíge",
+      "slug": "uge-ao17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.841",
+    "lon": "15.904"
+  },
+  "metadata": {},
+  "source": {}
+}

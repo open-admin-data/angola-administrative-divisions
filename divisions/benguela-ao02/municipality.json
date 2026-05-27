@@ -1,0 +1,472 @@
+[
+  {
+    "id": "AO02006",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Baía Farta",
+      "en": "Baía Farta",
+      "slug": "baa-farta-ao02006"
+    },
+    "code": {
+      "id": "AO02006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.104",
+      "lon": "13.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02007",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Balombo",
+      "en": "Balombo",
+      "slug": "balombo-ao02007"
+    },
+    "code": {
+      "id": "AO02007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.355",
+      "lon": "14.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02008",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Benguela",
+      "en": "Benguela",
+      "slug": "benguela-ao02008"
+    },
+    "code": {
+      "id": "AO02008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.811",
+      "lon": "13.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02009",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bocoio",
+      "en": "Bocoio",
+      "slug": "bocoio-ao02009"
+    },
+    "code": {
+      "id": "AO02009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.287",
+      "lon": "14.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02010",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caimbambo",
+      "en": "Caimbambo",
+      "slug": "caimbambo-ao02010"
+    },
+    "code": {
+      "id": "AO02010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.082",
+      "lon": "13.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02164",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Catumbela",
+      "en": "Catumbela",
+      "slug": "catumbela-ao02164"
+    },
+    "code": {
+      "id": "AO02164",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.497",
+      "lon": "13.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02011",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chongoroi",
+      "en": "Chongoroi",
+      "slug": "chongoroi-ao02011"
+    },
+    "code": {
+      "id": "AO02011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.499",
+      "lon": "13.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02012",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cubal",
+      "en": "Cubal",
+      "slug": "cubal-ao02012"
+    },
+    "code": {
+      "id": "AO02012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.157",
+      "lon": "14.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02013",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ganda",
+      "en": "Ganda",
+      "slug": "ganda-ao02013"
+    },
+    "code": {
+      "id": "AO02013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.122",
+      "lon": "14.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02014",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lobito",
+      "en": "Lobito",
+      "slug": "lobito-ao02014"
+    },
+    "code": {
+      "id": "AO02014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.096",
+      "lon": "13.899"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

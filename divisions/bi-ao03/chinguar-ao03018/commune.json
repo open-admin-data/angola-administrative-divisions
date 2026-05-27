@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO03018071",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chinguar",
+      "en": "Chinguar",
+      "slug": "chinguar-ao03018071"
+    },
+    "code": {
+      "id": "AO03018071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03018",
+      "level": 2,
+      "name": {
+        "local": "Chinguar",
+        "en": "Chinguar",
+        "slug": "chinguar-ao03018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03018",
+        "level": 2,
+        "name": {
+          "local": "Chinguar",
+          "en": "Chinguar",
+          "slug": "chinguar-ao03018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.61",
+      "lon": "16.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03018072",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kangote",
+      "en": "Kangote",
+      "slug": "kangote-ao03018072"
+    },
+    "code": {
+      "id": "AO03018072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03018",
+      "level": 2,
+      "name": {
+        "local": "Chinguar",
+        "en": "Chinguar",
+        "slug": "chinguar-ao03018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03018",
+        "level": 2,
+        "name": {
+          "local": "Chinguar",
+          "en": "Chinguar",
+          "slug": "chinguar-ao03018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.763",
+      "lon": "16.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03018073",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kutato",
+      "en": "Kutato",
+      "slug": "kutato-ao03018073"
+    },
+    "code": {
+      "id": "AO03018073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03018",
+      "level": 2,
+      "name": {
+        "local": "Chinguar",
+        "en": "Chinguar",
+        "slug": "chinguar-ao03018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03018",
+        "level": 2,
+        "name": {
+          "local": "Chinguar",
+          "en": "Chinguar",
+          "slug": "chinguar-ao03018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.36",
+      "lon": "16.521"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

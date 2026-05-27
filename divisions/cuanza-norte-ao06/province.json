@@ -1,0 +1,30 @@
+{
+  "id": "AO06",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Cuanza Norte",
+    "en": "Cuanza Norte",
+    "slug": "cuanza-norte-ao06"
+  },
+  "code": {
+    "id": "AO06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 10,
+    "commune": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.859",
+    "lon": "15.096"
+  },
+  "metadata": {},
+  "source": {}
+}

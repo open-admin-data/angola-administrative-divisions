@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO09069230",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalepi",
+      "en": "Kalepi",
+      "slug": "kalepi-ao09069230"
+    },
+    "code": {
+      "id": "AO09069230",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09069",
+      "level": 2,
+      "name": {
+        "local": "Caluquembe",
+        "en": "Caluquembe",
+        "slug": "caluquembe-ao09069"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09069",
+        "level": 2,
+        "name": {
+          "local": "Caluquembe",
+          "en": "Caluquembe",
+          "slug": "caluquembe-ao09069"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.786",
+      "lon": "14.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09069231",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalukembe",
+      "en": "Kalukembe",
+      "slug": "kalukembe-ao09069231"
+    },
+    "code": {
+      "id": "AO09069231",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09069",
+      "level": 2,
+      "name": {
+        "local": "Caluquembe",
+        "en": "Caluquembe",
+        "slug": "caluquembe-ao09069"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09069",
+        "level": 2,
+        "name": {
+          "local": "Caluquembe",
+          "en": "Caluquembe",
+          "slug": "caluquembe-ao09069"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.854",
+      "lon": "14.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09069232",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ngola",
+      "en": "Ngola",
+      "slug": "ngola-ao09069232"
+    },
+    "code": {
+      "id": "AO09069232",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09069",
+      "level": 2,
+      "name": {
+        "local": "Caluquembe",
+        "en": "Caluquembe",
+        "slug": "caluquembe-ao09069"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09069",
+        "level": 2,
+        "name": {
+          "local": "Caluquembe",
+          "en": "Caluquembe",
+          "slug": "caluquembe-ao09069"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.098",
+      "lon": "14.482"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

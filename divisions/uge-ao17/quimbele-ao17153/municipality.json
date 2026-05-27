@@ -1,0 +1,47 @@
+{
+  "id": "AO17153",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Quimbele",
+    "en": "Quimbele",
+    "slug": "quimbele-ao17153"
+  },
+  "code": {
+    "id": "AO17153",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO17",
+    "level": 1,
+    "name": {
+      "local": "Uíge",
+      "en": "Uíge",
+      "slug": "uge-ao17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.32",
+    "lon": "16.338"
+  },
+  "metadata": {},
+  "source": {}
+}

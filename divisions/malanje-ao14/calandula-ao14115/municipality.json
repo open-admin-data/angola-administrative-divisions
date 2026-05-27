@@ -1,0 +1,47 @@
+{
+  "id": "AO14115",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Calandula",
+    "en": "Calandula",
+    "slug": "calandula-ao14115"
+  },
+  "code": {
+    "id": "AO14115",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO14",
+    "level": 1,
+    "name": {
+      "local": "Malanje",
+      "en": "Malanje",
+      "slug": "malanje-ao14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.737",
+    "lon": "15.933"
+  },
+  "metadata": {},
+  "source": {}
+}

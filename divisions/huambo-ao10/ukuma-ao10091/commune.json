@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO10091295",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kakoma",
+      "en": "Kakoma",
+      "slug": "kakoma-ao10091295"
+    },
+    "code": {
+      "id": "AO10091295",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10091",
+      "level": 2,
+      "name": {
+        "local": "Ukuma",
+        "en": "Ukuma",
+        "slug": "ukuma-ao10091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10091",
+        "level": 2,
+        "name": {
+          "local": "Ukuma",
+          "en": "Ukuma",
+          "slug": "ukuma-ao10091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.567",
+      "lon": "15.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10091296",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mundundo",
+      "en": "Mundundo",
+      "slug": "mundundo-ao10091296"
+    },
+    "code": {
+      "id": "AO10091296",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10091",
+      "level": 2,
+      "name": {
+        "local": "Ukuma",
+        "en": "Ukuma",
+        "slug": "ukuma-ao10091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10091",
+        "level": 2,
+        "name": {
+          "local": "Ukuma",
+          "en": "Ukuma",
+          "slug": "ukuma-ao10091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.996",
+      "lon": "15.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10091297",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ukuma",
+      "en": "Ukuma",
+      "slug": "ukuma-ao10091297"
+    },
+    "code": {
+      "id": "AO10091297",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10091",
+      "level": 2,
+      "name": {
+        "local": "Ukuma",
+        "en": "Ukuma",
+        "slug": "ukuma-ao10091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10091",
+        "level": 2,
+        "name": {
+          "local": "Ukuma",
+          "en": "Ukuma",
+          "slug": "ukuma-ao10091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.783",
+      "lon": "15.127"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

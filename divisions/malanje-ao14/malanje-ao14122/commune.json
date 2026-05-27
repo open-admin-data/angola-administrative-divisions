@@ -1,0 +1,326 @@
+[
+  {
+    "id": "AO14122394",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cambaxe",
+      "en": "Cambaxe",
+      "slug": "cambaxe-ao14122394"
+    },
+    "code": {
+      "id": "AO14122394",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14122",
+      "level": 2,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14122",
+        "level": 2,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.388",
+      "lon": "16.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14122395",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cambondo",
+      "en": "Cambondo",
+      "slug": "cambondo-ao14122395"
+    },
+    "code": {
+      "id": "AO14122395",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14122",
+      "level": 2,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14122",
+        "level": 2,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.456",
+      "lon": "16.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14122396",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kangando",
+      "en": "Kangando",
+      "slug": "kangando-ao14122396"
+    },
+    "code": {
+      "id": "AO14122396",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14122",
+      "level": 2,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14122",
+        "level": 2,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.647",
+      "lon": "16.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14122397",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kimbamba",
+      "en": "Kimbamba",
+      "slug": "kimbamba-ao14122397"
+    },
+    "code": {
+      "id": "AO14122397",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14122",
+      "level": 2,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14122",
+        "level": 2,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.354",
+      "lon": "16.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14122398",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Malanje",
+      "en": "Malanje",
+      "slug": "malanje-ao14122398"
+    },
+    "code": {
+      "id": "AO14122398",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14122",
+      "level": 2,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14122",
+        "level": 2,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.532",
+      "lon": "16.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14122399",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ngola-Luige",
+      "en": "Ngola-Luige",
+      "slug": "ngola-luige-ao14122399"
+    },
+    "code": {
+      "id": "AO14122399",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14122",
+      "level": 2,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14122",
+        "level": 2,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.22",
+      "lon": "16.374"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

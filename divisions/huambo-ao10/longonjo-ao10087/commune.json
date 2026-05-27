@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO10087283",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chilata",
+      "en": "Chilata",
+      "slug": "chilata-ao10087283"
+    },
+    "code": {
+      "id": "AO10087283",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10087",
+      "level": 2,
+      "name": {
+        "local": "Longonjo",
+        "en": "Longonjo",
+        "slug": "longonjo-ao10087"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10087",
+        "level": 2,
+        "name": {
+          "local": "Longonjo",
+          "en": "Longonjo",
+          "slug": "longonjo-ao10087"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.249",
+      "lon": "15.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10087284",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Katabola",
+      "en": "Katabola",
+      "slug": "katabola-ao10087284"
+    },
+    "code": {
+      "id": "AO10087284",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10087",
+      "level": 2,
+      "name": {
+        "local": "Longonjo",
+        "en": "Longonjo",
+        "slug": "longonjo-ao10087"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10087",
+        "level": 2,
+        "name": {
+          "local": "Longonjo",
+          "en": "Longonjo",
+          "slug": "longonjo-ao10087"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.173",
+      "lon": "15.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10087285",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lepi",
+      "en": "Lepi",
+      "slug": "lepi-ao10087285"
+    },
+    "code": {
+      "id": "AO10087285",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10087",
+      "level": 2,
+      "name": {
+        "local": "Longonjo",
+        "en": "Longonjo",
+        "slug": "longonjo-ao10087"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10087",
+        "level": 2,
+        "name": {
+          "local": "Longonjo",
+          "en": "Longonjo",
+          "slug": "longonjo-ao10087"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.886",
+      "lon": "15.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10087286",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Longonjo",
+      "en": "Longonjo",
+      "slug": "longonjo-ao10087286"
+    },
+    "code": {
+      "id": "AO10087286",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10087",
+      "level": 2,
+      "name": {
+        "local": "Longonjo",
+        "en": "Longonjo",
+        "slug": "longonjo-ao10087"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10087",
+        "level": 2,
+        "name": {
+          "local": "Longonjo",
+          "en": "Longonjo",
+          "slug": "longonjo-ao10087"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.879",
+      "lon": "15.254"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

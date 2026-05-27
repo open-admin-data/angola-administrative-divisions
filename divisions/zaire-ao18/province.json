@@ -1,0 +1,30 @@
+{
+  "id": "AO18",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Zaire",
+    "en": "Zaire",
+    "slug": "zaire-ao18"
+  },
+  "code": {
+    "id": "AO18",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 6,
+    "commune": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.821",
+    "lon": "13.464"
+  },
+  "metadata": {},
+  "source": {}
+}

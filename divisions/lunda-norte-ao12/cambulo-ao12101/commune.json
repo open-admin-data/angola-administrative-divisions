@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO12101325",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kachimo",
+      "en": "Kachimo",
+      "slug": "kachimo-ao12101325"
+    },
+    "code": {
+      "id": "AO12101325",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12101",
+      "level": 2,
+      "name": {
+        "local": "Cambulo",
+        "en": "Cambulo",
+        "slug": "cambulo-ao12101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12101",
+        "level": 2,
+        "name": {
+          "local": "Cambulo",
+          "en": "Cambulo",
+          "slug": "cambulo-ao12101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.304",
+      "lon": "21.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12101326",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kambulo",
+      "en": "Kambulo",
+      "slug": "kambulo-ao12101326"
+    },
+    "code": {
+      "id": "AO12101326",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12101",
+      "level": 2,
+      "name": {
+        "local": "Cambulo",
+        "en": "Cambulo",
+        "slug": "cambulo-ao12101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12101",
+        "level": 2,
+        "name": {
+          "local": "Cambulo",
+          "en": "Cambulo",
+          "slug": "cambulo-ao12101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.73",
+      "lon": "21.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12101327",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kanzar",
+      "en": "Kanzar",
+      "slug": "kanzar-ao12101327"
+    },
+    "code": {
+      "id": "AO12101327",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12101",
+      "level": 2,
+      "name": {
+        "local": "Cambulo",
+        "en": "Cambulo",
+        "slug": "cambulo-ao12101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12101",
+        "level": 2,
+        "name": {
+          "local": "Cambulo",
+          "en": "Cambulo",
+          "slug": "cambulo-ao12101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.655",
+      "lon": "21.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12101328",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luia",
+      "en": "Luia",
+      "slug": "luia-ao12101328"
+    },
+    "code": {
+      "id": "AO12101328",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12101",
+      "level": 2,
+      "name": {
+        "local": "Cambulo",
+        "en": "Cambulo",
+        "slug": "cambulo-ao12101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12101",
+        "level": 2,
+        "name": {
+          "local": "Cambulo",
+          "en": "Cambulo",
+          "slug": "cambulo-ao12101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.2",
+      "lon": "21.687"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

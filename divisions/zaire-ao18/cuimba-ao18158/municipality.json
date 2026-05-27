@@ -1,0 +1,47 @@
+{
+  "id": "AO18158",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuimba",
+    "en": "Cuimba",
+    "slug": "cuimba-ao18158"
+  },
+  "code": {
+    "id": "AO18158",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO18",
+    "level": 1,
+    "name": {
+      "local": "Zaire",
+      "en": "Zaire",
+      "slug": "zaire-ao18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO18",
+      "level": 1,
+      "name": {
+        "local": "Zaire",
+        "en": "Zaire",
+        "slug": "zaire-ao18"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.239",
+    "lon": "14.671"
+  },
+  "metadata": {},
+  "source": {}
+}

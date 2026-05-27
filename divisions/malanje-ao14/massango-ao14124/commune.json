@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO14124403",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kihuhu",
+      "en": "Kihuhu",
+      "slug": "kihuhu-ao14124403"
+    },
+    "code": {
+      "id": "AO14124403",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14124",
+      "level": 2,
+      "name": {
+        "local": "Massango",
+        "en": "Massango",
+        "slug": "massango-ao14124"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14124",
+        "level": 2,
+        "name": {
+          "local": "Massango",
+          "en": "Massango",
+          "slug": "massango-ao14124"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.624",
+      "lon": "16.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14124404",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kinguengue",
+      "en": "Kinguengue",
+      "slug": "kinguengue-ao14124404"
+    },
+    "code": {
+      "id": "AO14124404",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14124",
+      "level": 2,
+      "name": {
+        "local": "Massango",
+        "en": "Massango",
+        "slug": "massango-ao14124"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14124",
+        "level": 2,
+        "name": {
+          "local": "Massango",
+          "en": "Massango",
+          "slug": "massango-ao14124"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.664",
+      "lon": "17.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14124405",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Massango",
+      "en": "Massango",
+      "slug": "massango-ao14124405"
+    },
+    "code": {
+      "id": "AO14124405",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14124",
+      "level": 2,
+      "name": {
+        "local": "Massango",
+        "en": "Massango",
+        "slug": "massango-ao14124"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14124",
+        "level": 2,
+        "name": {
+          "local": "Massango",
+          "en": "Massango",
+          "slug": "massango-ao14124"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.875",
+      "lon": "16.313"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

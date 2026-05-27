@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO10083270",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chinhama",
+      "en": "Chinhama",
+      "slug": "chinhama-ao10083270"
+    },
+    "code": {
+      "id": "AO10083270",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10083",
+      "level": 2,
+      "name": {
+        "local": "Catchiungo",
+        "en": "Catchiungo",
+        "slug": "catchiungo-ao10083"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10083",
+        "level": 2,
+        "name": {
+          "local": "Catchiungo",
+          "en": "Catchiungo",
+          "slug": "catchiungo-ao10083"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.114",
+      "lon": "16.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10083271",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chiumbo",
+      "en": "Chiumbo",
+      "slug": "chiumbo-ao10083271"
+    },
+    "code": {
+      "id": "AO10083271",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10083",
+      "level": 2,
+      "name": {
+        "local": "Catchiungo",
+        "en": "Catchiungo",
+        "slug": "catchiungo-ao10083"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10083",
+        "level": 2,
+        "name": {
+          "local": "Catchiungo",
+          "en": "Catchiungo",
+          "slug": "catchiungo-ao10083"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.419",
+      "lon": "16.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10083272",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kachiungo",
+      "en": "Kachiungo",
+      "slug": "kachiungo-ao10083272"
+    },
+    "code": {
+      "id": "AO10083272",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10083",
+      "level": 2,
+      "name": {
+        "local": "Catchiungo",
+        "en": "Catchiungo",
+        "slug": "catchiungo-ao10083"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10083",
+        "level": 2,
+        "name": {
+          "local": "Catchiungo",
+          "en": "Catchiungo",
+          "slug": "catchiungo-ao10083"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.716",
+      "lon": "16.306"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "AO12106",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuilo",
+    "en": "Cuilo",
+    "slug": "cuilo-ao12106"
+  },
+  "code": {
+    "id": "AO12106",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO12",
+    "level": 1,
+    "name": {
+      "local": "Lunda Norte",
+      "en": "Lunda Norte",
+      "slug": "lunda-norte-ao12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.011",
+    "lon": "19.682"
+  },
+  "metadata": {},
+  "source": {}
+}

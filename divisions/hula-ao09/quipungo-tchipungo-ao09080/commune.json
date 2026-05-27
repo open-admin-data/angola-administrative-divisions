@@ -1,0 +1,56 @@
+[
+  {
+    "id": "AO09080260",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tchipungo",
+      "en": "Tchipungo",
+      "slug": "tchipungo-ao09080260"
+    },
+    "code": {
+      "id": "AO09080260",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09080",
+      "level": 2,
+      "name": {
+        "local": "Quipungo (Tchipungo)",
+        "en": "Quipungo (Tchipungo)",
+        "slug": "quipungo-tchipungo-ao09080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09080",
+        "level": 2,
+        "name": {
+          "local": "Quipungo (Tchipungo)",
+          "en": "Quipungo (Tchipungo)",
+          "slug": "quipungo-tchipungo-ao09080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.073",
+      "lon": "14.583"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

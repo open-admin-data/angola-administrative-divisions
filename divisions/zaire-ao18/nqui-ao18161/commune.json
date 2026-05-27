@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO18161517",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lufico",
+      "en": "Lufico",
+      "slug": "lufico-ao18161517"
+    },
+    "code": {
+      "id": "AO18161517",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18161",
+      "level": 2,
+      "name": {
+        "local": "Nóqui",
+        "en": "Nóqui",
+        "slug": "nqui-ao18161"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18161",
+        "level": 2,
+        "name": {
+          "local": "Nóqui",
+          "en": "Nóqui",
+          "slug": "nqui-ao18161"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.366",
+      "lon": "13.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18161518",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lulendo",
+      "en": "Lulendo",
+      "slug": "lulendo-ao18161518"
+    },
+    "code": {
+      "id": "AO18161518",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18161",
+      "level": 2,
+      "name": {
+        "local": "Nóqui",
+        "en": "Nóqui",
+        "slug": "nqui-ao18161"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18161",
+        "level": 2,
+        "name": {
+          "local": "Nóqui",
+          "en": "Nóqui",
+          "slug": "nqui-ao18161"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.105",
+      "lon": "13.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18161519",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Noqui",
+      "en": "Noqui",
+      "slug": "noqui-ao18161519"
+    },
+    "code": {
+      "id": "AO18161519",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18161",
+      "level": 2,
+      "name": {
+        "local": "Nóqui",
+        "en": "Nóqui",
+        "slug": "nqui-ao18161"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18161",
+        "level": 2,
+        "name": {
+          "local": "Nóqui",
+          "en": "Nóqui",
+          "slug": "nqui-ao18161"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.059",
+      "lon": "13.604"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

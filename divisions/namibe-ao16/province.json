@@ -1,0 +1,30 @@
+{
+  "id": "AO16",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Namibe",
+    "en": "Namibe",
+    "slug": "namibe-ao16"
+  },
+  "code": {
+    "id": "AO16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 5,
+    "commune": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.391",
+    "lon": "12.731"
+  },
+  "metadata": {},
+  "source": {}
+}

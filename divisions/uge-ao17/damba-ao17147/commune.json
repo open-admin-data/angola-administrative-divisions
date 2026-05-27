@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO17147472",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Damba",
+      "en": "Damba",
+      "slug": "damba-ao17147472"
+    },
+    "code": {
+      "id": "AO17147472",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17147",
+      "level": 2,
+      "name": {
+        "local": "Damba",
+        "en": "Damba",
+        "slug": "damba-ao17147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17147",
+        "level": 2,
+        "name": {
+          "local": "Damba",
+          "en": "Damba",
+          "slug": "damba-ao17147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.722",
+      "lon": "15.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17147473",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lemboa",
+      "en": "Lemboa",
+      "slug": "lemboa-ao17147473"
+    },
+    "code": {
+      "id": "AO17147473",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17147",
+      "level": 2,
+      "name": {
+        "local": "Damba",
+        "en": "Damba",
+        "slug": "damba-ao17147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17147",
+        "level": 2,
+        "name": {
+          "local": "Damba",
+          "en": "Damba",
+          "slug": "damba-ao17147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.876",
+      "lon": "14.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17147474",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'soso",
+      "en": "N'soso",
+      "slug": "nsoso-ao17147474"
+    },
+    "code": {
+      "id": "AO17147474",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17147",
+      "level": 2,
+      "name": {
+        "local": "Damba",
+        "en": "Damba",
+        "slug": "damba-ao17147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17147",
+        "level": 2,
+        "name": {
+          "local": "Damba",
+          "en": "Damba",
+          "slug": "damba-ao17147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.97",
+      "lon": "15.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17147475",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nkama-Ntambu",
+      "en": "Nkama-Ntambu",
+      "slug": "nkama-ntambu-ao17147475"
+    },
+    "code": {
+      "id": "AO17147475",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17147",
+      "level": 2,
+      "name": {
+        "local": "Damba",
+        "en": "Damba",
+        "slug": "damba-ao17147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17147",
+        "level": 2,
+        "name": {
+          "local": "Damba",
+          "en": "Damba",
+          "slug": "damba-ao17147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.446",
+      "lon": "15.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17147476",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nkuso",
+      "en": "Nkuso",
+      "slug": "nkuso-ao17147476"
+    },
+    "code": {
+      "id": "AO17147476",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17147",
+      "level": 2,
+      "name": {
+        "local": "Damba",
+        "en": "Damba",
+        "slug": "damba-ao17147"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17147",
+        "level": 2,
+        "name": {
+          "local": "Damba",
+          "en": "Damba",
+          "slug": "damba-ao17147"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.522",
+      "lon": "14.995"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

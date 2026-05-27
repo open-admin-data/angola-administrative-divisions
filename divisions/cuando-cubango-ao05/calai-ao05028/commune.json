@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO05028106",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalai",
+      "en": "Kalai",
+      "slug": "kalai-ao05028106"
+    },
+    "code": {
+      "id": "AO05028106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05028",
+      "level": 2,
+      "name": {
+        "local": "Calai",
+        "en": "Calai",
+        "slug": "calai-ao05028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05028",
+        "level": 2,
+        "name": {
+          "local": "Calai",
+          "en": "Calai",
+          "slug": "calai-ao05028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.519",
+      "lon": "19.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05028107",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maue",
+      "en": "Maue",
+      "slug": "maue-ao05028107"
+    },
+    "code": {
+      "id": "AO05028107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05028",
+      "level": 2,
+      "name": {
+        "local": "Calai",
+        "en": "Calai",
+        "slug": "calai-ao05028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05028",
+        "level": 2,
+        "name": {
+          "local": "Calai",
+          "en": "Calai",
+          "slug": "calai-ao05028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.226",
+      "lon": "19.489"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

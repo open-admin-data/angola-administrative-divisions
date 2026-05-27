@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO17144465",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bembe",
+      "en": "Bembe",
+      "slug": "bembe-ao17144465"
+    },
+    "code": {
+      "id": "AO17144465",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17144",
+      "level": 2,
+      "name": {
+        "local": "Bembe",
+        "en": "Bembe",
+        "slug": "bembe-ao17144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17144",
+        "level": 2,
+        "name": {
+          "local": "Bembe",
+          "en": "Bembe",
+          "slug": "bembe-ao17144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.989",
+      "lon": "14.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17144466",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lucunga",
+      "en": "Lucunga",
+      "slug": "lucunga-ao17144466"
+    },
+    "code": {
+      "id": "AO17144466",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17144",
+      "level": 2,
+      "name": {
+        "local": "Bembe",
+        "en": "Bembe",
+        "slug": "bembe-ao17144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17144",
+        "level": 2,
+        "name": {
+          "local": "Bembe",
+          "en": "Bembe",
+          "slug": "bembe-ao17144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.78",
+      "lon": "14.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17144467",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mabaia",
+      "en": "Mabaia",
+      "slug": "mabaia-ao17144467"
+    },
+    "code": {
+      "id": "AO17144467",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17144",
+      "level": 2,
+      "name": {
+        "local": "Bembe",
+        "en": "Bembe",
+        "slug": "bembe-ao17144"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17144",
+        "level": 2,
+        "name": {
+          "local": "Bembe",
+          "en": "Bembe",
+          "slug": "bembe-ao17144"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.226",
+      "lon": "14.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

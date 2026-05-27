@@ -1,0 +1,47 @@
+{
+  "id": "AO12107",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Lubalo",
+    "en": "Lubalo",
+    "slug": "lubalo-ao12107"
+  },
+  "code": {
+    "id": "AO12107",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO12",
+    "level": 1,
+    "name": {
+      "local": "Lunda Norte",
+      "en": "Lunda Norte",
+      "slug": "lunda-norte-ao12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.281",
+    "lon": "19.339"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO08066219",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Namakunde",
+      "en": "Namakunde",
+      "slug": "namakunde-ao08066219"
+    },
+    "code": {
+      "id": "AO08066219",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08066",
+      "level": 2,
+      "name": {
+        "local": "Namacunde",
+        "en": "Namacunde",
+        "slug": "namacunde-ao08066"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08066",
+        "level": 2,
+        "name": {
+          "local": "Namacunde",
+          "en": "Namacunde",
+          "slug": "namacunde-ao08066"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.305",
+      "lon": "15.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08066220",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Shiede",
+      "en": "Shiede",
+      "slug": "shiede-ao08066220"
+    },
+    "code": {
+      "id": "AO08066220",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08066",
+      "level": 2,
+      "name": {
+        "local": "Namacunde",
+        "en": "Namacunde",
+        "slug": "namacunde-ao08066"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08066",
+        "level": 2,
+        "name": {
+          "local": "Namacunde",
+          "en": "Namacunde",
+          "slug": "namacunde-ao08066"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.977",
+      "lon": "16.589"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

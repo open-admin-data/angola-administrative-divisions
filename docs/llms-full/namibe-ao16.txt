@@ -1,0 +1,90 @@
+# Namibe — Angola Administrative Divisions
+
+> 5 municipalitys, 14 communes
+> Code: AO16
+> Coordinates: -15.391, 12.731
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Bibala
+
+Code: AO16137, Coordinates: -14.695, 13.243
+Communes: 4
+
+#### Bibala
+
+Code: AO16137446, Coordinates: -14.713, 13.367
+
+#### Caitou
+
+Code: AO16137447, Coordinates: -14.444, 13.113
+
+#### Lola
+
+Code: AO16137448, Coordinates: -14.432, 13.478
+
+#### Munhino
+
+Code: AO16137449, Coordinates: -14.838, 13.041
+
+### Camucuio
+
+Code: AO16138, Coordinates: -14.009, 13.104
+Communes: 3
+
+#### Camacuio
+
+Code: AO16138450, Coordinates: -13.985, 13.354
+
+#### Chingo
+
+Code: AO16138451, Coordinates: -14.248, 12.689
+
+#### Chinquite
+
+Code: AO16138452, Coordinates: -13.801, 13.016
+
+### Namibe
+
+Code: AO16139, Coordinates: -14.562, 12.547
+Communes: 3
+
+#### Bentiaba
+
+Code: AO16139453, Coordinates: -14.161, 12.427
+
+#### Lucira
+
+Code: AO16139454, Coordinates: -13.783, 12.647
+
+#### Namibe
+
+Code: AO16139455, Coordinates: -14.924, 12.387
+
+### Tômbwa (Porto Alexandre)
+
+Code: AO16140, Coordinates: -16.395, 12.314
+Communes: 2
+
+#### Baia dos Tigres
+
+Code: AO16140456, Coordinates: -17.018, 11.819
+
+#### Tombua
+
+Code: AO16140457, Coordinates: -16.393, 12.313
+
+### Virei
+
+Code: AO16141, Coordinates: -15.817, 12.996
+Communes: 2
+
+#### Cahinde
+
+Code: AO16141458, Coordinates: -15.501, 13.098
+
+#### Virei
+
+Code: AO16141459, Coordinates: -15.961, 12.873
+

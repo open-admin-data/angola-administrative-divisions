@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO08062206",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kahama",
+      "en": "Kahama",
+      "slug": "kahama-ao08062206"
+    },
+    "code": {
+      "id": "AO08062206",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08062",
+      "level": 2,
+      "name": {
+        "local": "Cahama",
+        "en": "Cahama",
+        "slug": "cahama-ao08062"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08062",
+        "level": 2,
+        "name": {
+          "local": "Cahama",
+          "en": "Cahama",
+          "slug": "cahama-ao08062"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.25",
+      "lon": "14.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08062207",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Otchinjau",
+      "en": "Otchinjau",
+      "slug": "otchinjau-ao08062207"
+    },
+    "code": {
+      "id": "AO08062207",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08062",
+      "level": 2,
+      "name": {
+        "local": "Cahama",
+        "en": "Cahama",
+        "slug": "cahama-ao08062"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08062",
+        "level": 2,
+        "name": {
+          "local": "Cahama",
+          "en": "Cahama",
+          "slug": "cahama-ao08062"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.57",
+      "lon": "14.032"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

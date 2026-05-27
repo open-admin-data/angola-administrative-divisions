@@ -1,0 +1,183 @@
+# Cuanza Norte — Angola Administrative Divisions
+
+> 10 municipalitys, 31 communes
+> Code: AO06
+> Coordinates: -8.859, 15.096
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Ambaca
+
+Code: AO06037, Coordinates: -8.248, 15.485
+Communes: 5
+
+#### Bindo
+
+Code: AO06037133, Coordinates: -8.059, 15.27
+
+#### Kamabatela
+
+Code: AO06037134, Coordinates: -8.117, 15.396
+
+#### Luinga
+
+Code: AO06037135, Coordinates: -8.39, 15.631
+
+#### Maua
+
+Code: AO06037136, Coordinates: -8.316, 15.351
+
+#### Tango
+
+Code: AO06037137, Coordinates: -8.128, 15.632
+
+### Banga
+
+Code: AO06038, Coordinates: -8.709, 15.136
+Communes: 5
+
+#### Aldeia Nova
+
+Code: AO06038138, Coordinates: -8.619, 15.168
+
+#### Banga
+
+Code: AO06038139, Coordinates: -8.71, 15.13
+
+#### Kaculo Kabassa
+
+Code: AO06038140, Coordinates: -8.774, 15.211
+
+#### Kariamba
+
+Code: AO06038141, Coordinates: -8.54, 15.181
+
+#### Kikiemba
+
+Code: AO06038143, Coordinates: -8.607, 15.062
+
+### Bolongongo
+
+Code: AO06039, Coordinates: -8.384, 15.134
+Communes: 3
+
+#### Bolongongo
+
+Code: AO06039142, Coordinates: -8.368, 15.25
+
+#### Kikiemba
+
+Code: AO06039143, Coordinates: -8.39, 14.996
+
+#### Terreiro
+
+Code: AO06039144, Coordinates: -8.391, 15.123
+
+### Cambambe (Kambambe)
+
+Code: AO06041, Coordinates: -9.315, 14.293
+Communes: 5
+
+#### Danje ia Menha
+
+Code: AO06041147, Coordinates: -9.533, 14.829
+
+#### Dondo
+
+Code: AO06041148, Coordinates: -9.554, 14.337
+
+#### Kazua
+
+Code: AO06041165, Coordinates: -9.055, 14.265
+
+#### S. Pedro da Kilemba
+
+Code: AO06041149, Coordinates: -9.663, 14.865
+
+#### Zenza do Itombe
+
+Code: AO06041150, Coordinates: -9.349, 14.284
+
+### Cazengo
+
+Code: AO06042, Coordinates: -9.285, 14.74
+Communes: 2
+
+#### Kanhoca
+
+Code: AO06042151, Coordinates: -9.319, 14.603
+
+#### Ndalatando
+
+Code: AO06042152, Coordinates: -9.292, 14.924
+
+### Golungo Alto
+
+Code: AO06044, Coordinates: -9.043, 14.657
+Communes: 4
+
+#### Cerca
+
+Code: AO06044157, Coordinates: -9.02, 14.519
+
+#### Golungo Alto
+
+Code: AO06044158, Coordinates: -9.123, 14.866
+
+#### Kanbomdo
+
+Code: AO06044159, Coordinates: -9.143, 14.669
+
+#### Kiluanje
+
+Code: AO06044160, Coordinates: -9.034, 14.73
+
+### Lucala
+
+Code: AO06045, Coordinates: -9.144, 15.272
+Communes: 2
+
+#### Kiangombe
+
+Code: AO06045161, Coordinates: -9.046, 15.241
+
+#### Lukala
+
+Code: AO06045162, Coordinates: -9.252, 15.175
+
+### Ngonguembo
+
+Code: AO06046, Coordinates: -8.902, 14.845
+Communes: 2
+
+#### Camame
+
+Code: AO06046163, Coordinates: -8.896, 14.99
+
+#### Kilombo dos Dembos
+
+Code: AO06046164, Coordinates: -8.907, 14.714
+
+### Quiculungo
+
+Code: AO06048, Coordinates: -8.493, 15.295
+Communes: 1
+
+#### Kiculungo
+
+Code: AO06048167, Coordinates: -8.493, 15.295
+
+### Samba Cajú
+
+Code: AO06049, Coordinates: -8.816, 15.486
+Communes: 2
+
+#### Samba Caju
+
+Code: AO06049168, Coordinates: -8.729, 15.482
+
+#### Samba Lukala
+
+Code: AO06049169, Coordinates: -8.917, 15.573
+

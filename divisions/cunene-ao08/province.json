@@ -1,0 +1,30 @@
+{
+  "id": "AO08",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Cunene",
+    "en": "Cunene",
+    "slug": "cunene-ao08"
+  },
+  "code": {
+    "id": "AO08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 6,
+    "commune": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.293",
+    "lon": "15.601"
+  },
+  "metadata": {},
+  "source": {}
+}

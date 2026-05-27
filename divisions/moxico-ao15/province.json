@@ -1,0 +1,30 @@
+{
+  "id": "AO15",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Moxico",
+    "en": "Moxico",
+    "slug": "moxico-ao15"
+  },
+  "code": {
+    "id": "AO15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 9,
+    "commune": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.383",
+    "lon": "19.974"
+  },
+  "metadata": {},
+  "source": {}
+}

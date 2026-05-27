@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO16137446",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bibala",
+      "en": "Bibala",
+      "slug": "bibala-ao16137446"
+    },
+    "code": {
+      "id": "AO16137446",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16137",
+      "level": 2,
+      "name": {
+        "local": "Bibala",
+        "en": "Bibala",
+        "slug": "bibala-ao16137"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      },
+      {
+        "id": "AO16137",
+        "level": 2,
+        "name": {
+          "local": "Bibala",
+          "en": "Bibala",
+          "slug": "bibala-ao16137"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.713",
+      "lon": "13.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO16137447",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Caitou",
+      "en": "Caitou",
+      "slug": "caitou-ao16137447"
+    },
+    "code": {
+      "id": "AO16137447",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16137",
+      "level": 2,
+      "name": {
+        "local": "Bibala",
+        "en": "Bibala",
+        "slug": "bibala-ao16137"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      },
+      {
+        "id": "AO16137",
+        "level": 2,
+        "name": {
+          "local": "Bibala",
+          "en": "Bibala",
+          "slug": "bibala-ao16137"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.444",
+      "lon": "13.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO16137448",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lola",
+      "en": "Lola",
+      "slug": "lola-ao16137448"
+    },
+    "code": {
+      "id": "AO16137448",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16137",
+      "level": 2,
+      "name": {
+        "local": "Bibala",
+        "en": "Bibala",
+        "slug": "bibala-ao16137"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      },
+      {
+        "id": "AO16137",
+        "level": 2,
+        "name": {
+          "local": "Bibala",
+          "en": "Bibala",
+          "slug": "bibala-ao16137"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.432",
+      "lon": "13.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO16137449",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Munhino",
+      "en": "Munhino",
+      "slug": "munhino-ao16137449"
+    },
+    "code": {
+      "id": "AO16137449",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16137",
+      "level": 2,
+      "name": {
+        "local": "Bibala",
+        "en": "Bibala",
+        "slug": "bibala-ao16137"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      },
+      {
+        "id": "AO16137",
+        "level": 2,
+        "name": {
+          "local": "Bibala",
+          "en": "Bibala",
+          "slug": "bibala-ao16137"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.838",
+      "lon": "13.041"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "AO17144",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bembe",
+    "en": "Bembe",
+    "slug": "bembe-ao17144"
+  },
+  "code": {
+    "id": "AO17144",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO17",
+    "level": 1,
+    "name": {
+      "local": "Uíge",
+      "en": "Uíge",
+      "slug": "uge-ao17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.06",
+    "lon": "14.191"
+  },
+  "metadata": {},
+  "source": {}
+}

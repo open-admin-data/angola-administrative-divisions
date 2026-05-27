@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO11004013",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dembo Chio",
+      "en": "Dembo Chio",
+      "slug": "dembo-chio-ao11004013"
+    },
+    "code": {
+      "id": "AO11004013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11004",
+      "level": 2,
+      "name": {
+        "local": "Quissama (Muxima, Quiçama)",
+        "en": "Quissama (Muxima, Quiçama)",
+        "slug": "quissama-muxima-quiama-ao11004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11004",
+        "level": 2,
+        "name": {
+          "local": "Quissama (Muxima, Quiçama)",
+          "en": "Quissama (Muxima, Quiçama)",
+          "slug": "quissama-muxima-quiama-ao11004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.997",
+      "lon": "13.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11004014",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kixinje",
+      "en": "Kixinje",
+      "slug": "kixinje-ao11004014"
+    },
+    "code": {
+      "id": "AO11004014",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11004",
+      "level": 2,
+      "name": {
+        "local": "Quissama (Muxima, Quiçama)",
+        "en": "Quissama (Muxima, Quiçama)",
+        "slug": "quissama-muxima-quiama-ao11004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11004",
+        "level": 2,
+        "name": {
+          "local": "Quissama (Muxima, Quiçama)",
+          "en": "Quissama (Muxima, Quiçama)",
+          "slug": "quissama-muxima-quiama-ao11004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.035",
+      "lon": "14.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11004015",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mumbondo",
+      "en": "Mumbondo",
+      "slug": "mumbondo-ao11004015"
+    },
+    "code": {
+      "id": "AO11004015",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11004",
+      "level": 2,
+      "name": {
+        "local": "Quissama (Muxima, Quiçama)",
+        "en": "Quissama (Muxima, Quiçama)",
+        "slug": "quissama-muxima-quiama-ao11004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11004",
+        "level": 2,
+        "name": {
+          "local": "Quissama (Muxima, Quiçama)",
+          "en": "Quissama (Muxima, Quiçama)",
+          "slug": "quissama-muxima-quiama-ao11004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.214",
+      "lon": "13.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11004016",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muxima",
+      "en": "Muxima",
+      "slug": "muxima-ao11004016"
+    },
+    "code": {
+      "id": "AO11004016",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11004",
+      "level": 2,
+      "name": {
+        "local": "Quissama (Muxima, Quiçama)",
+        "en": "Quissama (Muxima, Quiçama)",
+        "slug": "quissama-muxima-quiama-ao11004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11004",
+        "level": 2,
+        "name": {
+          "local": "Quissama (Muxima, Quiçama)",
+          "en": "Quissama (Muxima, Quiçama)",
+          "slug": "quissama-muxima-quiama-ao11004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.561",
+      "lon": "13.664"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

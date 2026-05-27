@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO08065215",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalonga",
+      "en": "Kalonga",
+      "slug": "kalonga-ao08065215"
+    },
+    "code": {
+      "id": "AO08065215",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08065",
+      "level": 2,
+      "name": {
+        "local": "Cuvelai",
+        "en": "Cuvelai",
+        "slug": "cuvelai-ao08065"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08065",
+        "level": 2,
+        "name": {
+          "local": "Cuvelai",
+          "en": "Cuvelai",
+          "slug": "cuvelai-ao08065"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.892",
+      "lon": "15.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08065216",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kuvati",
+      "en": "Kuvati",
+      "slug": "kuvati-ao08065216"
+    },
+    "code": {
+      "id": "AO08065216",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08065",
+      "level": 2,
+      "name": {
+        "local": "Cuvelai",
+        "en": "Cuvelai",
+        "slug": "cuvelai-ao08065"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08065",
+        "level": 2,
+        "name": {
+          "local": "Cuvelai",
+          "en": "Cuvelai",
+          "slug": "cuvelai-ao08065"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.504",
+      "lon": "16.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08065217",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kuvelai",
+      "en": "Kuvelai",
+      "slug": "kuvelai-ao08065217"
+    },
+    "code": {
+      "id": "AO08065217",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08065",
+      "level": 2,
+      "name": {
+        "local": "Cuvelai",
+        "en": "Cuvelai",
+        "slug": "cuvelai-ao08065"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08065",
+        "level": 2,
+        "name": {
+          "local": "Cuvelai",
+          "en": "Cuvelai",
+          "slug": "cuvelai-ao08065"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.637",
+      "lon": "16.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08065218",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mupa",
+      "en": "Mupa",
+      "slug": "mupa-ao08065218"
+    },
+    "code": {
+      "id": "AO08065218",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08065",
+      "level": 2,
+      "name": {
+        "local": "Cuvelai",
+        "en": "Cuvelai",
+        "slug": "cuvelai-ao08065"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08065",
+        "level": 2,
+        "name": {
+          "local": "Cuvelai",
+          "en": "Cuvelai",
+          "slug": "cuvelai-ao08065"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.177",
+      "lon": "15.826"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

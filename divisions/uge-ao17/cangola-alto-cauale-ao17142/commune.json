@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO17142460",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bengo",
+      "en": "Bengo",
+      "slug": "bengo-ao17142460"
+    },
+    "code": {
+      "id": "AO17142460",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17142",
+      "level": 2,
+      "name": {
+        "local": "Cangola (Alto Cauale)",
+        "en": "Cangola (Alto Cauale)",
+        "slug": "cangola-alto-cauale-ao17142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17142",
+        "level": 2,
+        "name": {
+          "local": "Cangola (Alto Cauale)",
+          "en": "Cangola (Alto Cauale)",
+          "slug": "cangola-alto-cauale-ao17142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.078",
+      "lon": "15.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17142461",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Caiongo",
+      "en": "Caiongo",
+      "slug": "caiongo-ao17142461"
+    },
+    "code": {
+      "id": "AO17142461",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17142",
+      "level": 2,
+      "name": {
+        "local": "Cangola (Alto Cauale)",
+        "en": "Cangola (Alto Cauale)",
+        "slug": "cangola-alto-cauale-ao17142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17142",
+        "level": 2,
+        "name": {
+          "local": "Cangola (Alto Cauale)",
+          "en": "Cangola (Alto Cauale)",
+          "slug": "cangola-alto-cauale-ao17142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.631",
+      "lon": "15.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17142462",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kangola",
+      "en": "Kangola",
+      "slug": "kangola-ao17142462"
+    },
+    "code": {
+      "id": "AO17142462",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17142",
+      "level": 2,
+      "name": {
+        "local": "Cangola (Alto Cauale)",
+        "en": "Cangola (Alto Cauale)",
+        "slug": "cangola-alto-cauale-ao17142"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17142",
+        "level": 2,
+        "name": {
+          "local": "Cangola (Alto Cauale)",
+          "en": "Cangola (Alto Cauale)",
+          "slug": "cangola-alto-cauale-ao17142"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.911",
+      "lon": "15.908"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

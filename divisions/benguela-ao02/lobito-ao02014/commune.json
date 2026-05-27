@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO02014054",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Egito-Praia",
+      "en": "Egito-Praia",
+      "slug": "egito-praia-ao02014054"
+    },
+    "code": {
+      "id": "AO02014054",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02014",
+      "level": 2,
+      "name": {
+        "local": "Lobito",
+        "en": "Lobito",
+        "slug": "lobito-ao02014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02014",
+        "level": 2,
+        "name": {
+          "local": "Lobito",
+          "en": "Lobito",
+          "slug": "lobito-ao02014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.887",
+      "lon": "13.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02014055",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kanjala",
+      "en": "Kanjala",
+      "slug": "kanjala-ao02014055"
+    },
+    "code": {
+      "id": "AO02014055",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02014",
+      "level": 2,
+      "name": {
+        "local": "Lobito",
+        "en": "Lobito",
+        "slug": "lobito-ao02014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02014",
+        "level": 2,
+        "name": {
+          "local": "Lobito",
+          "en": "Lobito",
+          "slug": "lobito-ao02014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.153",
+      "lon": "13.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02014057",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lobito",
+      "en": "Lobito",
+      "slug": "lobito-ao02014057"
+    },
+    "code": {
+      "id": "AO02014057",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02014",
+      "level": 2,
+      "name": {
+        "local": "Lobito",
+        "en": "Lobito",
+        "slug": "lobito-ao02014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02014",
+        "level": 2,
+        "name": {
+          "local": "Lobito",
+          "en": "Lobito",
+          "slug": "lobito-ao02014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.328",
+      "lon": "13.746"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

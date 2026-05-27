@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO04025097",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Buco Zau",
+      "en": "Buco Zau",
+      "slug": "buco-zau-ao04025097"
+    },
+    "code": {
+      "id": "AO04025097",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04025",
+      "level": 2,
+      "name": {
+        "local": "Buco Zau",
+        "en": "Buco Zau",
+        "slug": "buco-zau-ao04025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      },
+      {
+        "id": "AO04025",
+        "level": 2,
+        "name": {
+          "local": "Buco Zau",
+          "en": "Buco Zau",
+          "slug": "buco-zau-ao04025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.727",
+      "lon": "12.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO04025098",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nekuto",
+      "en": "Nekuto",
+      "slug": "nekuto-ao04025098"
+    },
+    "code": {
+      "id": "AO04025098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04025",
+      "level": 2,
+      "name": {
+        "local": "Buco Zau",
+        "en": "Buco Zau",
+        "slug": "buco-zau-ao04025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      },
+      {
+        "id": "AO04025",
+        "level": 2,
+        "name": {
+          "local": "Buco Zau",
+          "en": "Buco Zau",
+          "slug": "buco-zau-ao04025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.962",
+      "lon": "12.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO04025099",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nhuca",
+      "en": "Nhuca",
+      "slug": "nhuca-ao04025099"
+    },
+    "code": {
+      "id": "AO04025099",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04025",
+      "level": 2,
+      "name": {
+        "local": "Buco Zau",
+        "en": "Buco Zau",
+        "slug": "buco-zau-ao04025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      },
+      {
+        "id": "AO04025",
+        "level": 2,
+        "name": {
+          "local": "Buco Zau",
+          "en": "Buco Zau",
+          "slug": "buco-zau-ao04025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.852",
+      "lon": "12.396"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

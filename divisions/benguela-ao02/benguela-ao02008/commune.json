@@ -1,0 +1,56 @@
+[
+  {
+    "id": "AO02008031",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Benguela",
+      "en": "Benguela",
+      "slug": "benguela-ao02008031"
+    },
+    "code": {
+      "id": "AO02008031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02008",
+      "level": 2,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02008",
+        "level": 2,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.811",
+      "lon": "13.612"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

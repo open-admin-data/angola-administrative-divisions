@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO10085275",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chipipa",
+      "en": "Chipipa",
+      "slug": "chipipa-ao10085275"
+    },
+    "code": {
+      "id": "AO10085275",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10085",
+      "level": 2,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10085"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10085",
+        "level": 2,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10085"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.46",
+      "lon": "15.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10085276",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Huambo",
+      "en": "Huambo",
+      "slug": "huambo-ao10085276"
+    },
+    "code": {
+      "id": "AO10085276",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10085",
+      "level": 2,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10085"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10085",
+        "level": 2,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10085"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.756",
+      "lon": "15.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10085277",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalima",
+      "en": "Kalima",
+      "slug": "kalima-ao10085277"
+    },
+    "code": {
+      "id": "AO10085277",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10085",
+      "level": 2,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10085"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10085",
+        "level": 2,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10085"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.051",
+      "lon": "15.864"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

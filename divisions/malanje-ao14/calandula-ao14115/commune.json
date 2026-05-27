@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO14115369",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Calandula",
+      "en": "Calandula",
+      "slug": "calandula-ao14115369"
+    },
+    "code": {
+      "id": "AO14115369",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14115",
+      "level": 2,
+      "name": {
+        "local": "Calandula",
+        "en": "Calandula",
+        "slug": "calandula-ao14115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14115",
+        "level": 2,
+        "name": {
+          "local": "Calandula",
+          "en": "Calandula",
+          "slug": "calandula-ao14115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.901",
+      "lon": "15.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14115370",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kateco-Kangola",
+      "en": "Kateco-Kangola",
+      "slug": "kateco-kangola-ao14115370"
+    },
+    "code": {
+      "id": "AO14115370",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14115",
+      "level": 2,
+      "name": {
+        "local": "Calandula",
+        "en": "Calandula",
+        "slug": "calandula-ao14115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14115",
+        "level": 2,
+        "name": {
+          "local": "Calandula",
+          "en": "Calandula",
+          "slug": "calandula-ao14115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.628",
+      "lon": "15.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14115371",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kinge",
+      "en": "Kinge",
+      "slug": "kinge-ao14115371"
+    },
+    "code": {
+      "id": "AO14115371",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14115",
+      "level": 2,
+      "name": {
+        "local": "Calandula",
+        "en": "Calandula",
+        "slug": "calandula-ao14115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14115",
+        "level": 2,
+        "name": {
+          "local": "Calandula",
+          "en": "Calandula",
+          "slug": "calandula-ao14115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.002",
+      "lon": "15.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14115372",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kota",
+      "en": "Kota",
+      "slug": "kota-ao14115372"
+    },
+    "code": {
+      "id": "AO14115372",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14115",
+      "level": 2,
+      "name": {
+        "local": "Calandula",
+        "en": "Calandula",
+        "slug": "calandula-ao14115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14115",
+        "level": 2,
+        "name": {
+          "local": "Calandula",
+          "en": "Calandula",
+          "slug": "calandula-ao14115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.209",
+      "lon": "16.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14115373",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kuale",
+      "en": "Kuale",
+      "slug": "kuale-ao14115373"
+    },
+    "code": {
+      "id": "AO14115373",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14115",
+      "level": 2,
+      "name": {
+        "local": "Calandula",
+        "en": "Calandula",
+        "slug": "calandula-ao14115"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14115",
+        "level": 2,
+        "name": {
+          "local": "Calandula",
+          "en": "Calandula",
+          "slug": "calandula-ao14115"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.426",
+      "lon": "16.125"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

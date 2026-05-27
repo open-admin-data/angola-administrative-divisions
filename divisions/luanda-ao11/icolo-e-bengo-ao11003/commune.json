@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO11003009",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bom Jesus",
+      "en": "Bom Jesus",
+      "slug": "bom-jesus-ao11003009"
+    },
+    "code": {
+      "id": "AO11003009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11003",
+      "level": 2,
+      "name": {
+        "local": "Icolo e Bengo",
+        "en": "Icolo e Bengo",
+        "slug": "icolo-e-bengo-ao11003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11003",
+        "level": 2,
+        "name": {
+          "local": "Icolo e Bengo",
+          "en": "Icolo e Bengo",
+          "slug": "icolo-e-bengo-ao11003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.102",
+      "lon": "13.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11003010",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Calomboloca",
+      "en": "Calomboloca",
+      "slug": "calomboloca-ao11003010"
+    },
+    "code": {
+      "id": "AO11003010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11003",
+      "level": 2,
+      "name": {
+        "local": "Icolo e Bengo",
+        "en": "Icolo e Bengo",
+        "slug": "icolo-e-bengo-ao11003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11003",
+        "level": 2,
+        "name": {
+          "local": "Icolo e Bengo",
+          "en": "Icolo e Bengo",
+          "slug": "icolo-e-bengo-ao11003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.233",
+      "lon": "13.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11003011",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Catete",
+      "en": "Catete",
+      "slug": "catete-ao11003011"
+    },
+    "code": {
+      "id": "AO11003011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11003",
+      "level": 2,
+      "name": {
+        "local": "Icolo e Bengo",
+        "en": "Icolo e Bengo",
+        "slug": "icolo-e-bengo-ao11003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11003",
+        "level": 2,
+        "name": {
+          "local": "Icolo e Bengo",
+          "en": "Icolo e Bengo",
+          "slug": "icolo-e-bengo-ao11003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.106",
+      "lon": "13.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11003012",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kabiri",
+      "en": "Kabiri",
+      "slug": "kabiri-ao11003012"
+    },
+    "code": {
+      "id": "AO11003012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11003",
+      "level": 2,
+      "name": {
+        "local": "Icolo e Bengo",
+        "en": "Icolo e Bengo",
+        "slug": "icolo-e-bengo-ao11003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11003",
+        "level": 2,
+        "name": {
+          "local": "Icolo e Bengo",
+          "en": "Icolo e Bengo",
+          "slug": "icolo-e-bengo-ao11003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.944",
+      "lon": "13.647"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

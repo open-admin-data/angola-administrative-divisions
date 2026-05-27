@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO17148477",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Beu",
+      "en": "Beu",
+      "slug": "beu-ao17148477"
+    },
+    "code": {
+      "id": "AO17148477",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17148",
+      "level": 2,
+      "name": {
+        "local": "Maquela do Zombo",
+        "en": "Maquela do Zombo",
+        "slug": "maquela-do-zombo-ao17148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17148",
+        "level": 2,
+        "name": {
+          "local": "Maquela do Zombo",
+          "en": "Maquela do Zombo",
+          "slug": "maquela-do-zombo-ao17148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.147",
+      "lon": "15.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17148478",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kibocolu",
+      "en": "Kibocolu",
+      "slug": "kibocolu-ao17148478"
+    },
+    "code": {
+      "id": "AO17148478",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17148",
+      "level": 2,
+      "name": {
+        "local": "Maquela do Zombo",
+        "en": "Maquela do Zombo",
+        "slug": "maquela-do-zombo-ao17148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17148",
+        "level": 2,
+        "name": {
+          "local": "Maquela do Zombo",
+          "en": "Maquela do Zombo",
+          "slug": "maquela-do-zombo-ao17148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.224",
+      "lon": "15.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17148479",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kuilu Futa",
+      "en": "Kuilu Futa",
+      "slug": "kuilu-futa-ao17148479"
+    },
+    "code": {
+      "id": "AO17148479",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17148",
+      "level": 2,
+      "name": {
+        "local": "Maquela do Zombo",
+        "en": "Maquela do Zombo",
+        "slug": "maquela-do-zombo-ao17148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17148",
+        "level": 2,
+        "name": {
+          "local": "Maquela do Zombo",
+          "en": "Maquela do Zombo",
+          "slug": "maquela-do-zombo-ao17148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.471",
+      "lon": "15.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17148480",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maquela do Zombo",
+      "en": "Maquela do Zombo",
+      "slug": "maquela-do-zombo-ao17148480"
+    },
+    "code": {
+      "id": "AO17148480",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17148",
+      "level": 2,
+      "name": {
+        "local": "Maquela do Zombo",
+        "en": "Maquela do Zombo",
+        "slug": "maquela-do-zombo-ao17148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17148",
+        "level": 2,
+        "name": {
+          "local": "Maquela do Zombo",
+          "en": "Maquela do Zombo",
+          "slug": "maquela-do-zombo-ao17148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.012",
+      "lon": "15.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17148481",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sakandika",
+      "en": "Sakandika",
+      "slug": "sakandika-ao17148481"
+    },
+    "code": {
+      "id": "AO17148481",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17148",
+      "level": 2,
+      "name": {
+        "local": "Maquela do Zombo",
+        "en": "Maquela do Zombo",
+        "slug": "maquela-do-zombo-ao17148"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17148",
+        "level": 2,
+        "name": {
+          "local": "Maquela do Zombo",
+          "en": "Maquela do Zombo",
+          "slug": "maquela-do-zombo-ao17148"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.058",
+      "lon": "15.862"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

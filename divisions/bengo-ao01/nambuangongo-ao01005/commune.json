@@ -1,0 +1,380 @@
+[
+  {
+    "id": "AO01005017",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gombe",
+      "en": "Gombe",
+      "slug": "gombe-ao01005017"
+    },
+    "code": {
+      "id": "AO01005017",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01005",
+      "level": 2,
+      "name": {
+        "local": "Nambuangongo",
+        "en": "Nambuangongo",
+        "slug": "nambuangongo-ao01005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01005",
+        "level": 2,
+        "name": {
+          "local": "Nambuangongo",
+          "en": "Nambuangongo",
+          "slug": "nambuangongo-ao01005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.157",
+      "lon": "14.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01005018",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kage",
+      "en": "Kage",
+      "slug": "kage-ao01005018"
+    },
+    "code": {
+      "id": "AO01005018",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01005",
+      "level": 2,
+      "name": {
+        "local": "Nambuangongo",
+        "en": "Nambuangongo",
+        "slug": "nambuangongo-ao01005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01005",
+        "level": 2,
+        "name": {
+          "local": "Nambuangongo",
+          "en": "Nambuangongo",
+          "slug": "nambuangongo-ao01005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.334",
+      "lon": "14.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01005019",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kanacassala",
+      "en": "Kanacassala",
+      "slug": "kanacassala-ao01005019"
+    },
+    "code": {
+      "id": "AO01005019",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01005",
+      "level": 2,
+      "name": {
+        "local": "Nambuangongo",
+        "en": "Nambuangongo",
+        "slug": "nambuangongo-ao01005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01005",
+        "level": 2,
+        "name": {
+          "local": "Nambuangongo",
+          "en": "Nambuangongo",
+          "slug": "nambuangongo-ao01005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.207",
+      "lon": "14.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01005020",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kicunzo",
+      "en": "Kicunzo",
+      "slug": "kicunzo-ao01005020"
+    },
+    "code": {
+      "id": "AO01005020",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01005",
+      "level": 2,
+      "name": {
+        "local": "Nambuangongo",
+        "en": "Nambuangongo",
+        "slug": "nambuangongo-ao01005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01005",
+        "level": 2,
+        "name": {
+          "local": "Nambuangongo",
+          "en": "Nambuangongo",
+          "slug": "nambuangongo-ao01005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.199",
+      "lon": "14.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01005021",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kixico",
+      "en": "Kixico",
+      "slug": "kixico-ao01005021"
+    },
+    "code": {
+      "id": "AO01005021",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01005",
+      "level": 2,
+      "name": {
+        "local": "Nambuangongo",
+        "en": "Nambuangongo",
+        "slug": "nambuangongo-ao01005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01005",
+        "level": 2,
+        "name": {
+          "local": "Nambuangongo",
+          "en": "Nambuangongo",
+          "slug": "nambuangongo-ao01005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.984",
+      "lon": "14.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01005022",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muxiluando",
+      "en": "Muxiluando",
+      "slug": "muxiluando-ao01005022"
+    },
+    "code": {
+      "id": "AO01005022",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01005",
+      "level": 2,
+      "name": {
+        "local": "Nambuangongo",
+        "en": "Nambuangongo",
+        "slug": "nambuangongo-ao01005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01005",
+        "level": 2,
+        "name": {
+          "local": "Nambuangongo",
+          "en": "Nambuangongo",
+          "slug": "nambuangongo-ao01005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.006",
+      "lon": "14.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01005023",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zala",
+      "en": "Zala",
+      "slug": "zala-ao01005023"
+    },
+    "code": {
+      "id": "AO01005023",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01005",
+      "level": 2,
+      "name": {
+        "local": "Nambuangongo",
+        "en": "Nambuangongo",
+        "slug": "nambuangongo-ao01005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01005",
+        "level": 2,
+        "name": {
+          "local": "Nambuangongo",
+          "en": "Nambuangongo",
+          "slug": "nambuangongo-ao01005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.869",
+      "lon": "14.113"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

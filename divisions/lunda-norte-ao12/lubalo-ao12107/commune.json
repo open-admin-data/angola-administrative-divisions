@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO12107340",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luangue",
+      "en": "Luangue",
+      "slug": "luangue-ao12107340"
+    },
+    "code": {
+      "id": "AO12107340",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12107",
+      "level": 2,
+      "name": {
+        "local": "Lubalo",
+        "en": "Lubalo",
+        "slug": "lubalo-ao12107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12107",
+        "level": 2,
+        "name": {
+          "local": "Lubalo",
+          "en": "Lubalo",
+          "slug": "lubalo-ao12107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.382",
+      "lon": "19.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12107341",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lubalo",
+      "en": "Lubalo",
+      "slug": "lubalo-ao12107341"
+    },
+    "code": {
+      "id": "AO12107341",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12107",
+      "level": 2,
+      "name": {
+        "local": "Lubalo",
+        "en": "Lubalo",
+        "slug": "lubalo-ao12107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12107",
+        "level": 2,
+        "name": {
+          "local": "Lubalo",
+          "en": "Lubalo",
+          "slug": "lubalo-ao12107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.189",
+      "lon": "19.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12107342",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muvulage",
+      "en": "Muvulage",
+      "slug": "muvulage-ao12107342"
+    },
+    "code": {
+      "id": "AO12107342",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12107",
+      "level": 2,
+      "name": {
+        "local": "Lubalo",
+        "en": "Lubalo",
+        "slug": "lubalo-ao12107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12107",
+        "level": 2,
+        "name": {
+          "local": "Lubalo",
+          "en": "Lubalo",
+          "slug": "lubalo-ao12107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.987",
+      "lon": "18.787"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

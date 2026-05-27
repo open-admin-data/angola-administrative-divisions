@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO16139453",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bentiaba",
+      "en": "Bentiaba",
+      "slug": "bentiaba-ao16139453"
+    },
+    "code": {
+      "id": "AO16139453",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16139",
+      "level": 2,
+      "name": {
+        "local": "Namibe",
+        "en": "Namibe",
+        "slug": "namibe-ao16139"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      },
+      {
+        "id": "AO16139",
+        "level": 2,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16139"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.161",
+      "lon": "12.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO16139454",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lucira",
+      "en": "Lucira",
+      "slug": "lucira-ao16139454"
+    },
+    "code": {
+      "id": "AO16139454",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16139",
+      "level": 2,
+      "name": {
+        "local": "Namibe",
+        "en": "Namibe",
+        "slug": "namibe-ao16139"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      },
+      {
+        "id": "AO16139",
+        "level": 2,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16139"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.783",
+      "lon": "12.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO16139455",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Namibe",
+      "en": "Namibe",
+      "slug": "namibe-ao16139455"
+    },
+    "code": {
+      "id": "AO16139455",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16139",
+      "level": 2,
+      "name": {
+        "local": "Namibe",
+        "en": "Namibe",
+        "slug": "namibe-ao16139"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      },
+      {
+        "id": "AO16139",
+        "level": 2,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16139"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.924",
+      "lon": "12.387"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

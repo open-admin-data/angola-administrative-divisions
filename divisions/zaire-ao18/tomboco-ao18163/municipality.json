@@ -1,0 +1,47 @@
+{
+  "id": "AO18163",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Tomboco",
+    "en": "Tomboco",
+    "slug": "tomboco-ao18163"
+  },
+  "code": {
+    "id": "AO18163",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO18",
+    "level": 1,
+    "name": {
+      "local": "Zaire",
+      "en": "Zaire",
+      "slug": "zaire-ao18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO18",
+      "level": 1,
+      "name": {
+        "local": "Zaire",
+        "en": "Zaire",
+        "slug": "zaire-ao18"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.684",
+    "lon": "13.407"
+  },
+  "metadata": {},
+  "source": {}
+}

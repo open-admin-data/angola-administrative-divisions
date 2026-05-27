@@ -1,0 +1,47 @@
+{
+  "id": "AO11092",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cacuaco",
+    "en": "Cacuaco",
+    "slug": "cacuaco-ao11092"
+  },
+  "code": {
+    "id": "AO11092",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO11",
+    "level": 1,
+    "name": {
+      "local": "Luanda",
+      "en": "Luanda",
+      "slug": "luanda-ao11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO11",
+      "level": 1,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.817",
+    "lon": "13.43"
+  },
+  "metadata": {},
+  "source": {}
+}

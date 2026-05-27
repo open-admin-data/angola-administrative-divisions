@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO09072239",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bambi",
+      "en": "Bambi",
+      "slug": "bambi-ao09072239"
+    },
+    "code": {
+      "id": "AO09072239",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09072",
+      "level": 2,
+      "name": {
+        "local": "Chipindo",
+        "en": "Chipindo",
+        "slug": "chipindo-ao09072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09072",
+        "level": 2,
+        "name": {
+          "local": "Chipindo",
+          "en": "Chipindo",
+          "slug": "chipindo-ao09072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.166",
+      "lon": "15.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09072240",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chipindo",
+      "en": "Chipindo",
+      "slug": "chipindo-ao09072240"
+    },
+    "code": {
+      "id": "AO09072240",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09072",
+      "level": 2,
+      "name": {
+        "local": "Chipindo",
+        "en": "Chipindo",
+        "slug": "chipindo-ao09072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09072",
+        "level": 2,
+        "name": {
+          "local": "Chipindo",
+          "en": "Chipindo",
+          "slug": "chipindo-ao09072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.723",
+      "lon": "15.826"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "AO01",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bengo",
+      "en": "Bengo",
+      "slug": "bengo-ao01"
+    },
+    "code": {
+      "id": "AO01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 6,
+      "commune": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.283",
+      "lon": "13.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Benguela",
+      "en": "Benguela",
+      "slug": "benguela-ao02"
+    },
+    "code": {
+      "id": "AO02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 10,
+      "commune": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.819",
+      "lon": "13.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bié",
+      "en": "Bié",
+      "slug": "bi-ao03"
+    },
+    "code": {
+      "id": "AO03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 9,
+      "commune": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.442",
+      "lon": "17.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO04",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cabinda",
+      "en": "Cabinda",
+      "slug": "cabinda-ao04"
+    },
+    "code": {
+      "id": "AO04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 4,
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.083",
+      "lon": "12.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cuando Cubango",
+      "en": "Cuando Cubango",
+      "slug": "cuando-cubango-ao05"
+    },
+    "code": {
+      "id": "AO05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 9,
+      "commune": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.803",
+      "lon": "19.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cuanza Norte",
+      "en": "Cuanza Norte",
+      "slug": "cuanza-norte-ao06"
+    },
+    "code": {
+      "id": "AO06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 10,
+      "commune": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.859",
+      "lon": "15.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cuanza Sul",
+      "en": "Cuanza Sul",
+      "slug": "cuanza-sul-ao07"
+    },
+    "code": {
+      "id": "AO07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 12,
+      "commune": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.942",
+      "lon": "15.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Cunene",
+      "en": "Cunene",
+      "slug": "cunene-ao08"
+    },
+    "code": {
+      "id": "AO08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 6,
+      "commune": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.293",
+      "lon": "15.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Huambo",
+      "en": "Huambo",
+      "slug": "huambo-ao10"
+    },
+    "code": {
+      "id": "AO10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 11,
+      "commune": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.605",
+      "lon": "15.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Huíla",
+      "en": "Huíla",
+      "slug": "hula-ao09"
+    },
+    "code": {
+      "id": "AO09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 14,
+      "commune": 38
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.852",
+      "lon": "15.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Luanda",
+      "en": "Luanda",
+      "slug": "luanda-ao11"
+    },
+    "code": {
+      "id": "AO11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 7,
+      "commune": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.592",
+      "lon": "13.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Lunda Norte",
+      "en": "Lunda Norte",
+      "slug": "lunda-norte-ao12"
+    },
+    "code": {
+      "id": "AO12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 9,
+      "commune": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.599",
+      "lon": "19.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO13",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Lunda Sul",
+      "en": "Lunda Sul",
+      "slug": "lunda-sul-ao13"
+    },
+    "code": {
+      "id": "AO13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 4,
+      "commune": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.897",
+      "lon": "20.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Malanje",
+      "en": "Malanje",
+      "slug": "malanje-ao14"
+    },
+    "code": {
+      "id": "AO14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 14,
+      "commune": 51
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.53",
+      "lon": "16.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Moxico",
+      "en": "Moxico",
+      "slug": "moxico-ao15"
+    },
+    "code": {
+      "id": "AO15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 9,
+      "commune": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.383",
+      "lon": "19.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO16",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Namibe",
+      "en": "Namibe",
+      "slug": "namibe-ao16"
+    },
+    "code": {
+      "id": "AO16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 5,
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.391",
+      "lon": "12.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Uíge",
+      "en": "Uíge",
+      "slug": "uge-ao17"
+    },
+    "code": {
+      "id": "AO17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 16,
+      "commune": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.139",
+      "lon": "15.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18",
+    "level": 1,
+    "level_name": {
+      "local": "Província",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Zaire",
+      "en": "Zaire",
+      "slug": "zaire-ao18"
+    },
+    "code": {
+      "id": "AO18",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "municipality": 6,
+      "commune": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.821",
+      "lon": "13.464"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO13112358",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cassai",
+      "en": "Cassai",
+      "slug": "cassai-ao13112358"
+    },
+    "code": {
+      "id": "AO13112358",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13112",
+      "level": 2,
+      "name": {
+        "local": "Muconda",
+        "en": "Muconda",
+        "slug": "muconda-ao13112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13112",
+        "level": 2,
+        "name": {
+          "local": "Muconda",
+          "en": "Muconda",
+          "slug": "muconda-ao13112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.725",
+      "lon": "21.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO13112359",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chiluange",
+      "en": "Chiluange",
+      "slug": "chiluange-ao13112359"
+    },
+    "code": {
+      "id": "AO13112359",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13112",
+      "level": 2,
+      "name": {
+        "local": "Muconda",
+        "en": "Muconda",
+        "slug": "muconda-ao13112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13112",
+        "level": 2,
+        "name": {
+          "local": "Muconda",
+          "en": "Muconda",
+          "slug": "muconda-ao13112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.709",
+      "lon": "21.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO13112360",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muconda",
+      "en": "Muconda",
+      "slug": "muconda-ao13112360"
+    },
+    "code": {
+      "id": "AO13112360",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13112",
+      "level": 2,
+      "name": {
+        "local": "Muconda",
+        "en": "Muconda",
+        "slug": "muconda-ao13112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13112",
+        "level": 2,
+        "name": {
+          "local": "Muconda",
+          "en": "Muconda",
+          "slug": "muconda-ao13112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.761",
+      "lon": "21.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO13112361",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muriege",
+      "en": "Muriege",
+      "slug": "muriege-ao13112361"
+    },
+    "code": {
+      "id": "AO13112361",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13112",
+      "level": 2,
+      "name": {
+        "local": "Muconda",
+        "en": "Muconda",
+        "slug": "muconda-ao13112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13112",
+        "level": 2,
+        "name": {
+          "local": "Muconda",
+          "en": "Muconda",
+          "slug": "muconda-ao13112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.785",
+      "lon": "21.043"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

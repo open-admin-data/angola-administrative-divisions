@@ -1,0 +1,47 @@
+{
+  "id": "AO13112",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Muconda",
+    "en": "Muconda",
+    "slug": "muconda-ao13112"
+  },
+  "code": {
+    "id": "AO13112",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO13",
+    "level": 1,
+    "name": {
+      "local": "Lunda Sul",
+      "en": "Lunda Sul",
+      "slug": "lunda-sul-ao13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO13",
+      "level": 1,
+      "name": {
+        "local": "Lunda Sul",
+        "en": "Lunda Sul",
+        "slug": "lunda-sul-ao13"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.168",
+    "lon": "21.471"
+  },
+  "metadata": {},
+  "source": {}
+}

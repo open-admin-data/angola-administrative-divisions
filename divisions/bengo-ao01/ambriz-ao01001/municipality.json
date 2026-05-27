@@ -1,0 +1,47 @@
+{
+  "id": "AO01001",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ambriz",
+    "en": "Ambriz",
+    "slug": "ambriz-ao01001"
+  },
+  "code": {
+    "id": "AO01001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO01",
+    "level": 1,
+    "name": {
+      "local": "Bengo",
+      "en": "Bengo",
+      "slug": "bengo-ao01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO01",
+      "level": 1,
+      "name": {
+        "local": "Bengo",
+        "en": "Bengo",
+        "slug": "bengo-ao01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.972",
+    "lon": "13.511"
+  },
+  "metadata": {},
+  "source": {}
+}

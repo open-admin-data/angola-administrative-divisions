@@ -1,0 +1,47 @@
+{
+  "id": "AO11094",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Luanda",
+    "en": "Luanda",
+    "slug": "luanda-ao11094"
+  },
+  "code": {
+    "id": "AO11094",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO11",
+    "level": 1,
+    "name": {
+      "local": "Luanda",
+      "en": "Luanda",
+      "slug": "luanda-ao11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO11",
+      "level": 1,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.832",
+    "lon": "13.244"
+  },
+  "metadata": {},
+  "source": {}
+}

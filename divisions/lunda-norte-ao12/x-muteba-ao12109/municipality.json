@@ -1,0 +1,47 @@
+{
+  "id": "AO12109",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Xá-Muteba",
+    "en": "Xá-Muteba",
+    "slug": "x-muteba-ao12109"
+  },
+  "code": {
+    "id": "AO12109",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO12",
+    "level": 1,
+    "name": {
+      "local": "Lunda Norte",
+      "en": "Lunda Norte",
+      "slug": "lunda-norte-ao12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.138",
+    "lon": "17.815"
+  },
+  "metadata": {},
+  "source": {}
+}

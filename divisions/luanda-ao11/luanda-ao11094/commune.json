@@ -1,0 +1,866 @@
+[
+  {
+    "id": "AO11094310",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cassequel",
+      "en": "Cassequel",
+      "slug": "cassequel-ao11094310"
+    },
+    "code": {
+      "id": "AO11094310",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.84",
+      "lon": "13.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094304",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ilha do Cabo",
+      "en": "Ilha do Cabo",
+      "slug": "ilha-do-cabo-ao11094304"
+    },
+    "code": {
+      "id": "AO11094304",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.814",
+      "lon": "13.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094305",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ingombota",
+      "en": "Ingombota",
+      "slug": "ingombota-ao11094305"
+    },
+    "code": {
+      "id": "AO11094305",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.816",
+      "lon": "13.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094309",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kilamba Kiaxi",
+      "en": "Kilamba Kiaxi",
+      "slug": "kilamba-kiaxi-ao11094309"
+    },
+    "code": {
+      "id": "AO11094309",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.869",
+      "lon": "13.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094306",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kinanga",
+      "en": "Kinanga",
+      "slug": "kinanga-ao11094306"
+    },
+    "code": {
+      "id": "AO11094306",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.812",
+      "lon": "13.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094307",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maculusso",
+      "en": "Maculusso",
+      "slug": "maculusso-ao11094307"
+    },
+    "code": {
+      "id": "AO11094307",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.824",
+      "lon": "13.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094311",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maianga",
+      "en": "Maianga",
+      "slug": "maianga-ao11094311"
+    },
+    "code": {
+      "id": "AO11094311",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.831",
+      "lon": "13.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094313",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marcal",
+      "en": "Marcal",
+      "slug": "marcal-ao11094313"
+    },
+    "code": {
+      "id": "AO11094313",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.821",
+      "lon": "13.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094320",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "N'gola Kilwanji",
+      "en": "N'gola Kilwanji",
+      "slug": "ngola-kilwanji-ao11094320"
+    },
+    "code": {
+      "id": "AO11094320",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.778",
+      "lon": "13.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094308",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Patrice Lumumba",
+      "en": "Patrice Lumumba",
+      "slug": "patrice-lumumba-ao11094308"
+    },
+    "code": {
+      "id": "AO11094308",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.807",
+      "lon": "13.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094312",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Prenda",
+      "en": "Prenda",
+      "slug": "prenda-ao11094312"
+    },
+    "code": {
+      "id": "AO11094312",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.864",
+      "lon": "13.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094314",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rangel",
+      "en": "Rangel",
+      "slug": "rangel-ao11094314"
+    },
+    "code": {
+      "id": "AO11094314",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.829",
+      "lon": "13.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094319",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Samba",
+      "en": "Samba",
+      "slug": "samba-ao11094319"
+    },
+    "code": {
+      "id": "AO11094319",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.86",
+      "lon": "13.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094321",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sambizanga",
+      "en": "Sambizanga",
+      "slug": "sambizanga-ao11094321"
+    },
+    "code": {
+      "id": "AO11094321",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.805",
+      "lon": "13.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094315",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Terra Nova",
+      "en": "Terra Nova",
+      "slug": "terra-nova-ao11094315"
+    },
+    "code": {
+      "id": "AO11094315",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.832",
+      "lon": "13.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094323",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Viana Sede",
+      "en": "Viana Sede",
+      "slug": "viana-sede-ao11094323"
+    },
+    "code": {
+      "id": "AO11094323",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11094",
+      "level": 2,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11094"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11094",
+        "level": 2,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11094"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.892",
+      "lon": "13.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

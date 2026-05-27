@@ -1,0 +1,47 @@
+{
+  "id": "AO11098",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Belas (Samba)",
+    "en": "Belas (Samba)",
+    "slug": "belas-samba-ao11098"
+  },
+  "code": {
+    "id": "AO11098",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO11",
+    "level": 1,
+    "name": {
+      "local": "Luanda",
+      "en": "Luanda",
+      "slug": "luanda-ao11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO11",
+      "level": 1,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.115",
+    "lon": "13.151"
+  },
+  "metadata": {},
+  "source": {}
+}

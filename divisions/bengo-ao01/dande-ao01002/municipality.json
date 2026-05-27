@@ -1,0 +1,47 @@
+{
+  "id": "AO01002",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Dande",
+    "en": "Dande",
+    "slug": "dande-ao01002"
+  },
+  "code": {
+    "id": "AO01002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO01",
+    "level": 1,
+    "name": {
+      "local": "Bengo",
+      "en": "Bengo",
+      "slug": "bengo-ao01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO01",
+      "level": 1,
+      "name": {
+        "local": "Bengo",
+        "en": "Bengo",
+        "slug": "bengo-ao01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.5",
+    "lon": "13.813"
+  },
+  "metadata": {},
+  "source": {}
+}

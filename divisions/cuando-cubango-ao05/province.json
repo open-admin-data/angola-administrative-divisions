@@ -1,0 +1,30 @@
+{
+  "id": "AO05",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Cuando Cubango",
+    "en": "Cuando Cubango",
+    "slug": "cuando-cubango-ao05"
+  },
+  "code": {
+    "id": "AO05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 9,
+    "commune": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.803",
+    "lon": "19.467"
+  },
+  "metadata": {},
+  "source": {}
+}

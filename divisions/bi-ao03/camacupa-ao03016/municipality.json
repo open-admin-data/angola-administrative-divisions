@@ -1,0 +1,47 @@
+{
+  "id": "AO03016",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Camacupa",
+    "en": "Camacupa",
+    "slug": "camacupa-ao03016"
+  },
+  "code": {
+    "id": "AO03016",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO03",
+    "level": 1,
+    "name": {
+      "local": "Bié",
+      "en": "Bié",
+      "slug": "bi-ao03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO03",
+      "level": 1,
+      "name": {
+        "local": "Bié",
+        "en": "Bié",
+        "slug": "bi-ao03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.38",
+    "lon": "17.712"
+  },
+  "metadata": {},
+  "source": {}
+}

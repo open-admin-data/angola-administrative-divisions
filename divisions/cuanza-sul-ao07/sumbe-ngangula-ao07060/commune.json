@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO07060199",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gangula",
+      "en": "Gangula",
+      "slug": "gangula-ao07060199"
+    },
+    "code": {
+      "id": "AO07060199",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07060",
+      "level": 2,
+      "name": {
+        "local": "Sumbe (Ngangula)",
+        "en": "Sumbe (Ngangula)",
+        "slug": "sumbe-ngangula-ao07060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07060",
+        "level": 2,
+        "name": {
+          "local": "Sumbe (Ngangula)",
+          "en": "Sumbe (Ngangula)",
+          "slug": "sumbe-ngangula-ao07060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.046",
+      "lon": "14.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07060200",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gungo",
+      "en": "Gungo",
+      "slug": "gungo-ao07060200"
+    },
+    "code": {
+      "id": "AO07060200",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07060",
+      "level": 2,
+      "name": {
+        "local": "Sumbe (Ngangula)",
+        "en": "Sumbe (Ngangula)",
+        "slug": "sumbe-ngangula-ao07060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07060",
+        "level": 2,
+        "name": {
+          "local": "Sumbe (Ngangula)",
+          "en": "Sumbe (Ngangula)",
+          "slug": "sumbe-ngangula-ao07060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.75",
+      "lon": "14.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07060201",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kikombo",
+      "en": "Kikombo",
+      "slug": "kikombo-ao07060201"
+    },
+    "code": {
+      "id": "AO07060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07060",
+      "level": 2,
+      "name": {
+        "local": "Sumbe (Ngangula)",
+        "en": "Sumbe (Ngangula)",
+        "slug": "sumbe-ngangula-ao07060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07060",
+        "level": 2,
+        "name": {
+          "local": "Sumbe (Ngangula)",
+          "en": "Sumbe (Ngangula)",
+          "slug": "sumbe-ngangula-ao07060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.542",
+      "lon": "13.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07060202",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sumbe",
+      "en": "Sumbe",
+      "slug": "sumbe-ao07060202"
+    },
+    "code": {
+      "id": "AO07060202",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07060",
+      "level": 2,
+      "name": {
+        "local": "Sumbe (Ngangula)",
+        "en": "Sumbe (Ngangula)",
+        "slug": "sumbe-ngangula-ao07060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07060",
+        "level": 2,
+        "name": {
+          "local": "Sumbe (Ngangula)",
+          "en": "Sumbe (Ngangula)",
+          "slug": "sumbe-ngangula-ao07060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.266",
+      "lon": "13.937"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

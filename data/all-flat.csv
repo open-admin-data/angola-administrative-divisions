@@ -1,0 +1,180 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.province,children_count.municipality,children_count.commune,zip_codes,geo.lat,geo.lon
+AO01,1,Província,Province,Bengo,Bengo,bengo-ao01,AO01,,,,,,6,23,,-8.283,13.987
+AO01001,2,Município,Municipality,Ambriz,Ambriz,ambriz-ao01001,AO01001,,AO01,Bengo,Bengo,,,3,,-7.972,13.511
+AO01002,2,Município,Municipality,Dande,Dande,dande-ao01002,AO01002,,AO01,Bengo,Bengo,,,6,,-8.5,13.813
+AO01005,2,Município,Municipality,Nambuangongo,Nambuangongo,nambuangongo-ao01005,AO01005,,AO01,Bengo,Bengo,,,7,,-8.042,14.284
+AO01040,2,Município,Municipality,Bula-Atumba,Bula-Atumba,bula-atumba-ao01040,AO01040,,AO01,Bengo,Bengo,,,2,,-8.602,14.853
+AO01043,2,Município,Municipality,Dembos-Quibaxe,Dembos-Quibaxe,dembos-quibaxe-ao01043,AO01043,,AO01,Bengo,Bengo,,,4,,-8.548,14.532
+AO01047,2,Município,Municipality,Pango-Aluquém,Pango-Aluquém,pango-aluqum-ao01047,AO01047,,AO01,Bengo,Bengo,,,1,,-8.754,14.495
+AO02,1,Província,Province,Benguela,Benguela,benguela-ao02,AO02,,,,,,10,35,,-12.819,13.9
+AO02006,2,Município,Municipality,Baía Farta,Baía Farta,baa-farta-ao02006,AO02006,,AO02,Benguela,Benguela,,,4,,-13.104,13.257
+AO02007,2,Município,Municipality,Balombo,Balombo,balombo-ao02007,AO02007,,AO02,Benguela,Benguela,,,3,,-12.355,14.752
+AO02008,2,Município,Municipality,Benguela,Benguela,benguela-ao02008,AO02008,,AO02,Benguela,Benguela,,,1,,-12.811,13.612
+AO02009,2,Município,Municipality,Bocoio,Bocoio,bocoio-ao02009,AO02009,,AO02,Benguela,Benguela,,,5,,-12.287,14.22
+AO02010,2,Município,Municipality,Caimbambo,Caimbambo,caimbambo-ao02010,AO02010,,AO02,Benguela,Benguela,,,5,,-13.082,13.95
+AO02011,2,Município,Municipality,Chongoroi,Chongoroi,chongoroi-ao02011,AO02011,,AO02,Benguela,Benguela,,,2,,-13.499,13.761
+AO02012,2,Município,Municipality,Cubal,Cubal,cubal-ao02012,AO02012,,AO02,Benguela,Benguela,,,4,,-13.157,14.392
+AO02013,2,Município,Municipality,Ganda,Ganda,ganda-ao02013,AO02013,,AO02,Benguela,Benguela,,,5,,-13.122,14.764
+AO02014,2,Município,Municipality,Lobito,Lobito,lobito-ao02014,AO02014,,AO02,Benguela,Benguela,,,3,,-12.096,13.899
+AO02164,2,Município,Municipality,Catumbela,Catumbela,catumbela-ao02164,AO02164,,AO02,Benguela,Benguela,,,3,,-12.497,13.652
+AO03,1,Província,Province,Bié,Bié,bi-ao03,AO03,,,,,,9,36,,-12.442,17.417
+AO03015,2,Município,Municipality,Andulo,Andulo,andulo-ao03015,AO03015,,AO03,Bié,Bié,,,4,,-11.253,16.425
+AO03016,2,Município,Municipality,Camacupa,Camacupa,camacupa-ao03016,AO03016,,AO03,Bié,Bié,,,5,,-12.38,17.712
+AO03017,2,Município,Municipality,Catabola,Catabola,catabola-ao03017,AO03017,,AO03,Bié,Bié,,,4,,-12.138,17.248
+AO03018,2,Município,Municipality,Chinguar,Chinguar,chinguar-ao03018,AO03018,,AO03,Bié,Bié,,,3,,-12.547,16.52
+AO03019,2,Município,Municipality,Chitembo,Chitembo,chitembo-ao03019,AO03019,,AO03,Bié,Bié,,,6,,-13.579,17.243
+AO03020,2,Município,Municipality,Cuemba,Cuemba,cuemba-ao03020,AO03020,,AO03,Bié,Bié,,,4,,-11.734,18.302
+AO03021,2,Município,Municipality,Cunhinga,Cunhinga,cunhinga-ao03021,AO03021,,AO03,Bié,Bié,,,1,,-11.974,16.822
+AO03022,2,Município,Municipality,Cuito (Kuito),Cuito (Kuito),cuito-kuito-ao03022,AO03022,,AO03,Bié,Bié,,,4,,-12.469,17.004
+AO03023,2,Município,Municipality,N'harea,N'harea,nharea-ao03023,AO03023,,AO03,Bié,Bié,,,5,,-11.288,17.222
+AO04,1,Província,Province,Cabinda,Cabinda,cabinda-ao04,AO04,,,,,,4,12,,-5.083,12.26
+AO04024,2,Município,Municipality,Belize,Belize,belize-ao04024,AO04024,,AO04,Cabinda,Cabinda,,,3,,-4.587,12.839
+AO04025,2,Município,Municipality,Buco Zau,Buco Zau,buco-zau-ao04025,AO04025,,AO04,Cabinda,Cabinda,,,3,,-4.817,12.546
+AO04026,2,Município,Municipality,Cabinda,Cabinda,cabinda-ao04026,AO04026,,AO04,Cabinda,Cabinda,,,3,,-5.442,12.376
+AO04027,2,Município,Municipality,Cacongo (Landana),Cacongo (Landana),cacongo-landana-ao04027,AO04027,,AO04,Cabinda,Cabinda,,,3,,-5.022,12.238
+AO05,1,Província,Province,Cuando Cubango,Cuando Cubango,cuando-cubango-ao05,AO05,,,,,,9,27,,-15.803,19.467
+AO05028,2,Município,Municipality,Calai,Calai,calai-ao05028,AO05028,,AO05,Cuando Cubango,Cuando Cubango,,,2,,-17.338,19.476
+AO05029,2,Município,Municipality,Cuangar,Cuangar,cuangar-ao05029,AO05029,,AO05,Cuando Cubango,Cuando Cubango,,,3,,-17.095,18.15
+AO05030,2,Município,Municipality,Cuchi,Cuchi,cuchi-ao05030,AO05030,,AO05,Cuando Cubango,Cuando Cubango,,,3,,-14.739,17.009
+AO05031,2,Município,Municipality,Cuito Cuanavale,Cuito Cuanavale,cuito-cuanavale-ao05031,AO05031,,AO05,Cuando Cubango,Cuando Cubango,,,4,,-14.852,19.023
+AO05032,2,Município,Municipality,Dirico,Dirico,dirico-ao05032,AO05032,,AO05,Cuando Cubango,Cuando Cubango,,,3,,-17.517,20.731
+AO05033,2,Município,Municipality,Mavinga,Mavinga,mavinga-ao05033,AO05033,,AO05,Cuando Cubango,Cuando Cubango,,,4,,-16.142,20.091
+AO05034,2,Município,Municipality,Menongue,Menongue,menongue-ao05034,AO05034,,AO05,Cuando Cubango,Cuando Cubango,,,3,,-15.152,17.723
+AO05035,2,Município,Municipality,Nancova,Nancova,nancova-ao05035,AO05035,,AO05,Cuando Cubango,Cuando Cubango,,,2,,-16.448,18.697
+AO05036,2,Município,Municipality,Rivungo,Rivungo,rivungo-ao05036,AO05036,,AO05,Cuando Cubango,Cuando Cubango,,,3,,-16.771,21.921
+AO06,1,Província,Province,Cuanza Norte,Cuanza Norte,cuanza-norte-ao06,AO06,,,,,,10,31,,-8.859,15.096
+AO06037,2,Município,Municipality,Ambaca,Ambaca,ambaca-ao06037,AO06037,,AO06,Cuanza Norte,Cuanza Norte,,,5,,-8.248,15.485
+AO06038,2,Município,Municipality,Banga,Banga,banga-ao06038,AO06038,,AO06,Cuanza Norte,Cuanza Norte,,,5,,-8.709,15.136
+AO06039,2,Município,Municipality,Bolongongo,Bolongongo,bolongongo-ao06039,AO06039,,AO06,Cuanza Norte,Cuanza Norte,,,3,,-8.384,15.134
+AO06041,2,Município,Municipality,Cambambe (Kambambe),Cambambe (Kambambe),cambambe-kambambe-ao06041,AO06041,,AO06,Cuanza Norte,Cuanza Norte,,,5,,-9.315,14.293
+AO06042,2,Município,Municipality,Cazengo,Cazengo,cazengo-ao06042,AO06042,,AO06,Cuanza Norte,Cuanza Norte,,,2,,-9.285,14.74
+AO06044,2,Município,Municipality,Golungo Alto,Golungo Alto,golungo-alto-ao06044,AO06044,,AO06,Cuanza Norte,Cuanza Norte,,,4,,-9.043,14.657
+AO06045,2,Município,Municipality,Lucala,Lucala,lucala-ao06045,AO06045,,AO06,Cuanza Norte,Cuanza Norte,,,2,,-9.144,15.272
+AO06046,2,Município,Municipality,Ngonguembo,Ngonguembo,ngonguembo-ao06046,AO06046,,AO06,Cuanza Norte,Cuanza Norte,,,2,,-8.902,14.845
+AO06048,2,Município,Municipality,Quiculungo,Quiculungo,quiculungo-ao06048,AO06048,,AO06,Cuanza Norte,Cuanza Norte,,,1,,-8.493,15.295
+AO06049,2,Município,Municipality,Samba Cajú,Samba Cajú,samba-caj-ao06049,AO06049,,AO06,Cuanza Norte,Cuanza Norte,,,2,,-8.816,15.486
+AO07,1,Província,Province,Cuanza Sul,Cuanza Sul,cuanza-sul-ao07,AO07,,,,,,12,36,,-10.942,15.049
+AO07050,2,Município,Municipality,Amboim (Gabela),Amboim (Gabela),amboim-gabela-ao07050,AO07050,,AO07,Cuanza Sul,Cuanza Sul,,,2,,-10.9,14.402
+AO07051,2,Município,Municipality,Cassongue,Cassongue,cassongue-ao07051,AO07051,,AO07,Cuanza Sul,Cuanza Sul,,,4,,-11.787,14.961
+AO07052,2,Município,Municipality,Conda,Conda,conda-ao07052,AO07052,,AO07,Cuanza Sul,Cuanza Sul,,,2,,-11.164,14.493
+AO07053,2,Município,Municipality,Ebo,Ebo,ebo-ao07053,AO07053,,AO07,Cuanza Sul,Cuanza Sul,,,3,,-10.89,14.751
+AO07054,2,Município,Municipality,Libolo (Calulo),Libolo (Calulo),libolo-calulo-ao07054,AO07054,,AO07,Cuanza Sul,Cuanza Sul,,,4,,-10.079,14.968
+AO07055,2,Município,Municipality,Mussende,Mussende,mussende-ao07055,AO07055,,AO07,Cuanza Sul,Cuanza Sul,,,3,,-10.36,16.111
+AO07056,2,Município,Municipality,Porto Amboim,Porto Amboim,porto-amboim-ao07056,AO07056,,AO07,Cuanza Sul,Cuanza Sul,,,2,,-10.617,14.003
+AO07057,2,Município,Municipality,Quibala,Quibala,quibala-ao07057,AO07057,,AO07,Cuanza Sul,Cuanza Sul,,,4,,-10.76,15.367
+AO07058,2,Município,Municipality,Quilenda,Quilenda,quilenda-ao07058,AO07058,,AO07,Cuanza Sul,Cuanza Sul,,,2,,-10.529,14.401
+AO07059,2,Município,Municipality,Seles (Uku Seles),Seles (Uku Seles),seles-uku-seles-ao07059,AO07059,,AO07,Cuanza Sul,Cuanza Sul,,,3,,-11.438,14.498
+AO07060,2,Município,Municipality,Sumbe (Ngangula),Sumbe (Ngangula),sumbe-ngangula-ao07060,AO07060,,AO07,Cuanza Sul,Cuanza Sul,,,4,,-11.436,13.924
+AO07061,2,Município,Municipality,Cela (Waku Kungo),Cela (Waku Kungo),cela-waku-kungo-ao07061,AO07061,,AO07,Cuanza Sul,Cuanza Sul,,,3,,-11.31,15.351
+AO08,1,Província,Province,Cunene,Cunene,cunene-ao08,AO08,,,,,,6,20,,-16.293,15.601
+AO08062,2,Município,Municipality,Cahama,Cahama,cahama-ao08062,AO08062,,AO08,Cunene,Cunene,,,2,,-16.427,14.117
+AO08063,2,Município,Municipality,Cuanhama,Cuanhama,cuanhama-ao08063,AO08063,,AO08,Cunene,Cunene,,,5,,-16.53,16.372
+AO08064,2,Município,Municipality,Curoca,Curoca,curoca-ao08064,AO08064,,AO08,Cunene,Cunene,,,2,,-16.845,13.509
+AO08065,2,Município,Municipality,Cuvelai,Cuvelai,cuvelai-ao08065,AO08065,,AO08,Cunene,Cunene,,,4,,-15.774,16.085
+AO08066,2,Município,Municipality,Namacunde,Namacunde,namacunde-ao08066,AO08066,,AO08,Cunene,Cunene,,,2,,-16.977,16.589
+AO08067,2,Município,Municipality,Ombadja,Ombadja,ombadja-ao08067,AO08067,,AO08,Cunene,Cunene,,,5,,-16.689,14.853
+AO09,1,Província,Province,Huíla,Huíla,hula-ao09,AO09,,,,,,14,38,,-14.852,15.01
+AO09068,2,Município,Municipality,Caconda,Caconda,caconda-ao09068,AO09068,,AO09,Huíla,Huíla,,,4,,-13.755,15.137
+AO09069,2,Município,Municipality,Caluquembe,Caluquembe,caluquembe-ao09069,AO09069,,AO09,Huíla,Huíla,,,3,,-13.928,14.557
+AO09070,2,Município,Municipality,Chibia,Chibia,chibia-ao09070,AO09070,,AO09,Huíla,Huíla,,,4,,-15.208,13.824
+AO09071,2,Município,Municipality,Chicomba,Chicomba,chicomba-ao09071,AO09071,,AO09,Huíla,Huíla,,,2,,-14.318,15.029
+AO09072,2,Município,Municipality,Chipindo,Chipindo,chipindo-ao09072,AO09072,,AO09,Huíla,Huíla,,,2,,-13.915,15.712
+AO09073,2,Município,Municipality,Gambos (ex-Chiange),Gambos (ex-Chiange),gambos-ex-chiange-ao09073,AO09073,,AO09,Huíla,Huíla,,,2,,-15.833,14.234
+AO09074,2,Município,Municipality,Humpata,Humpata,humpata-ao09074,AO09074,,AO09,Huíla,Huíla,,,1,,-15.098,13.384
+AO09075,2,Município,Municipality,Jamba,Jamba,jamba-ao09075,AO09075,,AO09,Huíla,Huíla,,,3,,-14.783,15.816
+AO09076,2,Município,Municipality,Cuvango (Kuvango),Cuvango (Kuvango),cuvango-kuvango-ao09076,AO09076,,AO09,Huíla,Huíla,,,3,,-14.275,16.303
+AO09077,2,Município,Municipality,Lubango,Lubango,lubango-ao09077,AO09077,,AO09,Huíla,Huíla,,,3,,-14.788,13.737
+AO09078,2,Município,Municipality,Matala,Matala,matala-ao09078,AO09078,,AO09,Huíla,Huíla,,,3,,-15.252,15.192
+AO09079,2,Município,Municipality,Quilengues,Quilengues,quilengues-ao09079,AO09079,,AO09,Huíla,Huíla,,,3,,-14.163,13.755
+AO09080,2,Município,Municipality,Quipungo (Tchipungo),Quipungo (Tchipungo),quipungo-tchipungo-ao09080,AO09080,,AO09,Huíla,Huíla,,,1,,-15.073,14.583
+AO09165,2,Município,Municipality,Cacula,Cacula,cacula-ao09165,AO09165,,AO09,Huíla,Huíla,,,4,,-14.413,14.385
+AO10,1,Província,Province,Huambo,Huambo,huambo-ao10,AO10,,,,,,11,37,,-12.605,15.609
+AO10081,2,Município,Municipality,Bailundo,Bailundo,bailundo-ao10081,AO10081,,AO10,Huambo,Huambo,,,5,,-11.924,15.679
+AO10082,2,Município,Municipality,Caála,Caála,cala-ao10082,AO10082,,AO10,Huambo,Huambo,,,4,,-13.252,15.515
+AO10083,2,Município,Municipality,Catchiungo,Catchiungo,catchiungo-ao10083,AO10083,,AO10,Huambo,Huambo,,,3,,-12.841,16.351
+AO10084,2,Município,Municipality,Ecunha (Ekunha),Ecunha (Ekunha),ecunha-ekunha-ao10084,AO10084,,AO10,Huambo,Huambo,,,2,,-12.522,15.481
+AO10085,2,Município,Municipality,Huambo,Huambo,huambo-ao10085,AO10085,,AO10,Huambo,Huambo,,,3,,-12.828,15.804
+AO10086,2,Município,Municipality,Londuimbale,Londuimbale,londuimbale-ao10086,AO10086,,AO10,Huambo,Huambo,,,5,,-12.252,15.35
+AO10087,2,Município,Municipality,Longonjo,Longonjo,longonjo-ao10087,AO10087,,AO10,Huambo,Huambo,,,4,,-13.043,15.314
+AO10088,2,Município,Municipality,Mungo,Mungo,mungo-ao10088,AO10088,,AO10,Huambo,Huambo,,,2,,-11.737,16.176
+AO10089,2,Município,Municipality,Tchikala-Tcholohanga,Tchikala-Tcholohanga,tchikala-tcholohanga-ao10089,AO10089,,AO10,Huambo,Huambo,,,4,,-12.864,16.089
+AO10090,2,Município,Municipality,Tchinjenje,Tchinjenje,tchinjenje-ao10090,AO10090,,AO10,Huambo,Huambo,,,2,,-12.84,14.937
+AO10091,2,Município,Municipality,Ukuma,Ukuma,ukuma-ao10091,AO10091,,AO10,Huambo,Huambo,,,3,,-12.762,15.129
+AO11,1,Província,Province,Luanda,Luanda,luanda-ao11,AO11,,,,,,7,39,,-9.592,13.679
+AO11003,2,Município,Municipality,Icolo e Bengo,Icolo e Bengo,icolo-e-bengo-ao11003,AO11003,,AO11,Luanda,Luanda,,,4,,-9.189,13.887
+AO11004,2,Município,Municipality,"Quissama (Muxima, Quiçama)","Quissama (Muxima, Quiçama)",quissama-muxima-quiama-ao11004,AO11004,,AO11,Luanda,Luanda,,,4,,-9.795,13.923
+AO11092,2,Município,Municipality,Cacuaco,Cacuaco,cacuaco-ao11092,AO11092,,AO11,Luanda,Luanda,,,3,,-8.817,13.43
+AO11093,2,Município,Municipality,Cazenga,Cazenga,cazenga-ao11093,AO11093,,AO11,Luanda,Luanda,,,4,,-8.822,13.297
+AO11094,2,Município,Municipality,Luanda,Luanda,luanda-ao11094,AO11094,,AO11,Luanda,Luanda,,,16,,-8.832,13.244
+AO11098,2,Município,Municipality,Belas (Samba),Belas (Samba),belas-samba-ao11098,AO11098,,AO11,Luanda,Luanda,,,6,,-9.115,13.151
+AO11100,2,Município,Municipality,Viana,Viana,viana-ao11100,AO11100,,AO11,Luanda,Luanda,,,2,,-9.008,13.399
+AO12,1,Província,Province,Lunda Norte,Lunda Norte,lunda-norte-ao12,AO12,,,,,,9,25,,-8.599,19.35
+AO12101,2,Município,Municipality,Cambulo,Cambulo,cambulo-ao12101,AO12101,,AO12,Lunda Norte,Lunda Norte,,,4,,-7.93,21.442
+AO12102,2,Município,Municipality,Capenda-Camulemba,Capenda-Camulemba,capenda-camulemba-ao12102,AO12102,,AO12,Lunda Norte,Lunda Norte,,,2,,-9.686,18.931
+AO12103,2,Município,Municipality,Caungula,Caungula,caungula-ao12103,AO12103,,AO12,Lunda Norte,Lunda Norte,,,2,,-8.366,18.804
+AO12104,2,Município,Municipality,Chitato (Lóvua),Chitato (Lóvua),chitato-lvua-ao12104,AO12104,,AO12,Lunda Norte,Lunda Norte,,,3,,-7.394,20.459
+AO12105,2,Município,Municipality,Cuango,Cuango,cuango-ao12105,AO12105,,AO12,Lunda Norte,Lunda Norte,,,2,,-8.667,18.123
+AO12106,2,Município,Municipality,Cuilo,Cuilo,cuilo-ao12106,AO12106,,AO12,Lunda Norte,Lunda Norte,,,2,,-8.011,19.682
+AO12107,2,Município,Municipality,Lubalo,Lubalo,lubalo-ao12107,AO12107,,AO12,Lunda Norte,Lunda Norte,,,3,,-9.281,19.339
+AO12108,2,Município,Municipality,Lucapa,Lucapa,lucapa-ao12108,AO12108,,AO12,Lunda Norte,Lunda Norte,,,4,,-8.526,20.626
+AO12109,2,Município,Municipality,Xá-Muteba,Xá-Muteba,x-muteba-ao12109,AO12109,,AO12,Lunda Norte,Lunda Norte,,,3,,-9.138,17.815
+AO13,1,Província,Province,Lunda Sul,Lunda Sul,lunda-sul-ao13,AO13,,,,,,4,16,,-9.897,20.954
+AO13110,2,Município,Municipality,Cacolo,Cacolo,cacolo-ao13110,AO13110,,AO13,Lunda Sul,Lunda Sul,,,6,,-10.517,19.094
+AO13111,2,Município,Municipality,Dala,Dala,dala-ao13111,AO13111,,AO13,Lunda Sul,Lunda Sul,,,3,,-10.909,20.311
+AO13112,2,Município,Municipality,Muconda,Muconda,muconda-ao13112,AO13112,,AO13,Lunda Sul,Lunda Sul,,,4,,-10.168,21.471
+AO13113,2,Município,Municipality,Saurimo,Saurimo,saurimo-ao13113,AO13113,,AO13,Lunda Sul,Lunda Sul,,,3,,-9.49,20.347
+AO14,1,Província,Province,Malanje,Malanje,malanje-ao14,AO14,,,,,,14,51,,-9.53,16.266
+AO14114,2,Município,Municipality,Cacuso,Cacuso,cacuso-ao14114,AO14114,,AO14,Malanje,Malanje,,,4,,-9.473,15.683
+AO14115,2,Município,Municipality,Calandula,Calandula,calandula-ao14115,AO14115,,AO14,Malanje,Malanje,,,5,,-8.737,15.933
+AO14116,2,Município,Municipality,Cambundi-Catembo,Cambundi-Catembo,cambundi-catembo-ao14116,AO14116,,AO14,Malanje,Malanje,,,4,,-10.124,17.882
+AO14117,2,Município,Municipality,Cangandala,Cangandala,cangandala-ao14117,AO14117,,AO14,Malanje,Malanje,,,4,,-9.963,16.636
+AO14118,2,Município,Municipality,Cahombo,Cahombo,cahombo-ao14118,AO14118,,AO14,Malanje,Malanje,,,4,,-8.715,16.591
+AO14119,2,Município,Municipality,Kiuaba-N'Zoji (Cuaba Nzogo),Kiuaba-N'Zoji (Cuaba Nzogo),kiuaba-nzoji-cuaba-nzogo-ao14119,AO14119,,AO14,Malanje,Malanje,,,2,,-9.039,16.415
+AO14120,2,Município,Municipality,Cunda-dia-Baze,Cunda-dia-Baze,cunda-dia-baze-ao14120,AO14120,,AO14,Malanje,Malanje,,,3,,-8.632,17.387
+AO14121,2,Município,Municipality,Luquembo,Luquembo,luquembo-ao14121,AO14121,,AO14,Malanje,Malanje,,,4,,-10.99,17.57
+AO14122,2,Município,Municipality,Malanje,Malanje,malanje-ao14122,AO14122,,AO14,Malanje,Malanje,,,6,,-9.447,16.431
+AO14123,2,Município,Municipality,Marimba,Marimba,marimba-ao14123,AO14123,,AO14,Malanje,Malanje,,,3,,-8.169,17.103
+AO14124,2,Município,Municipality,Massango,Massango,massango-ao14124,AO14124,,AO14,Malanje,Malanje,,,3,,-7.768,16.632
+AO14125,2,Município,Municipality,Mucari,Mucari,mucari-ao14125,AO14125,,AO14,Malanje,Malanje,,,4,,-9.448,16.915
+AO14126,2,Município,Municipality,Quela,Quela,quela-ao14126,AO14126,,AO14,Malanje,Malanje,,,3,,-9.406,17.208
+AO14127,2,Município,Municipality,Quirima,Quirima,quirima-ao14127,AO14127,,AO14,Malanje,Malanje,,,2,,-11.015,18.266
+AO15,1,Província,Province,Moxico,Moxico,moxico-ao15,AO15,,,,,,9,31,,-13.383,19.974
+AO15128,2,Município,Municipality,Alto Zambeze,Alto Zambeze,alto-zambeze-ao15128,AO15128,,AO15,Moxico,Moxico,,,8,,-12.163,23.161
+AO15129,2,Município,Municipality,Camanongue,Camanongue,camanongue-ao15129,AO15129,,AO15,Moxico,Moxico,,,1,,-11.41,20.274
+AO15130,2,Município,Municipality,Cameia (Lumeje),Cameia (Lumeje),cameia-lumeje-ao15130,AO15130,,AO15,Moxico,Moxico,,,1,,-11.775,21.219
+AO15131,2,Município,Municipality,Léua,Léua,lua-ao15131,AO15131,,AO15,Moxico,Moxico,,,2,,-11.77,20.597
+AO15132,2,Município,Municipality,Luau,Luau,luau-ao15132,AO15132,,AO15,Moxico,Moxico,,,1,,-10.934,21.933
+AO15133,2,Município,Municipality,Luacano,Luacano,luacano-ao15133,AO15133,,AO15,Moxico,Moxico,,,2,,-11.761,22.053
+AO15134,2,Município,Municipality,Luchazes,Luchazes,luchazes-ao15134,AO15134,,AO15,Moxico,Moxico,,,5,,-13.83,19.483
+AO15135,2,Município,Municipality,Bundas (Lumbala-Nguimbo),Bundas (Lumbala-Nguimbo),bundas-lumbala-nguimbo-ao15135,AO15135,,AO15,Moxico,Moxico,,,7,,-14.443,21.346
+AO15136,2,Município,Municipality,Luena,Luena,luena-ao15136,AO15136,,AO15,Moxico,Moxico,,,4,,-12.271,19.989
+AO16,1,Província,Province,Namibe,Namibe,namibe-ao16,AO16,,,,,,5,14,,-15.391,12.731
+AO16137,2,Município,Municipality,Bibala,Bibala,bibala-ao16137,AO16137,,AO16,Namibe,Namibe,,,4,,-14.695,13.243
+AO16138,2,Município,Municipality,Camucuio,Camucuio,camucuio-ao16138,AO16138,,AO16,Namibe,Namibe,,,3,,-14.009,13.104
+AO16139,2,Município,Municipality,Namibe,Namibe,namibe-ao16139,AO16139,,AO16,Namibe,Namibe,,,3,,-14.562,12.547
+AO16140,2,Município,Municipality,Tômbwa (Porto Alexandre),Tômbwa (Porto Alexandre),tmbwa-porto-alexandre-ao16140,AO16140,,AO16,Namibe,Namibe,,,2,,-16.395,12.314
+AO16141,2,Município,Municipality,Virei,Virei,virei-ao16141,AO16141,,AO16,Namibe,Namibe,,,2,,-15.817,12.996
+AO17,1,Província,Province,Uíge,Uíge,uge-ao17,AO17,,,,,,16,47,,-7.139,15.411
+AO17142,2,Município,Municipality,Cangola (Alto Cauale),Cangola (Alto Cauale),cangola-alto-cauale-ao17142,AO17142,,AO17,Uíge,Uíge,,,3,,-7.841,15.904
+AO17143,2,Município,Municipality,Ambuíla,Ambuíla,ambula-ao17143,AO17143,,AO17,Uíge,Uíge,,,2,,-7.595,14.367
+AO17144,2,Município,Municipality,Bembe,Bembe,bembe-ao17144,AO17144,,AO17,Uíge,Uíge,,,3,,-7.06,14.191
+AO17145,2,Município,Municipality,Buengas,Buengas,buengas-ao17145,AO17145,,AO17,Uíge,Uíge,,,3,,-6.636,15.803
+AO17146,2,Município,Municipality,Bungo,Bungo,bungo-ao17146,AO17146,,AO17,Uíge,Uíge,,,1,,-7.384,15.462
+AO17147,2,Município,Municipality,Damba,Damba,damba-ao17147,AO17147,,AO17,Uíge,Uíge,,,5,,-6.71,15.152
+AO17148,2,Município,Municipality,Maquela do Zombo,Maquela do Zombo,maquela-do-zombo-ao17148,AO17148,,AO17,Uíge,Uíge,,,5,,-6.254,15.551
+AO17149,2,Município,Municipality,Milunga,Milunga,milunga-ao17149,AO17149,,AO17,Uíge,Uíge,,,4,,-7.139,16.71
+AO17150,2,Município,Municipality,Mucaba,Mucaba,mucaba-ao17150,AO17150,,AO17,Uíge,Uíge,,,2,,-7.083,15.066
+AO17151,2,Município,Municipality,Negage,Negage,negage-ao17151,AO17151,,AO17,Uíge,Uíge,,,3,,-7.818,15.338
+AO17152,2,Município,Municipality,Puri,Puri,puri-ao17152,AO17152,,AO17,Uíge,Uíge,,,1,,-7.656,15.661
+AO17153,2,Município,Municipality,Quimbele,Quimbele,quimbele-ao17153,AO17153,,AO17,Uíge,Uíge,,,4,,-6.32,16.338
+AO17154,2,Município,Municipality,Quitexe,Quitexe,quitexe-ao17154,AO17154,,AO17,Uíge,Uíge,,,4,,-8.04,14.952
+AO17155,2,Município,Municipality,Sanza Pombo,Sanza Pombo,sanza-pombo-ao17155,AO17155,,AO17,Uíge,Uíge,,,4,,-7.227,16.112
+AO17156,2,Município,Municipality,Songo,Songo,songo-ao17156,AO17156,,AO17,Uíge,Uíge,,,2,,-7.137,14.758
+AO17157,2,Município,Municipality,Uíge,Uíge,uge-ao17157,AO17157,,AO17,Uíge,Uíge,,,1,,-7.568,15.077
+AO18,1,Província,Province,Zaire,Zaire,zaire-ao18,AO18,,,,,,6,21,,-6.821,13.464
+AO18158,2,Município,Municipality,Cuimba,Cuimba,cuimba-ao18158,AO18158,,AO18,Zaire,Zaire,,,2,,-6.239,14.671
+AO18159,2,Município,Municipality,Mbanza Congo,Mbanza Congo,mbanza-congo-ao18159,AO18159,,AO18,Zaire,Zaire,,,4,,-6.36,14.195
+AO18160,2,Município,Municipality,N'Zeto,N'Zeto,nzeto-ao18160,AO18160,,AO18,Zaire,Zaire,,,4,,-7.346,13.389
+AO18161,2,Município,Municipality,Nóqui,Nóqui,nqui-ao18161,AO18161,,AO18,Zaire,Zaire,,,3,,-6.196,13.495
+AO18162,2,Município,Municipality,Soyo,Soyo,soyo-ao18162,AO18162,,AO18,Zaire,Zaire,,,4,,-6.301,12.749
+AO18163,2,Município,Municipality,Tomboco,Tomboco,tomboco-ao18163,AO18163,,AO18,Zaire,Zaire,,,4,,-6.684,13.407

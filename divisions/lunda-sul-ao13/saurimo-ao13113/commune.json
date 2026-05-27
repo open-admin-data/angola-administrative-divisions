@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO13113362",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mona Quimbundo",
+      "en": "Mona Quimbundo",
+      "slug": "mona-quimbundo-ao13113362"
+    },
+    "code": {
+      "id": "AO13113362",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13113",
+      "level": 2,
+      "name": {
+        "local": "Saurimo",
+        "en": "Saurimo",
+        "slug": "saurimo-ao13113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13113",
+        "level": 2,
+        "name": {
+          "local": "Saurimo",
+          "en": "Saurimo",
+          "slug": "saurimo-ao13113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.015",
+      "lon": "19.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO13113363",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Saurimo",
+      "en": "Saurimo",
+      "slug": "saurimo-ao13113363"
+    },
+    "code": {
+      "id": "AO13113363",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13113",
+      "level": 2,
+      "name": {
+        "local": "Saurimo",
+        "en": "Saurimo",
+        "slug": "saurimo-ao13113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13113",
+        "level": 2,
+        "name": {
+          "local": "Saurimo",
+          "en": "Saurimo",
+          "slug": "saurimo-ao13113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.714",
+      "lon": "20.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO13113364",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sombo",
+      "en": "Sombo",
+      "slug": "sombo-ao13113364"
+    },
+    "code": {
+      "id": "AO13113364",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13113",
+      "level": 2,
+      "name": {
+        "local": "Saurimo",
+        "en": "Saurimo",
+        "slug": "saurimo-ao13113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13113",
+        "level": 2,
+        "name": {
+          "local": "Saurimo",
+          "en": "Saurimo",
+          "slug": "saurimo-ao13113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.875",
+      "lon": "21.307"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

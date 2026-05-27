@@ -1,0 +1,47 @@
+{
+  "id": "AO14122",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Malanje",
+    "en": "Malanje",
+    "slug": "malanje-ao14122"
+  },
+  "code": {
+    "id": "AO14122",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO14",
+    "level": 1,
+    "name": {
+      "local": "Malanje",
+      "en": "Malanje",
+      "slug": "malanje-ao14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.447",
+    "lon": "16.431"
+  },
+  "metadata": {},
+  "source": {}
+}

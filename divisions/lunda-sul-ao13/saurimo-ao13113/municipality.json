@@ -1,0 +1,47 @@
+{
+  "id": "AO13113",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Saurimo",
+    "en": "Saurimo",
+    "slug": "saurimo-ao13113"
+  },
+  "code": {
+    "id": "AO13113",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO13",
+    "level": 1,
+    "name": {
+      "local": "Lunda Sul",
+      "en": "Lunda Sul",
+      "slug": "lunda-sul-ao13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO13",
+      "level": 1,
+      "name": {
+        "local": "Lunda Sul",
+        "en": "Lunda Sul",
+        "slug": "lunda-sul-ao13"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.49",
+    "lon": "20.347"
+  },
+  "metadata": {},
+  "source": {}
+}

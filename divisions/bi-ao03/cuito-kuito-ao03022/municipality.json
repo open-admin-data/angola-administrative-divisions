@@ -1,0 +1,47 @@
+{
+  "id": "AO03022",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuito (Kuito)",
+    "en": "Cuito (Kuito)",
+    "slug": "cuito-kuito-ao03022"
+  },
+  "code": {
+    "id": "AO03022",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO03",
+    "level": 1,
+    "name": {
+      "local": "Bié",
+      "en": "Bié",
+      "slug": "bi-ao03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO03",
+      "level": 1,
+      "name": {
+        "local": "Bié",
+        "en": "Bié",
+        "slug": "bi-ao03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.469",
+    "lon": "17.004"
+  },
+  "metadata": {},
+  "source": {}
+}

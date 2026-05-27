@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO16140456",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Baia dos Tigres",
+      "en": "Baia dos Tigres",
+      "slug": "baia-dos-tigres-ao16140456"
+    },
+    "code": {
+      "id": "AO16140456",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16140",
+      "level": 2,
+      "name": {
+        "local": "Tômbwa (Porto Alexandre)",
+        "en": "Tômbwa (Porto Alexandre)",
+        "slug": "tmbwa-porto-alexandre-ao16140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      },
+      {
+        "id": "AO16140",
+        "level": 2,
+        "name": {
+          "local": "Tômbwa (Porto Alexandre)",
+          "en": "Tômbwa (Porto Alexandre)",
+          "slug": "tmbwa-porto-alexandre-ao16140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.018",
+      "lon": "11.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO16140457",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tombua",
+      "en": "Tombua",
+      "slug": "tombua-ao16140457"
+    },
+    "code": {
+      "id": "AO16140457",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16140",
+      "level": 2,
+      "name": {
+        "local": "Tômbwa (Porto Alexandre)",
+        "en": "Tômbwa (Porto Alexandre)",
+        "slug": "tmbwa-porto-alexandre-ao16140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      },
+      {
+        "id": "AO16140",
+        "level": 2,
+        "name": {
+          "local": "Tômbwa (Porto Alexandre)",
+          "en": "Tômbwa (Porto Alexandre)",
+          "slug": "tmbwa-porto-alexandre-ao16140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.393",
+      "lon": "12.313"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

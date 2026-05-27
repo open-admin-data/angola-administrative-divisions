@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO09076247",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Galangue",
+      "en": "Galangue",
+      "slug": "galangue-ao09076247"
+    },
+    "code": {
+      "id": "AO09076247",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09076",
+      "level": 2,
+      "name": {
+        "local": "Cuvango (Kuvango)",
+        "en": "Cuvango (Kuvango)",
+        "slug": "cuvango-kuvango-ao09076"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09076",
+        "level": 2,
+        "name": {
+          "local": "Cuvango (Kuvango)",
+          "en": "Cuvango (Kuvango)",
+          "slug": "cuvango-kuvango-ao09076"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.783",
+      "lon": "16.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09076248",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kuvango",
+      "en": "Kuvango",
+      "slug": "kuvango-ao09076248"
+    },
+    "code": {
+      "id": "AO09076248",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09076",
+      "level": 2,
+      "name": {
+        "local": "Cuvango (Kuvango)",
+        "en": "Cuvango (Kuvango)",
+        "slug": "cuvango-kuvango-ao09076"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09076",
+        "level": 2,
+        "name": {
+          "local": "Cuvango (Kuvango)",
+          "en": "Cuvango (Kuvango)",
+          "slug": "cuvango-kuvango-ao09076"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.679",
+      "lon": "16.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09076249",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vikungo",
+      "en": "Vikungo",
+      "slug": "vikungo-ao09076249"
+    },
+    "code": {
+      "id": "AO09076249",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09076",
+      "level": 2,
+      "name": {
+        "local": "Cuvango (Kuvango)",
+        "en": "Cuvango (Kuvango)",
+        "slug": "cuvango-kuvango-ao09076"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09076",
+        "level": 2,
+        "name": {
+          "local": "Cuvango (Kuvango)",
+          "en": "Cuvango (Kuvango)",
+          "slug": "cuvango-kuvango-ao09076"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.807",
+      "lon": "16.429"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

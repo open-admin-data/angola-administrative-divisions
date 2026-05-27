@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO17150486",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Quinzala",
+      "en": "Quinzala",
+      "slug": "quinzala-ao17150486"
+    },
+    "code": {
+      "id": "AO17150486",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17150",
+      "level": 2,
+      "name": {
+        "local": "Mucaba",
+        "en": "Mucaba",
+        "slug": "mucaba-ao17150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17150",
+        "level": 2,
+        "name": {
+          "local": "Mucaba",
+          "en": "Mucaba",
+          "slug": "mucaba-ao17150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.242",
+      "lon": "15.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17150487",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Uando",
+      "en": "Uando",
+      "slug": "uando-ao17150487"
+    },
+    "code": {
+      "id": "AO17150487",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17150",
+      "level": 2,
+      "name": {
+        "local": "Mucaba",
+        "en": "Mucaba",
+        "slug": "mucaba-ao17150"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17150",
+        "level": 2,
+        "name": {
+          "local": "Mucaba",
+          "en": "Mucaba",
+          "slug": "mucaba-ao17150"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.967",
+      "lon": "14.942"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

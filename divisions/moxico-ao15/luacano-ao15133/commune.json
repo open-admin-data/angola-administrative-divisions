@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO15133428",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lago-Dilolo",
+      "en": "Lago-Dilolo",
+      "slug": "lago-dilolo-ao15133428"
+    },
+    "code": {
+      "id": "AO15133428",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15133",
+      "level": 2,
+      "name": {
+        "local": "Luacano",
+        "en": "Luacano",
+        "slug": "luacano-ao15133"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15133",
+        "level": 2,
+        "name": {
+          "local": "Luacano",
+          "en": "Luacano",
+          "slug": "luacano-ao15133"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.779",
+      "lon": "22.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15133429",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luacano",
+      "en": "Luacano",
+      "slug": "luacano-ao15133429"
+    },
+    "code": {
+      "id": "AO15133429",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15133",
+      "level": 2,
+      "name": {
+        "local": "Luacano",
+        "en": "Luacano",
+        "slug": "luacano-ao15133"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15133",
+        "level": 2,
+        "name": {
+          "local": "Luacano",
+          "en": "Luacano",
+          "slug": "luacano-ao15133"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.51",
+      "lon": "21.703"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

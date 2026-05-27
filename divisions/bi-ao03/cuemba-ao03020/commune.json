@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO03020080",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kuemba",
+      "en": "Kuemba",
+      "slug": "kuemba-ao03020080"
+    },
+    "code": {
+      "id": "AO03020080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03020",
+      "level": 2,
+      "name": {
+        "local": "Cuemba",
+        "en": "Cuemba",
+        "slug": "cuemba-ao03020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03020",
+        "level": 2,
+        "name": {
+          "local": "Cuemba",
+          "en": "Cuemba",
+          "slug": "cuemba-ao03020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.183",
+      "lon": "18.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03020081",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luando",
+      "en": "Luando",
+      "slug": "luando-ao03020081"
+    },
+    "code": {
+      "id": "AO03020081",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03020",
+      "level": 2,
+      "name": {
+        "local": "Cuemba",
+        "en": "Cuemba",
+        "slug": "cuemba-ao03020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03020",
+        "level": 2,
+        "name": {
+          "local": "Cuemba",
+          "en": "Cuemba",
+          "slug": "cuemba-ao03020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.505",
+      "lon": "18.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03020082",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Munhango",
+      "en": "Munhango",
+      "slug": "munhango-ao03020082"
+    },
+    "code": {
+      "id": "AO03020082",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03020",
+      "level": 2,
+      "name": {
+        "local": "Cuemba",
+        "en": "Cuemba",
+        "slug": "cuemba-ao03020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03020",
+        "level": 2,
+        "name": {
+          "local": "Cuemba",
+          "en": "Cuemba",
+          "slug": "cuemba-ao03020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.102",
+      "lon": "18.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03020083",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sachinemuna",
+      "en": "Sachinemuna",
+      "slug": "sachinemuna-ao03020083"
+    },
+    "code": {
+      "id": "AO03020083",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03020",
+      "level": 2,
+      "name": {
+        "local": "Cuemba",
+        "en": "Cuemba",
+        "slug": "cuemba-ao03020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03020",
+        "level": 2,
+        "name": {
+          "local": "Cuemba",
+          "en": "Cuemba",
+          "slug": "cuemba-ao03020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.681",
+      "lon": "17.937"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

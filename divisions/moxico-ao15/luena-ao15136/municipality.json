@@ -1,0 +1,47 @@
+{
+  "id": "AO15136",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Luena",
+    "en": "Luena",
+    "slug": "luena-ao15136"
+  },
+  "code": {
+    "id": "AO15136",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO15",
+    "level": 1,
+    "name": {
+      "local": "Moxico",
+      "en": "Moxico",
+      "slug": "moxico-ao15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO15",
+      "level": 1,
+      "name": {
+        "local": "Moxico",
+        "en": "Moxico",
+        "slug": "moxico-ao15"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.271",
+    "lon": "19.989"
+  },
+  "metadata": {},
+  "source": {}
+}

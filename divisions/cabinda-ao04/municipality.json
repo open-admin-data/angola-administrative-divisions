@@ -1,0 +1,190 @@
+[
+  {
+    "id": "AO04024",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belize",
+      "en": "Belize",
+      "slug": "belize-ao04024"
+    },
+    "code": {
+      "id": "AO04024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04",
+      "level": 1,
+      "name": {
+        "local": "Cabinda",
+        "en": "Cabinda",
+        "slug": "cabinda-ao04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.587",
+      "lon": "12.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO04025",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buco Zau",
+      "en": "Buco Zau",
+      "slug": "buco-zau-ao04025"
+    },
+    "code": {
+      "id": "AO04025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04",
+      "level": 1,
+      "name": {
+        "local": "Cabinda",
+        "en": "Cabinda",
+        "slug": "cabinda-ao04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.817",
+      "lon": "12.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO04026",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cabinda",
+      "en": "Cabinda",
+      "slug": "cabinda-ao04026"
+    },
+    "code": {
+      "id": "AO04026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04",
+      "level": 1,
+      "name": {
+        "local": "Cabinda",
+        "en": "Cabinda",
+        "slug": "cabinda-ao04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.442",
+      "lon": "12.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO04027",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacongo (Landana)",
+      "en": "Cacongo (Landana)",
+      "slug": "cacongo-landana-ao04027"
+    },
+    "code": {
+      "id": "AO04027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04",
+      "level": 1,
+      "name": {
+        "local": "Cabinda",
+        "en": "Cabinda",
+        "slug": "cabinda-ao04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.022",
+      "lon": "12.238"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

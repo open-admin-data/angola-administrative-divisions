@@ -1,0 +1,47 @@
+{
+  "id": "AO15128",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Alto Zambeze",
+    "en": "Alto Zambeze",
+    "slug": "alto-zambeze-ao15128"
+  },
+  "code": {
+    "id": "AO15128",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO15",
+    "level": 1,
+    "name": {
+      "local": "Moxico",
+      "en": "Moxico",
+      "slug": "moxico-ao15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO15",
+      "level": 1,
+      "name": {
+        "local": "Moxico",
+        "en": "Moxico",
+        "slug": "moxico-ao15"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.163",
+    "lon": "23.161"
+  },
+  "metadata": {},
+  "source": {}
+}

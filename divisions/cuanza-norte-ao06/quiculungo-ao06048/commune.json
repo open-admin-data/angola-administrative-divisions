@@ -1,0 +1,56 @@
+[
+  {
+    "id": "AO06048167",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiculungo",
+      "en": "Kiculungo",
+      "slug": "kiculungo-ao06048167"
+    },
+    "code": {
+      "id": "AO06048167",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06048",
+      "level": 2,
+      "name": {
+        "local": "Quiculungo",
+        "en": "Quiculungo",
+        "slug": "quiculungo-ao06048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06048",
+        "level": 2,
+        "name": {
+          "local": "Quiculungo",
+          "en": "Quiculungo",
+          "slug": "quiculungo-ao06048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.493",
+      "lon": "15.295"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

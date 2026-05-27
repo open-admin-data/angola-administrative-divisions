@@ -1,0 +1,434 @@
+[
+  {
+    "id": "AO15128415",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alto Zambeze",
+      "en": "Alto Zambeze",
+      "slug": "alto-zambeze-ao15128415"
+    },
+    "code": {
+      "id": "AO15128415",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15128",
+      "level": 2,
+      "name": {
+        "local": "Alto Zambeze",
+        "en": "Alto Zambeze",
+        "slug": "alto-zambeze-ao15128"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15128",
+        "level": 2,
+        "name": {
+          "local": "Alto Zambeze",
+          "en": "Alto Zambeze",
+          "slug": "alto-zambeze-ao15128"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.978",
+      "lon": "22.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15128416",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Caianda",
+      "en": "Caianda",
+      "slug": "caianda-ao15128416"
+    },
+    "code": {
+      "id": "AO15128416",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15128",
+      "level": 2,
+      "name": {
+        "local": "Alto Zambeze",
+        "en": "Alto Zambeze",
+        "slug": "alto-zambeze-ao15128"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15128",
+        "level": 2,
+        "name": {
+          "local": "Alto Zambeze",
+          "en": "Alto Zambeze",
+          "slug": "alto-zambeze-ao15128"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.219",
+      "lon": "23.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15128417",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Calunda",
+      "en": "Calunda",
+      "slug": "calunda-ao15128417"
+    },
+    "code": {
+      "id": "AO15128417",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15128",
+      "level": 2,
+      "name": {
+        "local": "Alto Zambeze",
+        "en": "Alto Zambeze",
+        "slug": "alto-zambeze-ao15128"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15128",
+        "level": 2,
+        "name": {
+          "local": "Alto Zambeze",
+          "en": "Alto Zambeze",
+          "slug": "alto-zambeze-ao15128"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.073",
+      "lon": "23.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15128418",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaquengue",
+      "en": "Kaquengue",
+      "slug": "kaquengue-ao15128418"
+    },
+    "code": {
+      "id": "AO15128418",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15128",
+      "level": 2,
+      "name": {
+        "local": "Alto Zambeze",
+        "en": "Alto Zambeze",
+        "slug": "alto-zambeze-ao15128"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15128",
+        "level": 2,
+        "name": {
+          "local": "Alto Zambeze",
+          "en": "Alto Zambeze",
+          "slug": "alto-zambeze-ao15128"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.741",
+      "lon": "22.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15128419",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kavungo",
+      "en": "Kavungo",
+      "slug": "kavungo-ao15128419"
+    },
+    "code": {
+      "id": "AO15128419",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15128",
+      "level": 2,
+      "name": {
+        "local": "Alto Zambeze",
+        "en": "Alto Zambeze",
+        "slug": "alto-zambeze-ao15128"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15128",
+        "level": 2,
+        "name": {
+          "local": "Alto Zambeze",
+          "en": "Alto Zambeze",
+          "slug": "alto-zambeze-ao15128"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.384",
+      "lon": "23.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15128420",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lovua",
+      "en": "Lovua",
+      "slug": "lovua-ao15128420"
+    },
+    "code": {
+      "id": "AO15128420",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15128",
+      "level": 2,
+      "name": {
+        "local": "Alto Zambeze",
+        "en": "Alto Zambeze",
+        "slug": "alto-zambeze-ao15128"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15128",
+        "level": 2,
+        "name": {
+          "local": "Alto Zambeze",
+          "en": "Alto Zambeze",
+          "slug": "alto-zambeze-ao15128"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.517",
+      "lon": "23.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15128421",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lumbala",
+      "en": "Lumbala",
+      "slug": "lumbala-ao15128421"
+    },
+    "code": {
+      "id": "AO15128421",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15128",
+      "level": 2,
+      "name": {
+        "local": "Alto Zambeze",
+        "en": "Alto Zambeze",
+        "slug": "alto-zambeze-ao15128"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15128",
+        "level": 2,
+        "name": {
+          "local": "Alto Zambeze",
+          "en": "Alto Zambeze",
+          "slug": "alto-zambeze-ao15128"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.761",
+      "lon": "22.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15128422",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mucondo",
+      "en": "Mucondo",
+      "slug": "mucondo-ao15128422"
+    },
+    "code": {
+      "id": "AO15128422",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15128",
+      "level": 2,
+      "name": {
+        "local": "Alto Zambeze",
+        "en": "Alto Zambeze",
+        "slug": "alto-zambeze-ao15128"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15128",
+        "level": 2,
+        "name": {
+          "local": "Alto Zambeze",
+          "en": "Alto Zambeze",
+          "slug": "alto-zambeze-ao15128"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.556",
+      "lon": "23.547"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

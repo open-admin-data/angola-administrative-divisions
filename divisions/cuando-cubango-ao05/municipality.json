@@ -1,0 +1,425 @@
+[
+  {
+    "id": "AO05028",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calai",
+      "en": "Calai",
+      "slug": "calai-ao05028"
+    },
+    "code": {
+      "id": "AO05028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05",
+      "level": 1,
+      "name": {
+        "local": "Cuando Cubango",
+        "en": "Cuando Cubango",
+        "slug": "cuando-cubango-ao05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.338",
+      "lon": "19.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05029",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuangar",
+      "en": "Cuangar",
+      "slug": "cuangar-ao05029"
+    },
+    "code": {
+      "id": "AO05029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05",
+      "level": 1,
+      "name": {
+        "local": "Cuando Cubango",
+        "en": "Cuando Cubango",
+        "slug": "cuando-cubango-ao05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.095",
+      "lon": "18.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05030",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuchi",
+      "en": "Cuchi",
+      "slug": "cuchi-ao05030"
+    },
+    "code": {
+      "id": "AO05030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05",
+      "level": 1,
+      "name": {
+        "local": "Cuando Cubango",
+        "en": "Cuando Cubango",
+        "slug": "cuando-cubango-ao05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.739",
+      "lon": "17.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05031",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuito Cuanavale",
+      "en": "Cuito Cuanavale",
+      "slug": "cuito-cuanavale-ao05031"
+    },
+    "code": {
+      "id": "AO05031",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05",
+      "level": 1,
+      "name": {
+        "local": "Cuando Cubango",
+        "en": "Cuando Cubango",
+        "slug": "cuando-cubango-ao05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.852",
+      "lon": "19.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05032",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dirico",
+      "en": "Dirico",
+      "slug": "dirico-ao05032"
+    },
+    "code": {
+      "id": "AO05032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05",
+      "level": 1,
+      "name": {
+        "local": "Cuando Cubango",
+        "en": "Cuando Cubango",
+        "slug": "cuando-cubango-ao05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.517",
+      "lon": "20.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05033",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mavinga",
+      "en": "Mavinga",
+      "slug": "mavinga-ao05033"
+    },
+    "code": {
+      "id": "AO05033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05",
+      "level": 1,
+      "name": {
+        "local": "Cuando Cubango",
+        "en": "Cuando Cubango",
+        "slug": "cuando-cubango-ao05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.142",
+      "lon": "20.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05034",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Menongue",
+      "en": "Menongue",
+      "slug": "menongue-ao05034"
+    },
+    "code": {
+      "id": "AO05034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05",
+      "level": 1,
+      "name": {
+        "local": "Cuando Cubango",
+        "en": "Cuando Cubango",
+        "slug": "cuando-cubango-ao05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.152",
+      "lon": "17.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05035",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nancova",
+      "en": "Nancova",
+      "slug": "nancova-ao05035"
+    },
+    "code": {
+      "id": "AO05035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05",
+      "level": 1,
+      "name": {
+        "local": "Cuando Cubango",
+        "en": "Cuando Cubango",
+        "slug": "cuando-cubango-ao05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.448",
+      "lon": "18.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05036",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Rivungo",
+      "en": "Rivungo",
+      "slug": "rivungo-ao05036"
+    },
+    "code": {
+      "id": "AO05036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05",
+      "level": 1,
+      "name": {
+        "local": "Cuando Cubango",
+        "en": "Cuando Cubango",
+        "slug": "cuando-cubango-ao05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.771",
+      "lon": "21.921"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

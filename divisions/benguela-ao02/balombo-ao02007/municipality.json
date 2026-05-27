@@ -1,0 +1,47 @@
+{
+  "id": "AO02007",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Balombo",
+    "en": "Balombo",
+    "slug": "balombo-ao02007"
+  },
+  "code": {
+    "id": "AO02007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO02",
+    "level": 1,
+    "name": {
+      "local": "Benguela",
+      "en": "Benguela",
+      "slug": "benguela-ao02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.355",
+    "lon": "14.752"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AO07060",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Sumbe (Ngangula)",
+    "en": "Sumbe (Ngangula)",
+    "slug": "sumbe-ngangula-ao07060"
+  },
+  "code": {
+    "id": "AO07060",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO07",
+    "level": 1,
+    "name": {
+      "local": "Cuanza Sul",
+      "en": "Cuanza Sul",
+      "slug": "cuanza-sul-ao07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.436",
+    "lon": "13.924"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AO04024",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Belize",
+    "en": "Belize",
+    "slug": "belize-ao04024"
+  },
+  "code": {
+    "id": "AO04024",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO04",
+    "level": 1,
+    "name": {
+      "local": "Cabinda",
+      "en": "Cabinda",
+      "slug": "cabinda-ao04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO04",
+      "level": 1,
+      "name": {
+        "local": "Cabinda",
+        "en": "Cabinda",
+        "slug": "cabinda-ao04"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.587",
+    "lon": "12.839"
+  },
+  "metadata": {},
+  "source": {}
+}

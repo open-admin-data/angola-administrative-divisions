@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO05036130",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luiana",
+      "en": "Luiana",
+      "slug": "luiana-ao05036130"
+    },
+    "code": {
+      "id": "AO05036130",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05036",
+      "level": 2,
+      "name": {
+        "local": "Rivungo",
+        "en": "Rivungo",
+        "slug": "rivungo-ao05036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05036",
+        "level": 2,
+        "name": {
+          "local": "Rivungo",
+          "en": "Rivungo",
+          "slug": "rivungo-ao05036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.446",
+      "lon": "22.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05036131",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Neriquinha",
+      "en": "Neriquinha",
+      "slug": "neriquinha-ao05036131"
+    },
+    "code": {
+      "id": "AO05036131",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05036",
+      "level": 2,
+      "name": {
+        "local": "Rivungo",
+        "en": "Rivungo",
+        "slug": "rivungo-ao05036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05036",
+        "level": 2,
+        "name": {
+          "local": "Rivungo",
+          "en": "Rivungo",
+          "slug": "rivungo-ao05036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.081",
+      "lon": "21.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05036132",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rivungo",
+      "en": "Rivungo",
+      "slug": "rivungo-ao05036132"
+    },
+    "code": {
+      "id": "AO05036132",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05036",
+      "level": 2,
+      "name": {
+        "local": "Rivungo",
+        "en": "Rivungo",
+        "slug": "rivungo-ao05036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05036",
+        "level": 2,
+        "name": {
+          "local": "Rivungo",
+          "en": "Rivungo",
+          "slug": "rivungo-ao05036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.79",
+      "lon": "21.93"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "AO17151",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Negage",
+    "en": "Negage",
+    "slug": "negage-ao17151"
+  },
+  "code": {
+    "id": "AO17151",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO17",
+    "level": 1,
+    "name": {
+      "local": "Uíge",
+      "en": "Uíge",
+      "slug": "uge-ao17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.818",
+    "lon": "15.338"
+  },
+  "metadata": {},
+  "source": {}
+}

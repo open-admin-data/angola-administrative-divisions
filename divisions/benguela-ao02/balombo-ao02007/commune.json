@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO02007028",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Balombo",
+      "en": "Balombo",
+      "slug": "balombo-ao02007028"
+    },
+    "code": {
+      "id": "AO02007028",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02007",
+      "level": 2,
+      "name": {
+        "local": "Balombo",
+        "en": "Balombo",
+        "slug": "balombo-ao02007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02007",
+        "level": 2,
+        "name": {
+          "local": "Balombo",
+          "en": "Balombo",
+          "slug": "balombo-ao02007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.283",
+      "lon": "14.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02007029",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chindumbo",
+      "en": "Chindumbo",
+      "slug": "chindumbo-ao02007029"
+    },
+    "code": {
+      "id": "AO02007029",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02007",
+      "level": 2,
+      "name": {
+        "local": "Balombo",
+        "en": "Balombo",
+        "slug": "balombo-ao02007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02007",
+        "level": 2,
+        "name": {
+          "local": "Balombo",
+          "en": "Balombo",
+          "slug": "balombo-ao02007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.504",
+      "lon": "14.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02007030",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chingongo",
+      "en": "Chingongo",
+      "slug": "chingongo-ao02007030"
+    },
+    "code": {
+      "id": "AO02007030",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02007",
+      "level": 2,
+      "name": {
+        "local": "Balombo",
+        "en": "Balombo",
+        "slug": "balombo-ao02007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02007",
+        "level": 2,
+        "name": {
+          "local": "Balombo",
+          "en": "Balombo",
+          "slug": "balombo-ao02007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.382",
+      "lon": "14.589"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

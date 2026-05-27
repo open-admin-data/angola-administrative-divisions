@@ -1,0 +1,30 @@
+{
+  "id": "AO07",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Cuanza Sul",
+    "en": "Cuanza Sul",
+    "slug": "cuanza-sul-ao07"
+  },
+  "code": {
+    "id": "AO07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 12,
+    "commune": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.942",
+    "lon": "15.049"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO17151488",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dimuca",
+      "en": "Dimuca",
+      "slug": "dimuca-ao17151488"
+    },
+    "code": {
+      "id": "AO17151488",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17151",
+      "level": 2,
+      "name": {
+        "local": "Negage",
+        "en": "Negage",
+        "slug": "negage-ao17151"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17151",
+        "level": 2,
+        "name": {
+          "local": "Negage",
+          "en": "Negage",
+          "slug": "negage-ao17151"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.862",
+      "lon": "15.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17151489",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kisseke",
+      "en": "Kisseke",
+      "slug": "kisseke-ao17151489"
+    },
+    "code": {
+      "id": "AO17151489",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17151",
+      "level": 2,
+      "name": {
+        "local": "Negage",
+        "en": "Negage",
+        "slug": "negage-ao17151"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17151",
+        "level": 2,
+        "name": {
+          "local": "Negage",
+          "en": "Negage",
+          "slug": "negage-ao17151"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.88",
+      "lon": "15.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17151490",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Negage",
+      "en": "Negage",
+      "slug": "negage-ao17151490"
+    },
+    "code": {
+      "id": "AO17151490",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17151",
+      "level": 2,
+      "name": {
+        "local": "Negage",
+        "en": "Negage",
+        "slug": "negage-ao17151"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17151",
+        "level": 2,
+        "name": {
+          "local": "Negage",
+          "en": "Negage",
+          "slug": "negage-ao17151"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.716",
+      "lon": "15.291"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

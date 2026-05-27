@@ -1,0 +1,47 @@
+{
+  "id": "AO07058",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Quilenda",
+    "en": "Quilenda",
+    "slug": "quilenda-ao07058"
+  },
+  "code": {
+    "id": "AO07058",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO07",
+    "level": 1,
+    "name": {
+      "local": "Cuanza Sul",
+      "en": "Cuanza Sul",
+      "slug": "cuanza-sul-ao07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.529",
+    "lon": "14.401"
+  },
+  "metadata": {},
+  "source": {}
+}

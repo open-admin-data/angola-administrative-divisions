@@ -1,0 +1,56 @@
+[
+  {
+    "id": "AO17152491",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Puri",
+      "en": "Puri",
+      "slug": "puri-ao17152491"
+    },
+    "code": {
+      "id": "AO17152491",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17152",
+      "level": 2,
+      "name": {
+        "local": "Puri",
+        "en": "Puri",
+        "slug": "puri-ao17152"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17152",
+        "level": 2,
+        "name": {
+          "local": "Puri",
+          "en": "Puri",
+          "slug": "puri-ao17152"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.656",
+      "lon": "15.661"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

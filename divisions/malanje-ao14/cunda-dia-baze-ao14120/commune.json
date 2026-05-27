@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO14120387",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kunda-Dia-Baze",
+      "en": "Kunda-Dia-Baze",
+      "slug": "kunda-dia-baze-ao14120387"
+    },
+    "code": {
+      "id": "AO14120387",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14120",
+      "level": 2,
+      "name": {
+        "local": "Cunda-dia-Baze",
+        "en": "Cunda-dia-Baze",
+        "slug": "cunda-dia-baze-ao14120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14120",
+        "level": 2,
+        "name": {
+          "local": "Cunda-dia-Baze",
+          "en": "Cunda-dia-Baze",
+          "slug": "cunda-dia-baze-ao14120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.833",
+      "lon": "17.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14120388",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lemba",
+      "en": "Lemba",
+      "slug": "lemba-ao14120388"
+    },
+    "code": {
+      "id": "AO14120388",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14120",
+      "level": 2,
+      "name": {
+        "local": "Cunda-dia-Baze",
+        "en": "Cunda-dia-Baze",
+        "slug": "cunda-dia-baze-ao14120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14120",
+        "level": 2,
+        "name": {
+          "local": "Cunda-dia-Baze",
+          "en": "Cunda-dia-Baze",
+          "slug": "cunda-dia-baze-ao14120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.519",
+      "lon": "17.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14120389",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Milando",
+      "en": "Milando",
+      "slug": "milando-ao14120389"
+    },
+    "code": {
+      "id": "AO14120389",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14120",
+      "level": 2,
+      "name": {
+        "local": "Cunda-dia-Baze",
+        "en": "Cunda-dia-Baze",
+        "slug": "cunda-dia-baze-ao14120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14120",
+        "level": 2,
+        "name": {
+          "local": "Cunda-dia-Baze",
+          "en": "Cunda-dia-Baze",
+          "slug": "cunda-dia-baze-ao14120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.701",
+      "lon": "17.496"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

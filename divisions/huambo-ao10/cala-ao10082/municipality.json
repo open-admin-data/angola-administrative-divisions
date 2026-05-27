@@ -1,0 +1,47 @@
+{
+  "id": "AO10082",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Caála",
+    "en": "Caála",
+    "slug": "cala-ao10082"
+  },
+  "code": {
+    "id": "AO10082",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO10",
+    "level": 1,
+    "name": {
+      "local": "Huambo",
+      "en": "Huambo",
+      "slug": "huambo-ao10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.252",
+    "lon": "15.515"
+  },
+  "metadata": {},
+  "source": {}
+}

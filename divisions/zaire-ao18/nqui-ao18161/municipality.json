@@ -1,0 +1,47 @@
+{
+  "id": "AO18161",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Nóqui",
+    "en": "Nóqui",
+    "slug": "nqui-ao18161"
+  },
+  "code": {
+    "id": "AO18161",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO18",
+    "level": 1,
+    "name": {
+      "local": "Zaire",
+      "en": "Zaire",
+      "slug": "zaire-ao18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO18",
+      "level": 1,
+      "name": {
+        "local": "Zaire",
+        "en": "Zaire",
+        "slug": "zaire-ao18"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.196",
+    "lon": "13.495"
+  },
+  "metadata": {},
+  "source": {}
+}

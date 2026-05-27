@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO06045161",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiangombe",
+      "en": "Kiangombe",
+      "slug": "kiangombe-ao06045161"
+    },
+    "code": {
+      "id": "AO06045161",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06045",
+      "level": 2,
+      "name": {
+        "local": "Lucala",
+        "en": "Lucala",
+        "slug": "lucala-ao06045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06045",
+        "level": 2,
+        "name": {
+          "local": "Lucala",
+          "en": "Lucala",
+          "slug": "lucala-ao06045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.046",
+      "lon": "15.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06045162",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lukala",
+      "en": "Lukala",
+      "slug": "lukala-ao06045162"
+    },
+    "code": {
+      "id": "AO06045162",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06045",
+      "level": 2,
+      "name": {
+        "local": "Lucala",
+        "en": "Lucala",
+        "slug": "lucala-ao06045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06045",
+        "level": 2,
+        "name": {
+          "local": "Lucala",
+          "en": "Lucala",
+          "slug": "lucala-ao06045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.252",
+      "lon": "15.175"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

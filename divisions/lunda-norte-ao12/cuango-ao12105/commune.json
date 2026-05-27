@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO12105336",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cuango",
+      "en": "Cuango",
+      "slug": "cuango-ao12105336"
+    },
+    "code": {
+      "id": "AO12105336",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12105",
+      "level": 2,
+      "name": {
+        "local": "Cuango",
+        "en": "Cuango",
+        "slug": "cuango-ao12105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12105",
+        "level": 2,
+        "name": {
+          "local": "Cuango",
+          "en": "Cuango",
+          "slug": "cuango-ao12105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.944",
+      "lon": "18.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12105337",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luremo",
+      "en": "Luremo",
+      "slug": "luremo-ao12105337"
+    },
+    "code": {
+      "id": "AO12105337",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12105",
+      "level": 2,
+      "name": {
+        "local": "Cuango",
+        "en": "Cuango",
+        "slug": "cuango-ao12105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12105",
+        "level": 2,
+        "name": {
+          "local": "Cuango",
+          "en": "Cuango",
+          "slug": "cuango-ao12105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.4",
+      "lon": "17.956"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

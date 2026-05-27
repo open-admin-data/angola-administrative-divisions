@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO06037133",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bindo",
+      "en": "Bindo",
+      "slug": "bindo-ao06037133"
+    },
+    "code": {
+      "id": "AO06037133",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06037",
+      "level": 2,
+      "name": {
+        "local": "Ambaca",
+        "en": "Ambaca",
+        "slug": "ambaca-ao06037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06037",
+        "level": 2,
+        "name": {
+          "local": "Ambaca",
+          "en": "Ambaca",
+          "slug": "ambaca-ao06037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.059",
+      "lon": "15.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06037134",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kamabatela",
+      "en": "Kamabatela",
+      "slug": "kamabatela-ao06037134"
+    },
+    "code": {
+      "id": "AO06037134",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06037",
+      "level": 2,
+      "name": {
+        "local": "Ambaca",
+        "en": "Ambaca",
+        "slug": "ambaca-ao06037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06037",
+        "level": 2,
+        "name": {
+          "local": "Ambaca",
+          "en": "Ambaca",
+          "slug": "ambaca-ao06037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.117",
+      "lon": "15.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06037135",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luinga",
+      "en": "Luinga",
+      "slug": "luinga-ao06037135"
+    },
+    "code": {
+      "id": "AO06037135",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06037",
+      "level": 2,
+      "name": {
+        "local": "Ambaca",
+        "en": "Ambaca",
+        "slug": "ambaca-ao06037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06037",
+        "level": 2,
+        "name": {
+          "local": "Ambaca",
+          "en": "Ambaca",
+          "slug": "ambaca-ao06037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.39",
+      "lon": "15.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06037136",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Maua",
+      "en": "Maua",
+      "slug": "maua-ao06037136"
+    },
+    "code": {
+      "id": "AO06037136",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06037",
+      "level": 2,
+      "name": {
+        "local": "Ambaca",
+        "en": "Ambaca",
+        "slug": "ambaca-ao06037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06037",
+        "level": 2,
+        "name": {
+          "local": "Ambaca",
+          "en": "Ambaca",
+          "slug": "ambaca-ao06037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.316",
+      "lon": "15.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06037137",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tango",
+      "en": "Tango",
+      "slug": "tango-ao06037137"
+    },
+    "code": {
+      "id": "AO06037137",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06037",
+      "level": 2,
+      "name": {
+        "local": "Ambaca",
+        "en": "Ambaca",
+        "slug": "ambaca-ao06037"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06037",
+        "level": 2,
+        "name": {
+          "local": "Ambaca",
+          "en": "Ambaca",
+          "slug": "ambaca-ao06037"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.128",
+      "lon": "15.632"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

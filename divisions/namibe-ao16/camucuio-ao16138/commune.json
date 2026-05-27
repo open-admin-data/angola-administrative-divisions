@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO16138450",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Camacuio",
+      "en": "Camacuio",
+      "slug": "camacuio-ao16138450"
+    },
+    "code": {
+      "id": "AO16138450",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16138",
+      "level": 2,
+      "name": {
+        "local": "Camucuio",
+        "en": "Camucuio",
+        "slug": "camucuio-ao16138"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      },
+      {
+        "id": "AO16138",
+        "level": 2,
+        "name": {
+          "local": "Camucuio",
+          "en": "Camucuio",
+          "slug": "camucuio-ao16138"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.985",
+      "lon": "13.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO16138451",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chingo",
+      "en": "Chingo",
+      "slug": "chingo-ao16138451"
+    },
+    "code": {
+      "id": "AO16138451",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16138",
+      "level": 2,
+      "name": {
+        "local": "Camucuio",
+        "en": "Camucuio",
+        "slug": "camucuio-ao16138"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      },
+      {
+        "id": "AO16138",
+        "level": 2,
+        "name": {
+          "local": "Camucuio",
+          "en": "Camucuio",
+          "slug": "camucuio-ao16138"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.248",
+      "lon": "12.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO16138452",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chinquite",
+      "en": "Chinquite",
+      "slug": "chinquite-ao16138452"
+    },
+    "code": {
+      "id": "AO16138452",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16138",
+      "level": 2,
+      "name": {
+        "local": "Camucuio",
+        "en": "Camucuio",
+        "slug": "camucuio-ao16138"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      },
+      {
+        "id": "AO16138",
+        "level": 2,
+        "name": {
+          "local": "Camucuio",
+          "en": "Camucuio",
+          "slug": "camucuio-ao16138"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.801",
+      "lon": "13.016"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

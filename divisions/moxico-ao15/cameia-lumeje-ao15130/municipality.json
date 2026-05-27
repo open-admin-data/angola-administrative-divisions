@@ -1,0 +1,47 @@
+{
+  "id": "AO15130",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cameia (Lumeje)",
+    "en": "Cameia (Lumeje)",
+    "slug": "cameia-lumeje-ao15130"
+  },
+  "code": {
+    "id": "AO15130",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO15",
+    "level": 1,
+    "name": {
+      "local": "Moxico",
+      "en": "Moxico",
+      "slug": "moxico-ao15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO15",
+      "level": 1,
+      "name": {
+        "local": "Moxico",
+        "en": "Moxico",
+        "slug": "moxico-ao15"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.775",
+    "lon": "21.219"
+  },
+  "metadata": {},
+  "source": {}
+}

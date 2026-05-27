@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO06044157",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cerca",
+      "en": "Cerca",
+      "slug": "cerca-ao06044157"
+    },
+    "code": {
+      "id": "AO06044157",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06044",
+      "level": 2,
+      "name": {
+        "local": "Golungo Alto",
+        "en": "Golungo Alto",
+        "slug": "golungo-alto-ao06044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06044",
+        "level": 2,
+        "name": {
+          "local": "Golungo Alto",
+          "en": "Golungo Alto",
+          "slug": "golungo-alto-ao06044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.02",
+      "lon": "14.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06044158",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Golungo Alto",
+      "en": "Golungo Alto",
+      "slug": "golungo-alto-ao06044158"
+    },
+    "code": {
+      "id": "AO06044158",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06044",
+      "level": 2,
+      "name": {
+        "local": "Golungo Alto",
+        "en": "Golungo Alto",
+        "slug": "golungo-alto-ao06044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06044",
+        "level": 2,
+        "name": {
+          "local": "Golungo Alto",
+          "en": "Golungo Alto",
+          "slug": "golungo-alto-ao06044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.123",
+      "lon": "14.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06044159",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kanbomdo",
+      "en": "Kanbomdo",
+      "slug": "kanbomdo-ao06044159"
+    },
+    "code": {
+      "id": "AO06044159",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06044",
+      "level": 2,
+      "name": {
+        "local": "Golungo Alto",
+        "en": "Golungo Alto",
+        "slug": "golungo-alto-ao06044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06044",
+        "level": 2,
+        "name": {
+          "local": "Golungo Alto",
+          "en": "Golungo Alto",
+          "slug": "golungo-alto-ao06044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.143",
+      "lon": "14.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06044160",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiluanje",
+      "en": "Kiluanje",
+      "slug": "kiluanje-ao06044160"
+    },
+    "code": {
+      "id": "AO06044160",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06044",
+      "level": 2,
+      "name": {
+        "local": "Golungo Alto",
+        "en": "Golungo Alto",
+        "slug": "golungo-alto-ao06044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06044",
+        "level": 2,
+        "name": {
+          "local": "Golungo Alto",
+          "en": "Golungo Alto",
+          "slug": "golungo-alto-ao06044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.034",
+      "lon": "14.73"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

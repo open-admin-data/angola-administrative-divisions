@@ -1,0 +1,47 @@
+{
+  "id": "AO01047",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Pango-Aluquém",
+    "en": "Pango-Aluquém",
+    "slug": "pango-aluqum-ao01047"
+  },
+  "code": {
+    "id": "AO01047",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO01",
+    "level": 1,
+    "name": {
+      "local": "Bengo",
+      "en": "Bengo",
+      "slug": "bengo-ao01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO01",
+      "level": 1,
+      "name": {
+        "local": "Bengo",
+        "en": "Bengo",
+        "slug": "bengo-ao01"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.754",
+    "lon": "14.495"
+  },
+  "metadata": {},
+  "source": {}
+}

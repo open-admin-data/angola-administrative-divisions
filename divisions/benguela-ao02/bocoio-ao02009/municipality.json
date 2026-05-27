@@ -1,0 +1,47 @@
+{
+  "id": "AO02009",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bocoio",
+    "en": "Bocoio",
+    "slug": "bocoio-ao02009"
+  },
+  "code": {
+    "id": "AO02009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO02",
+    "level": 1,
+    "name": {
+      "local": "Benguela",
+      "en": "Benguela",
+      "slug": "benguela-ao02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.287",
+    "lon": "14.22"
+  },
+  "metadata": {},
+  "source": {}
+}

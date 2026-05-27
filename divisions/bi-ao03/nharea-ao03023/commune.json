@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO03023089",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dando",
+      "en": "Dando",
+      "slug": "dando-ao03023089"
+    },
+    "code": {
+      "id": "AO03023089",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03023",
+      "level": 2,
+      "name": {
+        "local": "N'harea",
+        "en": "N'harea",
+        "slug": "nharea-ao03023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03023",
+        "level": 2,
+        "name": {
+          "local": "N'harea",
+          "en": "N'harea",
+          "slug": "nharea-ao03023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.174",
+      "lon": "17.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03023090",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gamba",
+      "en": "Gamba",
+      "slug": "gamba-ao03023090"
+    },
+    "code": {
+      "id": "AO03023090",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03023",
+      "level": 2,
+      "name": {
+        "local": "N'harea",
+        "en": "N'harea",
+        "slug": "nharea-ao03023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03023",
+        "level": 2,
+        "name": {
+          "local": "N'harea",
+          "en": "N'harea",
+          "slug": "nharea-ao03023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.698",
+      "lon": "17.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03023091",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaiei",
+      "en": "Kaiei",
+      "slug": "kaiei-ao03023091"
+    },
+    "code": {
+      "id": "AO03023091",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03023",
+      "level": 2,
+      "name": {
+        "local": "N'harea",
+        "en": "N'harea",
+        "slug": "nharea-ao03023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03023",
+        "level": 2,
+        "name": {
+          "local": "N'harea",
+          "en": "N'harea",
+          "slug": "nharea-ao03023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.526",
+      "lon": "17.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03023092",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lubia",
+      "en": "Lubia",
+      "slug": "lubia-ao03023092"
+    },
+    "code": {
+      "id": "AO03023092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03023",
+      "level": 2,
+      "name": {
+        "local": "N'harea",
+        "en": "N'harea",
+        "slug": "nharea-ao03023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03023",
+        "level": 2,
+        "name": {
+          "local": "N'harea",
+          "en": "N'harea",
+          "slug": "nharea-ao03023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.971",
+      "lon": "17.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03023093",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nharea",
+      "en": "Nharea",
+      "slug": "nharea-ao03023093"
+    },
+    "code": {
+      "id": "AO03023093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03023",
+      "level": 2,
+      "name": {
+        "local": "N'harea",
+        "en": "N'harea",
+        "slug": "nharea-ao03023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03023",
+        "level": 2,
+        "name": {
+          "local": "N'harea",
+          "en": "N'harea",
+          "slug": "nharea-ao03023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.512",
+      "lon": "17.059"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

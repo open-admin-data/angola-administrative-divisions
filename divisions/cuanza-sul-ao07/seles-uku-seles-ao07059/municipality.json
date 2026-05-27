@@ -1,0 +1,47 @@
+{
+  "id": "AO07059",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Seles (Uku Seles)",
+    "en": "Seles (Uku Seles)",
+    "slug": "seles-uku-seles-ao07059"
+  },
+  "code": {
+    "id": "AO07059",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO07",
+    "level": 1,
+    "name": {
+      "local": "Cuanza Sul",
+      "en": "Cuanza Sul",
+      "slug": "cuanza-sul-ao07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.438",
+    "lon": "14.498"
+  },
+  "metadata": {},
+  "source": {}
+}

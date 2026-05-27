@@ -1,0 +1,30 @@
+{
+  "id": "AO12",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Lunda Norte",
+    "en": "Lunda Norte",
+    "slug": "lunda-norte-ao12"
+  },
+  "code": {
+    "id": "AO12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 9,
+    "commune": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.599",
+    "lon": "19.35"
+  },
+  "metadata": {},
+  "source": {}
+}

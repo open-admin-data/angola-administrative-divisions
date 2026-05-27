@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO18158507",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Buela",
+      "en": "Buela",
+      "slug": "buela-ao18158507"
+    },
+    "code": {
+      "id": "AO18158507",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18158",
+      "level": 2,
+      "name": {
+        "local": "Cuimba",
+        "en": "Cuimba",
+        "slug": "cuimba-ao18158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18158",
+        "level": 2,
+        "name": {
+          "local": "Cuimba",
+          "en": "Cuimba",
+          "slug": "cuimba-ao18158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.025",
+      "lon": "14.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18158508",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Serra da Kanda",
+      "en": "Serra da Kanda",
+      "slug": "serra-da-kanda-ao18158508"
+    },
+    "code": {
+      "id": "AO18158508",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18158",
+      "level": 2,
+      "name": {
+        "local": "Cuimba",
+        "en": "Cuimba",
+        "slug": "cuimba-ao18158"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18158",
+        "level": 2,
+        "name": {
+          "local": "Cuimba",
+          "en": "Cuimba",
+          "slug": "cuimba-ao18158"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.291",
+      "lon": "14.703"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

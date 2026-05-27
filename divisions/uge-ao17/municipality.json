@@ -1,0 +1,754 @@
+[
+  {
+    "id": "AO17143",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ambuíla",
+      "en": "Ambuíla",
+      "slug": "ambula-ao17143"
+    },
+    "code": {
+      "id": "AO17143",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.595",
+      "lon": "14.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17144",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bembe",
+      "en": "Bembe",
+      "slug": "bembe-ao17144"
+    },
+    "code": {
+      "id": "AO17144",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.06",
+      "lon": "14.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17145",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Buengas",
+      "en": "Buengas",
+      "slug": "buengas-ao17145"
+    },
+    "code": {
+      "id": "AO17145",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.636",
+      "lon": "15.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17146",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bungo",
+      "en": "Bungo",
+      "slug": "bungo-ao17146"
+    },
+    "code": {
+      "id": "AO17146",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.384",
+      "lon": "15.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17142",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cangola (Alto Cauale)",
+      "en": "Cangola (Alto Cauale)",
+      "slug": "cangola-alto-cauale-ao17142"
+    },
+    "code": {
+      "id": "AO17142",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.841",
+      "lon": "15.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17147",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Damba",
+      "en": "Damba",
+      "slug": "damba-ao17147"
+    },
+    "code": {
+      "id": "AO17147",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.71",
+      "lon": "15.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17148",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Maquela do Zombo",
+      "en": "Maquela do Zombo",
+      "slug": "maquela-do-zombo-ao17148"
+    },
+    "code": {
+      "id": "AO17148",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.254",
+      "lon": "15.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17149",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Milunga",
+      "en": "Milunga",
+      "slug": "milunga-ao17149"
+    },
+    "code": {
+      "id": "AO17149",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.139",
+      "lon": "16.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17150",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mucaba",
+      "en": "Mucaba",
+      "slug": "mucaba-ao17150"
+    },
+    "code": {
+      "id": "AO17150",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.083",
+      "lon": "15.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17151",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Negage",
+      "en": "Negage",
+      "slug": "negage-ao17151"
+    },
+    "code": {
+      "id": "AO17151",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.818",
+      "lon": "15.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17152",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Puri",
+      "en": "Puri",
+      "slug": "puri-ao17152"
+    },
+    "code": {
+      "id": "AO17152",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.656",
+      "lon": "15.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17153",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quimbele",
+      "en": "Quimbele",
+      "slug": "quimbele-ao17153"
+    },
+    "code": {
+      "id": "AO17153",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.32",
+      "lon": "16.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17154",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quitexe",
+      "en": "Quitexe",
+      "slug": "quitexe-ao17154"
+    },
+    "code": {
+      "id": "AO17154",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.04",
+      "lon": "14.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17155",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Sanza Pombo",
+      "en": "Sanza Pombo",
+      "slug": "sanza-pombo-ao17155"
+    },
+    "code": {
+      "id": "AO17155",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.227",
+      "lon": "16.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17156",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Songo",
+      "en": "Songo",
+      "slug": "songo-ao17156"
+    },
+    "code": {
+      "id": "AO17156",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.137",
+      "lon": "14.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17157",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Uíge",
+      "en": "Uíge",
+      "slug": "uge-ao17157"
+    },
+    "code": {
+      "id": "AO17157",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.568",
+      "lon": "15.077"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

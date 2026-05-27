@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO14116374",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dumba Kabango",
+      "en": "Dumba Kabango",
+      "slug": "dumba-kabango-ao14116374"
+    },
+    "code": {
+      "id": "AO14116374",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14116",
+      "level": 2,
+      "name": {
+        "local": "Cambundi-Catembo",
+        "en": "Cambundi-Catembo",
+        "slug": "cambundi-catembo-ao14116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14116",
+        "level": 2,
+        "name": {
+          "local": "Cambundi-Catembo",
+          "en": "Cambundi-Catembo",
+          "slug": "cambundi-catembo-ao14116"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.321",
+      "lon": "17.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14116375",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kambundi-Katembo",
+      "en": "Kambundi-Katembo",
+      "slug": "kambundi-katembo-ao14116375"
+    },
+    "code": {
+      "id": "AO14116375",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14116",
+      "level": 2,
+      "name": {
+        "local": "Cambundi-Catembo",
+        "en": "Cambundi-Catembo",
+        "slug": "cambundi-catembo-ao14116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14116",
+        "level": 2,
+        "name": {
+          "local": "Cambundi-Catembo",
+          "en": "Cambundi-Catembo",
+          "slug": "cambundi-catembo-ao14116"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.068",
+      "lon": "17.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14116349",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Quitapa",
+      "en": "Quitapa",
+      "slug": "quitapa-ao14116349"
+    },
+    "code": {
+      "id": "AO14116349",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14116",
+      "level": 2,
+      "name": {
+        "local": "Cambundi-Catembo",
+        "en": "Cambundi-Catembo",
+        "slug": "cambundi-catembo-ao14116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14116",
+        "level": 2,
+        "name": {
+          "local": "Cambundi-Catembo",
+          "en": "Cambundi-Catembo",
+          "slug": "cambundi-catembo-ao14116"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.15",
+      "lon": "18.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14116376",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tala-Mungongo",
+      "en": "Tala-Mungongo",
+      "slug": "tala-mungongo-ao14116376"
+    },
+    "code": {
+      "id": "AO14116376",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14116",
+      "level": 2,
+      "name": {
+        "local": "Cambundi-Catembo",
+        "en": "Cambundi-Catembo",
+        "slug": "cambundi-catembo-ao14116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14116",
+        "level": 2,
+        "name": {
+          "local": "Cambundi-Catembo",
+          "en": "Cambundi-Catembo",
+          "slug": "cambundi-catembo-ao14116"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.766",
+      "lon": "17.221"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

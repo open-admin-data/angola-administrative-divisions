@@ -1,0 +1,47 @@
+{
+  "id": "AO05036",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Rivungo",
+    "en": "Rivungo",
+    "slug": "rivungo-ao05036"
+  },
+  "code": {
+    "id": "AO05036",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO05",
+    "level": 1,
+    "name": {
+      "local": "Cuando Cubango",
+      "en": "Cuando Cubango",
+      "slug": "cuando-cubango-ao05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO05",
+      "level": 1,
+      "name": {
+        "local": "Cuando Cubango",
+        "en": "Cuando Cubango",
+        "slug": "cuando-cubango-ao05"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.771",
+    "lon": "21.921"
+  },
+  "metadata": {},
+  "source": {}
+}

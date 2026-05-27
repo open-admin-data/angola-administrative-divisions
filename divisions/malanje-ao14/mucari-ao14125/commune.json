@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO14125406",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Catala",
+      "en": "Catala",
+      "slug": "catala-ao14125406"
+    },
+    "code": {
+      "id": "AO14125406",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14125",
+      "level": 2,
+      "name": {
+        "local": "Mucari",
+        "en": "Mucari",
+        "slug": "mucari-ao14125"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14125",
+        "level": 2,
+        "name": {
+          "local": "Mucari",
+          "en": "Mucari",
+          "slug": "mucari-ao14125"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.36",
+      "lon": "16.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14125407",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Caxinga",
+      "en": "Caxinga",
+      "slug": "caxinga-ao14125407"
+    },
+    "code": {
+      "id": "AO14125407",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14125",
+      "level": 2,
+      "name": {
+        "local": "Mucari",
+        "en": "Mucari",
+        "slug": "mucari-ao14125"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14125",
+        "level": 2,
+        "name": {
+          "local": "Mucari",
+          "en": "Mucari",
+          "slug": "mucari-ao14125"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.523",
+      "lon": "17.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14125408",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mucari",
+      "en": "Mucari",
+      "slug": "mucari-ao14125408"
+    },
+    "code": {
+      "id": "AO14125408",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14125",
+      "level": 2,
+      "name": {
+        "local": "Mucari",
+        "en": "Mucari",
+        "slug": "mucari-ao14125"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14125",
+        "level": 2,
+        "name": {
+          "local": "Mucari",
+          "en": "Mucari",
+          "slug": "mucari-ao14125"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.486",
+      "lon": "16.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14125409",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muquixi",
+      "en": "Muquixi",
+      "slug": "muquixi-ao14125409"
+    },
+    "code": {
+      "id": "AO14125409",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14125",
+      "level": 2,
+      "name": {
+        "local": "Mucari",
+        "en": "Mucari",
+        "slug": "mucari-ao14125"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14125",
+        "level": 2,
+        "name": {
+          "local": "Mucari",
+          "en": "Mucari",
+          "slug": "mucari-ao14125"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.519",
+      "lon": "16.708"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

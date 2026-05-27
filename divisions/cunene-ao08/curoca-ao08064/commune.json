@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO08064213",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chitado",
+      "en": "Chitado",
+      "slug": "chitado-ao08064213"
+    },
+    "code": {
+      "id": "AO08064213",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08064",
+      "level": 2,
+      "name": {
+        "local": "Curoca",
+        "en": "Curoca",
+        "slug": "curoca-ao08064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08064",
+        "level": 2,
+        "name": {
+          "local": "Curoca",
+          "en": "Curoca",
+          "slug": "curoca-ao08064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.129",
+      "lon": "13.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08064214",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Onkokwa",
+      "en": "Onkokwa",
+      "slug": "onkokwa-ao08064214"
+    },
+    "code": {
+      "id": "AO08064214",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08064",
+      "level": 2,
+      "name": {
+        "local": "Curoca",
+        "en": "Curoca",
+        "slug": "curoca-ao08064"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08064",
+        "level": 2,
+        "name": {
+          "local": "Curoca",
+          "en": "Curoca",
+          "slug": "curoca-ao08064"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.665",
+      "lon": "13.417"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

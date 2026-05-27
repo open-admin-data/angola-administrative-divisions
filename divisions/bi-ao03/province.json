@@ -1,0 +1,30 @@
+{
+  "id": "AO03",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Bié",
+    "en": "Bié",
+    "slug": "bi-ao03"
+  },
+  "code": {
+    "id": "AO03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 9,
+    "commune": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.442",
+    "lon": "17.417"
+  },
+  "metadata": {},
+  "source": {}
+}

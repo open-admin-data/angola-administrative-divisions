@@ -1,0 +1,47 @@
+{
+  "id": "AO15135",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bundas (Lumbala-Nguimbo)",
+    "en": "Bundas (Lumbala-Nguimbo)",
+    "slug": "bundas-lumbala-nguimbo-ao15135"
+  },
+  "code": {
+    "id": "AO15135",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO15",
+    "level": 1,
+    "name": {
+      "local": "Moxico",
+      "en": "Moxico",
+      "slug": "moxico-ao15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO15",
+      "level": 1,
+      "name": {
+        "local": "Moxico",
+        "en": "Moxico",
+        "slug": "moxico-ao15"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.443",
+    "lon": "21.346"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "AO01002004",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Barra do Dande",
+      "en": "Barra do Dande",
+      "slug": "barra-do-dande-ao01002004"
+    },
+    "code": {
+      "id": "AO01002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01002",
+      "level": 2,
+      "name": {
+        "local": "Dande",
+        "en": "Dande",
+        "slug": "dande-ao01002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01002",
+        "level": 2,
+        "name": {
+          "local": "Dande",
+          "en": "Dande",
+          "slug": "dande-ao01002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.45",
+      "lon": "13.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01002005",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Caxito",
+      "en": "Caxito",
+      "slug": "caxito-ao01002005"
+    },
+    "code": {
+      "id": "AO01002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01002",
+      "level": 2,
+      "name": {
+        "local": "Dande",
+        "en": "Dande",
+        "slug": "dande-ao01002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01002",
+        "level": 2,
+        "name": {
+          "local": "Dande",
+          "en": "Dande",
+          "slug": "dande-ao01002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.639",
+      "lon": "13.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01002299",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Funda",
+      "en": "Funda",
+      "slug": "funda-ao01002299"
+    },
+    "code": {
+      "id": "AO01002299",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01002",
+      "level": 2,
+      "name": {
+        "local": "Dande",
+        "en": "Dande",
+        "slug": "dande-ao01002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01002",
+        "level": 2,
+        "name": {
+          "local": "Dande",
+          "en": "Dande",
+          "slug": "dande-ao01002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.735",
+      "lon": "13.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01002006",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kikabo",
+      "en": "Kikabo",
+      "slug": "kikabo-ao01002006"
+    },
+    "code": {
+      "id": "AO01002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01002",
+      "level": 2,
+      "name": {
+        "local": "Dande",
+        "en": "Dande",
+        "slug": "dande-ao01002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01002",
+        "level": 2,
+        "name": {
+          "local": "Dande",
+          "en": "Dande",
+          "slug": "dande-ao01002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.227",
+      "lon": "13.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01002007",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mabubas",
+      "en": "Mabubas",
+      "slug": "mabubas-ao01002007"
+    },
+    "code": {
+      "id": "AO01002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01002",
+      "level": 2,
+      "name": {
+        "local": "Dande",
+        "en": "Dande",
+        "slug": "dande-ao01002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01002",
+        "level": 2,
+        "name": {
+          "local": "Dande",
+          "en": "Dande",
+          "slug": "dande-ao01002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.546",
+      "lon": "13.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01002008",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ucua",
+      "en": "Ucua",
+      "slug": "ucua-ao01002008"
+    },
+    "code": {
+      "id": "AO01002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01002",
+      "level": 2,
+      "name": {
+        "local": "Dande",
+        "en": "Dande",
+        "slug": "dande-ao01002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01002",
+        "level": 2,
+        "name": {
+          "local": "Dande",
+          "en": "Dande",
+          "slug": "dande-ao01002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.704",
+      "lon": "14.124"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

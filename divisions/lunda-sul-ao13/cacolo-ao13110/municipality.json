@@ -1,0 +1,47 @@
+{
+  "id": "AO13110",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cacolo",
+    "en": "Cacolo",
+    "slug": "cacolo-ao13110"
+  },
+  "code": {
+    "id": "AO13110",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO13",
+    "level": 1,
+    "name": {
+      "local": "Lunda Sul",
+      "en": "Lunda Sul",
+      "slug": "lunda-sul-ao13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO13",
+      "level": 1,
+      "name": {
+        "local": "Lunda Sul",
+        "en": "Lunda Sul",
+        "slug": "lunda-sul-ao13"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.517",
+    "lon": "19.094"
+  },
+  "metadata": {},
+  "source": {}
+}

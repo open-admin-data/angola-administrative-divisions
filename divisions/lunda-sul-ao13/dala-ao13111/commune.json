@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO13111355",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cazage",
+      "en": "Cazage",
+      "slug": "cazage-ao13111355"
+    },
+    "code": {
+      "id": "AO13111355",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13111",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ao13111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13111",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ao13111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.963",
+      "lon": "20.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO13111356",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dala",
+      "en": "Dala",
+      "slug": "dala-ao13111356"
+    },
+    "code": {
+      "id": "AO13111356",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13111",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ao13111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13111",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ao13111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.856",
+      "lon": "20.099"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO13111357",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luma Cassai",
+      "en": "Luma Cassai",
+      "slug": "luma-cassai-ao13111357"
+    },
+    "code": {
+      "id": "AO13111357",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO13111",
+      "level": 2,
+      "name": {
+        "local": "Dala",
+        "en": "Dala",
+        "slug": "dala-ao13111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO13",
+        "level": 1,
+        "name": {
+          "local": "Lunda Sul",
+          "en": "Lunda Sul",
+          "slug": "lunda-sul-ao13"
+        }
+      },
+      {
+        "id": "AO13111",
+        "level": 2,
+        "name": {
+          "local": "Dala",
+          "en": "Dala",
+          "slug": "dala-ao13111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.088",
+      "lon": "19.776"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

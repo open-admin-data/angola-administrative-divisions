@@ -1,0 +1,660 @@
+[
+  {
+    "id": "AO09068",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caconda",
+      "en": "Caconda",
+      "slug": "caconda-ao09068"
+    },
+    "code": {
+      "id": "AO09068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.755",
+      "lon": "15.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09165",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacula",
+      "en": "Cacula",
+      "slug": "cacula-ao09165"
+    },
+    "code": {
+      "id": "AO09165",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.413",
+      "lon": "14.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09069",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caluquembe",
+      "en": "Caluquembe",
+      "slug": "caluquembe-ao09069"
+    },
+    "code": {
+      "id": "AO09069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.928",
+      "lon": "14.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09070",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chibia",
+      "en": "Chibia",
+      "slug": "chibia-ao09070"
+    },
+    "code": {
+      "id": "AO09070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.208",
+      "lon": "13.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09071",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chicomba",
+      "en": "Chicomba",
+      "slug": "chicomba-ao09071"
+    },
+    "code": {
+      "id": "AO09071",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.318",
+      "lon": "15.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09072",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chipindo",
+      "en": "Chipindo",
+      "slug": "chipindo-ao09072"
+    },
+    "code": {
+      "id": "AO09072",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.915",
+      "lon": "15.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09076",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuvango (Kuvango)",
+      "en": "Cuvango (Kuvango)",
+      "slug": "cuvango-kuvango-ao09076"
+    },
+    "code": {
+      "id": "AO09076",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.275",
+      "lon": "16.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09073",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Gambos (ex-Chiange)",
+      "en": "Gambos (ex-Chiange)",
+      "slug": "gambos-ex-chiange-ao09073"
+    },
+    "code": {
+      "id": "AO09073",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.833",
+      "lon": "14.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09074",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Humpata",
+      "en": "Humpata",
+      "slug": "humpata-ao09074"
+    },
+    "code": {
+      "id": "AO09074",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.098",
+      "lon": "13.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09075",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Jamba",
+      "en": "Jamba",
+      "slug": "jamba-ao09075"
+    },
+    "code": {
+      "id": "AO09075",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.783",
+      "lon": "15.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09077",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lubango",
+      "en": "Lubango",
+      "slug": "lubango-ao09077"
+    },
+    "code": {
+      "id": "AO09077",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.788",
+      "lon": "13.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09078",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Matala",
+      "en": "Matala",
+      "slug": "matala-ao09078"
+    },
+    "code": {
+      "id": "AO09078",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.252",
+      "lon": "15.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09079",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quilengues",
+      "en": "Quilengues",
+      "slug": "quilengues-ao09079"
+    },
+    "code": {
+      "id": "AO09079",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.163",
+      "lon": "13.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09080",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quipungo (Tchipungo)",
+      "en": "Quipungo (Tchipungo)",
+      "slug": "quipungo-tchipungo-ao09080"
+    },
+    "code": {
+      "id": "AO09080",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.073",
+      "lon": "14.583"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

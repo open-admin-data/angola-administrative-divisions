@@ -1,0 +1,47 @@
+{
+  "id": "AO18159",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Mbanza Congo",
+    "en": "Mbanza Congo",
+    "slug": "mbanza-congo-ao18159"
+  },
+  "code": {
+    "id": "AO18159",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO18",
+    "level": 1,
+    "name": {
+      "local": "Zaire",
+      "en": "Zaire",
+      "slug": "zaire-ao18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO18",
+      "level": 1,
+      "name": {
+        "local": "Zaire",
+        "en": "Zaire",
+        "slug": "zaire-ao18"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.36",
+    "lon": "14.195"
+  },
+  "metadata": {},
+  "source": {}
+}

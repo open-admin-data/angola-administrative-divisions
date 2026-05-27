@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO14123400",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kabombo",
+      "en": "Kabombo",
+      "slug": "kabombo-ao14123400"
+    },
+    "code": {
+      "id": "AO14123400",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14123",
+      "level": 2,
+      "name": {
+        "local": "Marimba",
+        "en": "Marimba",
+        "slug": "marimba-ao14123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14123",
+        "level": 2,
+        "name": {
+          "local": "Marimba",
+          "en": "Marimba",
+          "slug": "marimba-ao14123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.172",
+      "lon": "16.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14123401",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Marimba",
+      "en": "Marimba",
+      "slug": "marimba-ao14123401"
+    },
+    "code": {
+      "id": "AO14123401",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14123",
+      "level": 2,
+      "name": {
+        "local": "Marimba",
+        "en": "Marimba",
+        "slug": "marimba-ao14123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14123",
+        "level": 2,
+        "name": {
+          "local": "Marimba",
+          "en": "Marimba",
+          "slug": "marimba-ao14123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.4",
+      "lon": "17.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14123402",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tembo-Aluma",
+      "en": "Tembo-Aluma",
+      "slug": "tembo-aluma-ao14123402"
+    },
+    "code": {
+      "id": "AO14123402",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14123",
+      "level": 2,
+      "name": {
+        "local": "Marimba",
+        "en": "Marimba",
+        "slug": "marimba-ao14123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14123",
+        "level": 2,
+        "name": {
+          "local": "Marimba",
+          "en": "Marimba",
+          "slug": "marimba-ao14123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.952",
+      "lon": "17.168"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

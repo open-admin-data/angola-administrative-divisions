@@ -1,0 +1,47 @@
+{
+  "id": "AO17148",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Maquela do Zombo",
+    "en": "Maquela do Zombo",
+    "slug": "maquela-do-zombo-ao17148"
+  },
+  "code": {
+    "id": "AO17148",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO17",
+    "level": 1,
+    "name": {
+      "local": "Uíge",
+      "en": "Uíge",
+      "slug": "uge-ao17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO17",
+      "level": 1,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.254",
+    "lon": "15.551"
+  },
+  "metadata": {},
+  "source": {}
+}

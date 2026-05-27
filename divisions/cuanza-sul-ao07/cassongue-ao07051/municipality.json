@@ -1,0 +1,47 @@
+{
+  "id": "AO07051",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cassongue",
+    "en": "Cassongue",
+    "slug": "cassongue-ao07051"
+  },
+  "code": {
+    "id": "AO07051",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO07",
+    "level": 1,
+    "name": {
+      "local": "Cuanza Sul",
+      "en": "Cuanza Sul",
+      "slug": "cuanza-sul-ao07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.787",
+    "lon": "14.961"
+  },
+  "metadata": {},
+  "source": {}
+}

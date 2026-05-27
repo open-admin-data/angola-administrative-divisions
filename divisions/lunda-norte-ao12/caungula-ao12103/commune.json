@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO12103331",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Camaxilo",
+      "en": "Camaxilo",
+      "slug": "camaxilo-ao12103331"
+    },
+    "code": {
+      "id": "AO12103331",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12103",
+      "level": 2,
+      "name": {
+        "local": "Caungula",
+        "en": "Caungula",
+        "slug": "caungula-ao12103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12103",
+        "level": 2,
+        "name": {
+          "local": "Caungula",
+          "en": "Caungula",
+          "slug": "caungula-ao12103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.383",
+      "lon": "19.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12103332",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaungula",
+      "en": "Kaungula",
+      "slug": "kaungula-ao12103332"
+    },
+    "code": {
+      "id": "AO12103332",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12103",
+      "level": 2,
+      "name": {
+        "local": "Caungula",
+        "en": "Caungula",
+        "slug": "caungula-ao12103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12103",
+        "level": 2,
+        "name": {
+          "local": "Caungula",
+          "en": "Caungula",
+          "slug": "caungula-ao12103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.367",
+      "lon": "18.507"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

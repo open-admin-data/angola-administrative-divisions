@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO05031114",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Baixo Longa",
+      "en": "Baixo Longa",
+      "slug": "baixo-longa-ao05031114"
+    },
+    "code": {
+      "id": "AO05031114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05031",
+      "level": 2,
+      "name": {
+        "local": "Cuito Cuanavale",
+        "en": "Cuito Cuanavale",
+        "slug": "cuito-cuanavale-ao05031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05031",
+        "level": 2,
+        "name": {
+          "local": "Cuito Cuanavale",
+          "en": "Cuito Cuanavale",
+          "slug": "cuito-cuanavale-ao05031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.672",
+      "lon": "18.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05031115",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kuito Kuanavale",
+      "en": "Kuito Kuanavale",
+      "slug": "kuito-kuanavale-ao05031115"
+    },
+    "code": {
+      "id": "AO05031115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05031",
+      "level": 2,
+      "name": {
+        "local": "Cuito Cuanavale",
+        "en": "Cuito Cuanavale",
+        "slug": "cuito-cuanavale-ao05031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05031",
+        "level": 2,
+        "name": {
+          "local": "Cuito Cuanavale",
+          "en": "Cuito Cuanavale",
+          "slug": "cuito-cuanavale-ao05031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.399",
+      "lon": "19.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05031116",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Longa",
+      "en": "Longa",
+      "slug": "longa-ao05031116"
+    },
+    "code": {
+      "id": "AO05031116",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05031",
+      "level": 2,
+      "name": {
+        "local": "Cuito Cuanavale",
+        "en": "Cuito Cuanavale",
+        "slug": "cuito-cuanavale-ao05031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05031",
+        "level": 2,
+        "name": {
+          "local": "Cuito Cuanavale",
+          "en": "Cuito Cuanavale",
+          "slug": "cuito-cuanavale-ao05031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.448",
+      "lon": "18.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05031117",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lupire",
+      "en": "Lupire",
+      "slug": "lupire-ao05031117"
+    },
+    "code": {
+      "id": "AO05031117",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05031",
+      "level": 2,
+      "name": {
+        "local": "Cuito Cuanavale",
+        "en": "Cuito Cuanavale",
+        "slug": "cuito-cuanavale-ao05031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05031",
+        "level": 2,
+        "name": {
+          "local": "Cuito Cuanavale",
+          "en": "Cuito Cuanavale",
+          "slug": "cuito-cuanavale-ao05031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.645",
+      "lon": "19.403"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO02011042",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bolonguela",
+      "en": "Bolonguela",
+      "slug": "bolonguela-ao02011042"
+    },
+    "code": {
+      "id": "AO02011042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02011",
+      "level": 2,
+      "name": {
+        "local": "Chongoroi",
+        "en": "Chongoroi",
+        "slug": "chongoroi-ao02011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02011",
+        "level": 2,
+        "name": {
+          "local": "Chongoroi",
+          "en": "Chongoroi",
+          "slug": "chongoroi-ao02011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.484",
+      "lon": "13.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02011043",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chongoroi",
+      "en": "Chongoroi",
+      "slug": "chongoroi-ao02011043"
+    },
+    "code": {
+      "id": "AO02011043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02011",
+      "level": 2,
+      "name": {
+        "local": "Chongoroi",
+        "en": "Chongoroi",
+        "slug": "chongoroi-ao02011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02011",
+        "level": 2,
+        "name": {
+          "local": "Chongoroi",
+          "en": "Chongoroi",
+          "slug": "chongoroi-ao02011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.605",
+      "lon": "14.053"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

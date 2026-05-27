@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO12106338",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Caluango",
+      "en": "Caluango",
+      "slug": "caluango-ao12106338"
+    },
+    "code": {
+      "id": "AO12106338",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12106",
+      "level": 2,
+      "name": {
+        "local": "Cuilo",
+        "en": "Cuilo",
+        "slug": "cuilo-ao12106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12106",
+        "level": 2,
+        "name": {
+          "local": "Cuilo",
+          "en": "Cuilo",
+          "slug": "cuilo-ao12106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.251",
+      "lon": "19.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12106339",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cuilo",
+      "en": "Cuilo",
+      "slug": "cuilo-ao12106339"
+    },
+    "code": {
+      "id": "AO12106339",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12106",
+      "level": 2,
+      "name": {
+        "local": "Cuilo",
+        "en": "Cuilo",
+        "slug": "cuilo-ao12106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12106",
+        "level": 2,
+        "name": {
+          "local": "Cuilo",
+          "en": "Cuilo",
+          "slug": "cuilo-ao12106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.001",
+      "lon": "19.525"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

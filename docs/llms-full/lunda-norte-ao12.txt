@@ -1,0 +1,154 @@
+# Lunda Norte — Angola Administrative Divisions
+
+> 9 municipalitys, 25 communes
+> Code: AO12
+> Coordinates: -8.599, 19.35
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Cambulo
+
+Code: AO12101, Coordinates: -7.93, 21.442
+Communes: 4
+
+#### Kachimo
+
+Code: AO12101325, Coordinates: -8.304, 21.399
+
+#### Kambulo
+
+Code: AO12101326, Coordinates: -7.73, 21.256
+
+#### Kanzar
+
+Code: AO12101327, Coordinates: -7.655, 21.614
+
+#### Luia
+
+Code: AO12101328, Coordinates: -8.2, 21.687
+
+### Capenda-Camulemba
+
+Code: AO12102, Coordinates: -9.686, 18.931
+Communes: 2
+
+#### Kapenda Kamulemba
+
+Code: AO12102329, Coordinates: -9.426, 18.556
+
+#### Xinge
+
+Code: AO12102330, Coordinates: -9.784, 18.999
+
+### Caungula
+
+Code: AO12103, Coordinates: -8.366, 18.804
+Communes: 2
+
+#### Camaxilo
+
+Code: AO12103331, Coordinates: -8.383, 19.146
+
+#### Kaungula
+
+Code: AO12103332, Coordinates: -8.367, 18.507
+
+### Chitato (Lóvua)
+
+Code: AO12104, Coordinates: -7.394, 20.459
+Communes: 3
+
+#### Chitato
+
+Code: AO12104333, Coordinates: -7.409, 20.654
+
+#### Lovua
+
+Code: AO12104334, Coordinates: -7.306, 20.097
+
+#### Luachimo
+
+Code: AO12104335, Coordinates: -7.58, 20.827
+
+### Cuango
+
+Code: AO12105, Coordinates: -8.667, 18.123
+Communes: 2
+
+#### Cuango
+
+Code: AO12105336, Coordinates: -8.944, 18.278
+
+#### Luremo
+
+Code: AO12105337, Coordinates: -8.4, 17.956
+
+### Cuilo
+
+Code: AO12106, Coordinates: -8.011, 19.682
+Communes: 2
+
+#### Caluango
+
+Code: AO12106338, Coordinates: -8.251, 19.855
+
+#### Cuilo
+
+Code: AO12106339, Coordinates: -8.001, 19.525
+
+### Lubalo
+
+Code: AO12107, Coordinates: -9.281, 19.339
+Communes: 3
+
+#### Luangue
+
+Code: AO12107340, Coordinates: -9.382, 19.802
+
+#### Lubalo
+
+Code: AO12107341, Coordinates: -9.189, 19.264
+
+#### Muvulage
+
+Code: AO12107342, Coordinates: -8.987, 18.787
+
+### Lucapa
+
+Code: AO12108, Coordinates: -8.526, 20.626
+Communes: 4
+
+#### Camissombo
+
+Code: AO12108343, Coordinates: -8.291, 20.987
+
+#### Capaia
+
+Code: AO12108344, Coordinates: -8.36, 20.274
+
+#### Lucapa
+
+Code: AO12108345, Coordinates: -8.415, 20.674
+
+#### Xa-Cassau
+
+Code: AO12108346, Coordinates: -8.973, 20.157
+
+### Xá-Muteba
+
+Code: AO12109, Coordinates: -9.138, 17.815
+Communes: 3
+
+#### Cassange
+
+Code: AO12109347, Coordinates: -8.697, 17.753
+
+#### Iongo
+
+Code: AO12109348, Coordinates: -9.077, 17.831
+
+#### Xa-Muteba
+
+Code: AO12109350, Coordinates: -9.546, 17.898
+

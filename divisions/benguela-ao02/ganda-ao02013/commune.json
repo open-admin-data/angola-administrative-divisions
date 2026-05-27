@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO02013048",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Babaera",
+      "en": "Babaera",
+      "slug": "babaera-ao02013048"
+    },
+    "code": {
+      "id": "AO02013048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02013",
+      "level": 2,
+      "name": {
+        "local": "Ganda",
+        "en": "Ganda",
+        "slug": "ganda-ao02013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02013",
+        "level": 2,
+        "name": {
+          "local": "Ganda",
+          "en": "Ganda",
+          "slug": "ganda-ao02013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.003",
+      "lon": "14.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02013049",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chikuma",
+      "en": "Chikuma",
+      "slug": "chikuma-ao02013049"
+    },
+    "code": {
+      "id": "AO02013049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02013",
+      "level": 2,
+      "name": {
+        "local": "Ganda",
+        "en": "Ganda",
+        "slug": "ganda-ao02013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02013",
+        "level": 2,
+        "name": {
+          "local": "Ganda",
+          "en": "Ganda",
+          "slug": "ganda-ao02013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.473",
+      "lon": "14.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02013050",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ebanga",
+      "en": "Ebanga",
+      "slug": "ebanga-ao02013050"
+    },
+    "code": {
+      "id": "AO02013050",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02013",
+      "level": 2,
+      "name": {
+        "local": "Ganda",
+        "en": "Ganda",
+        "slug": "ganda-ao02013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02013",
+        "level": 2,
+        "name": {
+          "local": "Ganda",
+          "en": "Ganda",
+          "slug": "ganda-ao02013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.729",
+      "lon": "14.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02013051",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ganda",
+      "en": "Ganda",
+      "slug": "ganda-ao02013051"
+    },
+    "code": {
+      "id": "AO02013051",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02013",
+      "level": 2,
+      "name": {
+        "local": "Ganda",
+        "en": "Ganda",
+        "slug": "ganda-ao02013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02013",
+        "level": 2,
+        "name": {
+          "local": "Ganda",
+          "en": "Ganda",
+          "slug": "ganda-ao02013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.921",
+      "lon": "14.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02013052",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaseke",
+      "en": "Kaseke",
+      "slug": "kaseke-ao02013052"
+    },
+    "code": {
+      "id": "AO02013052",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02013",
+      "level": 2,
+      "name": {
+        "local": "Ganda",
+        "en": "Ganda",
+        "slug": "ganda-ao02013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02013",
+        "level": 2,
+        "name": {
+          "local": "Ganda",
+          "en": "Ganda",
+          "slug": "ganda-ao02013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.326",
+      "lon": "14.782"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

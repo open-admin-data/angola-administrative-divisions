@@ -1,0 +1,47 @@
+{
+  "id": "AO10081",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Bailundo",
+    "en": "Bailundo",
+    "slug": "bailundo-ao10081"
+  },
+  "code": {
+    "id": "AO10081",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO10",
+    "level": 1,
+    "name": {
+      "local": "Huambo",
+      "en": "Huambo",
+      "slug": "huambo-ao10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.924",
+    "lon": "15.679"
+  },
+  "metadata": {},
+  "source": {}
+}

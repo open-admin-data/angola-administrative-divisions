@@ -1,0 +1,47 @@
+{
+  "id": "AO09076",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuvango (Kuvango)",
+    "en": "Cuvango (Kuvango)",
+    "slug": "cuvango-kuvango-ao09076"
+  },
+  "code": {
+    "id": "AO09076",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO09",
+    "level": 1,
+    "name": {
+      "local": "Huíla",
+      "en": "Huíla",
+      "slug": "hula-ao09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.275",
+    "lon": "16.303"
+  },
+  "metadata": {},
+  "source": {}
+}

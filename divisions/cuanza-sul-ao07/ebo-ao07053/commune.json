@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO07053178",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Conde",
+      "en": "Conde",
+      "slug": "conde-ao07053178"
+    },
+    "code": {
+      "id": "AO07053178",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07053",
+      "level": 2,
+      "name": {
+        "local": "Ebo",
+        "en": "Ebo",
+        "slug": "ebo-ao07053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07053",
+        "level": 2,
+        "name": {
+          "local": "Ebo",
+          "en": "Ebo",
+          "slug": "ebo-ao07053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.801",
+      "lon": "14.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07053179",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ebo",
+      "en": "Ebo",
+      "slug": "ebo-ao07053179"
+    },
+    "code": {
+      "id": "AO07053179",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07053",
+      "level": 2,
+      "name": {
+        "local": "Ebo",
+        "en": "Ebo",
+        "slug": "ebo-ao07053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07053",
+        "level": 2,
+        "name": {
+          "local": "Ebo",
+          "en": "Ebo",
+          "slug": "ebo-ao07053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.02",
+      "lon": "14.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07053180",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kassanje",
+      "en": "Kassanje",
+      "slug": "kassanje-ao07053180"
+    },
+    "code": {
+      "id": "AO07053180",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07053",
+      "level": 2,
+      "name": {
+        "local": "Ebo",
+        "en": "Ebo",
+        "slug": "ebo-ao07053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07053",
+        "level": 2,
+        "name": {
+          "local": "Ebo",
+          "en": "Ebo",
+          "slug": "ebo-ao07053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.033",
+      "lon": "14.943"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

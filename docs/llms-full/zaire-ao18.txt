@@ -1,0 +1,123 @@
+# Zaire — Angola Administrative Divisions
+
+> 6 municipalitys, 21 communes
+> Code: AO18
+> Coordinates: -6.821, 13.464
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Cuimba
+
+Code: AO18158, Coordinates: -6.239, 14.671
+Communes: 2
+
+#### Buela
+
+Code: AO18158507, Coordinates: -6.025, 14.506
+
+#### Serra da Kanda
+
+Code: AO18158508, Coordinates: -6.291, 14.703
+
+### Mbanza Congo
+
+Code: AO18159, Coordinates: -6.36, 14.195
+Communes: 4
+
+#### Kiende
+
+Code: AO18159509, Coordinates: -6.36, 13.957
+
+#### Luvo
+
+Code: AO18159510, Coordinates: -5.98, 14.142
+
+#### Madimba
+
+Code: AO18159511, Coordinates: -6.595, 14.301
+
+#### Mbanza Congo
+
+Code: AO18159512, Coordinates: -6.251, 14.222
+
+### N&#39;Zeto
+
+Code: AO18160, Coordinates: -7.346, 13.389
+Communes: 4
+
+#### Kindege
+
+Code: AO18160513, Coordinates: -7.13, 13.621
+
+#### Musserra
+
+Code: AO18160514, Coordinates: -7.537, 13.173
+
+#### Nzeto
+
+Code: AO18160515, Coordinates: -7.178, 13.124
+
+#### Quibala Norte
+
+Code: AO18160516, Coordinates: -7.467, 13.667
+
+### Nóqui
+
+Code: AO18161, Coordinates: -6.196, 13.495
+Communes: 3
+
+#### Lufico
+
+Code: AO18161517, Coordinates: -6.366, 13.612
+
+#### Lulendo
+
+Code: AO18161518, Coordinates: -6.105, 13.183
+
+#### Noqui
+
+Code: AO18161519, Coordinates: -6.059, 13.604
+
+### Soyo
+
+Code: AO18162, Coordinates: -6.301, 12.749
+Communes: 4
+
+#### Kelo
+
+Code: AO18162520, Coordinates: -6.471, 12.7
+
+#### Pedra do Feitico
+
+Code: AO18162521, Coordinates: -6.124, 12.933
+
+#### Soyo
+
+Code: AO18162522, Coordinates: -6.257, 12.479
+
+#### Sumba
+
+Code: AO18162523, Coordinates: -6.139, 12.644
+
+### Tomboco
+
+Code: AO18163, Coordinates: -6.684, 13.407
+Communes: 4
+
+#### Kingombe
+
+Code: AO18163524, Coordinates: -6.559, 13.083
+
+#### Kinzau
+
+Code: AO18163525, Coordinates: -6.837, 12.893
+
+#### Quiximba
+
+Code: AO18163526, Coordinates: -6.708, 13.758
+
+#### Tomboco
+
+Code: AO18163527, Coordinates: -6.764, 13.239
+

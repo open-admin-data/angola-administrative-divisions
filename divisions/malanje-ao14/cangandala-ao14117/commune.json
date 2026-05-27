@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO14117377",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cangandala",
+      "en": "Cangandala",
+      "slug": "cangandala-ao14117377"
+    },
+    "code": {
+      "id": "AO14117377",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14117",
+      "level": 2,
+      "name": {
+        "local": "Cangandala",
+        "en": "Cangandala",
+        "slug": "cangandala-ao14117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14117",
+        "level": 2,
+        "name": {
+          "local": "Cangandala",
+          "en": "Cangandala",
+          "slug": "cangandala-ao14117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.813",
+      "lon": "16.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14117378",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Caribo",
+      "en": "Caribo",
+      "slug": "caribo-ao14117378"
+    },
+    "code": {
+      "id": "AO14117378",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14117",
+      "level": 2,
+      "name": {
+        "local": "Cangandala",
+        "en": "Cangandala",
+        "slug": "cangandala-ao14117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14117",
+        "level": 2,
+        "name": {
+          "local": "Cangandala",
+          "en": "Cangandala",
+          "slug": "cangandala-ao14117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.648",
+      "lon": "16.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14117379",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kulamagia",
+      "en": "Kulamagia",
+      "slug": "kulamagia-ao14117379"
+    },
+    "code": {
+      "id": "AO14117379",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14117",
+      "level": 2,
+      "name": {
+        "local": "Cangandala",
+        "en": "Cangandala",
+        "slug": "cangandala-ao14117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14117",
+        "level": 2,
+        "name": {
+          "local": "Cangandala",
+          "en": "Cangandala",
+          "slug": "cangandala-ao14117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.806",
+      "lon": "16.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14117380",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mbembo",
+      "en": "Mbembo",
+      "slug": "mbembo-ao14117380"
+    },
+    "code": {
+      "id": "AO14117380",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14117",
+      "level": 2,
+      "name": {
+        "local": "Cangandala",
+        "en": "Cangandala",
+        "slug": "cangandala-ao14117"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14117",
+        "level": 2,
+        "name": {
+          "local": "Cangandala",
+          "en": "Cangandala",
+          "slug": "cangandala-ao14117"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.122",
+      "lon": "16.774"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

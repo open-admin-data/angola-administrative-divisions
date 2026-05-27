@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO07055185",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kienha",
+      "en": "Kienha",
+      "slug": "kienha-ao07055185"
+    },
+    "code": {
+      "id": "AO07055185",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07055",
+      "level": 2,
+      "name": {
+        "local": "Mussende",
+        "en": "Mussende",
+        "slug": "mussende-ao07055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07055",
+        "level": 2,
+        "name": {
+          "local": "Mussende",
+          "en": "Mussende",
+          "slug": "mussende-ao07055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.082",
+      "lon": "15.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07055186",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mussende",
+      "en": "Mussende",
+      "slug": "mussende-ao07055186"
+    },
+    "code": {
+      "id": "AO07055186",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07055",
+      "level": 2,
+      "name": {
+        "local": "Mussende",
+        "en": "Mussende",
+        "slug": "mussende-ao07055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07055",
+        "level": 2,
+        "name": {
+          "local": "Mussende",
+          "en": "Mussende",
+          "slug": "mussende-ao07055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.242",
+      "lon": "16.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07055187",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sao Lucas",
+      "en": "Sao Lucas",
+      "slug": "sao-lucas-ao07055187"
+    },
+    "code": {
+      "id": "AO07055187",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07055",
+      "level": 2,
+      "name": {
+        "local": "Mussende",
+        "en": "Mussende",
+        "slug": "mussende-ao07055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07055",
+        "level": 2,
+        "name": {
+          "local": "Mussende",
+          "en": "Mussende",
+          "slug": "mussende-ao07055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.764",
+      "lon": "16.263"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

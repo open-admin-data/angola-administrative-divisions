@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO15134430",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cangombe",
+      "en": "Cangombe",
+      "slug": "cangombe-ao15134430"
+    },
+    "code": {
+      "id": "AO15134430",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15134",
+      "level": 2,
+      "name": {
+        "local": "Luchazes",
+        "en": "Luchazes",
+        "slug": "luchazes-ao15134"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15134",
+        "level": 2,
+        "name": {
+          "local": "Luchazes",
+          "en": "Luchazes",
+          "slug": "luchazes-ao15134"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.403",
+      "lon": "19.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15134431",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cassamba",
+      "en": "Cassamba",
+      "slug": "cassamba-ao15134431"
+    },
+    "code": {
+      "id": "AO15134431",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15134",
+      "level": 2,
+      "name": {
+        "local": "Luchazes",
+        "en": "Luchazes",
+        "slug": "luchazes-ao15134"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15134",
+        "level": 2,
+        "name": {
+          "local": "Luchazes",
+          "en": "Luchazes",
+          "slug": "luchazes-ao15134"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.176",
+      "lon": "20.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15134432",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luchazes",
+      "en": "Luchazes",
+      "slug": "luchazes-ao15134432"
+    },
+    "code": {
+      "id": "AO15134432",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15134",
+      "level": 2,
+      "name": {
+        "local": "Luchazes",
+        "en": "Luchazes",
+        "slug": "luchazes-ao15134"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15134",
+        "level": 2,
+        "name": {
+          "local": "Luchazes",
+          "en": "Luchazes",
+          "slug": "luchazes-ao15134"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.712",
+      "lon": "19.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15134433",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Muie",
+      "en": "Muie",
+      "slug": "muie-ao15134433"
+    },
+    "code": {
+      "id": "AO15134433",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15134",
+      "level": 2,
+      "name": {
+        "local": "Luchazes",
+        "en": "Luchazes",
+        "slug": "luchazes-ao15134"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15134",
+        "level": 2,
+        "name": {
+          "local": "Luchazes",
+          "en": "Luchazes",
+          "slug": "luchazes-ao15134"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.369",
+      "lon": "20.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15134434",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tempue",
+      "en": "Tempue",
+      "slug": "tempue-ao15134434"
+    },
+    "code": {
+      "id": "AO15134434",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15134",
+      "level": 2,
+      "name": {
+        "local": "Luchazes",
+        "en": "Luchazes",
+        "slug": "luchazes-ao15134"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15134",
+        "level": 2,
+        "name": {
+          "local": "Luchazes",
+          "en": "Luchazes",
+          "slug": "luchazes-ao15134"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.551",
+      "lon": "18.622"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

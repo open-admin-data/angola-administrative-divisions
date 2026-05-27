@@ -1,0 +1,277 @@
+# Uíge — Angola Administrative Divisions
+
+> 16 municipalitys, 47 communes
+> Code: AO17
+> Coordinates: -7.139, 15.411
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Ambuíla
+
+Code: AO17143, Coordinates: -7.595, 14.367
+Communes: 2
+
+#### Kimpetelu
+
+Code: AO17143463, Coordinates: -7.644, 14.364
+
+#### Sede Mantoyo
+
+Code: AO17143464, Coordinates: -7.552, 14.672
+
+### Bembe
+
+Code: AO17144, Coordinates: -7.06, 14.191
+Communes: 3
+
+#### Bembe
+
+Code: AO17144465, Coordinates: -6.989, 14.272
+
+#### Lucunga
+
+Code: AO17144466, Coordinates: -6.78, 14.493
+
+#### Mabaia
+
+Code: AO17144467, Coordinates: -7.226, 14.283
+
+### Buengas
+
+Code: AO17145, Coordinates: -6.636, 15.803
+Communes: 3
+
+#### Buengas
+
+Code: AO17145468, Coordinates: -6.664, 15.786
+
+#### Camboso
+
+Code: AO17145469, Coordinates: -6.395, 15.864
+
+#### Quimbianda
+
+Code: AO17145470, Coordinates: -6.907, 15.802
+
+### Bungo
+
+Code: AO17146, Coordinates: -7.384, 15.462
+Communes: 1
+
+#### Bungo
+
+Code: AO17146471, Coordinates: -7.384, 15.462
+
+### Cangola (Alto Cauale)
+
+Code: AO17142, Coordinates: -7.841, 15.904
+Communes: 3
+
+#### Bengo
+
+Code: AO17142460, Coordinates: -8.078, 15.977
+
+#### Caiongo
+
+Code: AO17142461, Coordinates: -7.631, 15.941
+
+#### Kangola
+
+Code: AO17142462, Coordinates: -7.911, 15.908
+
+### Damba
+
+Code: AO17147, Coordinates: -6.71, 15.152
+Communes: 5
+
+#### Damba
+
+Code: AO17147472, Coordinates: -6.722, 15.032
+
+#### Lemboa
+
+Code: AO17147473, Coordinates: -6.876, 14.981
+
+#### N&#39;soso
+
+Code: AO17147474, Coordinates: -6.97, 15.368
+
+#### Nkama-Ntambu
+
+Code: AO17147475, Coordinates: -6.446, 15.346
+
+#### Nkuso
+
+Code: AO17147476, Coordinates: -6.522, 14.995
+
+### Maquela do Zombo
+
+Code: AO17148, Coordinates: -6.254, 15.551
+Communes: 5
+
+#### Beu
+
+Code: AO17148477, Coordinates: -6.147, 15.534
+
+#### Kibocolu
+
+Code: AO17148478, Coordinates: -6.224, 15.106
+
+#### Kuilu Futa
+
+Code: AO17148479, Coordinates: -6.471, 15.618
+
+#### Maquela do Zombo
+
+Code: AO17148480, Coordinates: -6.012, 15.067
+
+#### Sakandika
+
+Code: AO17148481, Coordinates: -6.058, 15.862
+
+### Milunga
+
+Code: AO17149, Coordinates: -7.139, 16.71
+Communes: 4
+
+#### Macocola
+
+Code: AO17149482, Coordinates: -6.858, 16.16
+
+#### Macolo
+
+Code: AO17149483, Coordinates: -7.038, 16.748
+
+#### Massau
+
+Code: AO17149484, Coordinates: -7.335, 16.855
+
+#### Milunga
+
+Code: AO17149485, Coordinates: -6.888, 16.42
+
+### Mucaba
+
+Code: AO17150, Coordinates: -7.083, 15.066
+Communes: 2
+
+#### Quinzala
+
+Code: AO17150486, Coordinates: -7.242, 15.127
+
+#### Uando
+
+Code: AO17150487, Coordinates: -6.967, 14.942
+
+### Negage
+
+Code: AO17151, Coordinates: -7.818, 15.338
+Communes: 3
+
+#### Dimuca
+
+Code: AO17151488, Coordinates: -7.862, 15.534
+
+#### Kisseke
+
+Code: AO17151489, Coordinates: -7.88, 15.298
+
+#### Negage
+
+Code: AO17151490, Coordinates: -7.716, 15.291
+
+### Puri
+
+Code: AO17152, Coordinates: -7.656, 15.661
+Communes: 1
+
+#### Puri
+
+Code: AO17152491, Coordinates: -7.656, 15.661
+
+### Quimbele
+
+Code: AO17153, Coordinates: -6.32, 16.338
+Communes: 4
+
+#### Alto-Zaza
+
+Code: AO17153492, Coordinates: -6.526, 16.604
+
+#### Cuango
+
+Code: AO17153493, Coordinates: -6.153, 16.499
+
+#### Icoca
+
+Code: AO17153494, Coordinates: -6.223, 16.13
+
+#### Quimbele
+
+Code: AO17153495, Coordinates: -6.44, 16.234
+
+### Quitexe
+
+Code: AO17154, Coordinates: -8.04, 14.952
+Communes: 4
+
+#### Cambambe
+
+Code: AO17154496, Coordinates: -8.107, 14.783
+
+#### Quifuafua
+
+Code: AO17154497, Coordinates: -8.257, 14.805
+
+#### Quitende
+
+Code: AO17154498, Coordinates: -8.034, 14.905
+
+#### Quitexe
+
+Code: AO17154499, Coordinates: -7.962, 15.069
+
+### Sanza Pombo
+
+Code: AO17155, Coordinates: -7.227, 16.112
+Communes: 4
+
+#### Alfandega
+
+Code: AO17155500, Coordinates: -7.367, 15.845
+
+#### Cuilo Pombo
+
+Code: AO17155501, Coordinates: -7.102, 15.805
+
+#### Sanza Pombo
+
+Code: AO17155502, Coordinates: -7.259, 15.993
+
+#### Uamba
+
+Code: AO17155503, Coordinates: -7.224, 16.332
+
+### Songo
+
+Code: AO17156, Coordinates: -7.137, 14.758
+Communes: 2
+
+#### Kinvuenga
+
+Code: AO17156504, Coordinates: -6.986, 14.862
+
+#### Songo
+
+Code: AO17156505, Coordinates: -7.191, 14.777
+
+### Uíge
+
+Code: AO17157, Coordinates: -7.568, 15.077
+Communes: 1
+
+#### Uige
+
+Code: AO17157506, Coordinates: -7.568, 15.077
+

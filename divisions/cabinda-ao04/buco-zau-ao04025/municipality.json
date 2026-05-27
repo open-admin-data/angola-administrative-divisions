@@ -1,0 +1,47 @@
+{
+  "id": "AO04025",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Buco Zau",
+    "en": "Buco Zau",
+    "slug": "buco-zau-ao04025"
+  },
+  "code": {
+    "id": "AO04025",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO04",
+    "level": 1,
+    "name": {
+      "local": "Cabinda",
+      "en": "Cabinda",
+      "slug": "cabinda-ao04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO04",
+      "level": 1,
+      "name": {
+        "local": "Cabinda",
+        "en": "Cabinda",
+        "slug": "cabinda-ao04"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.817",
+    "lon": "12.546"
+  },
+  "metadata": {},
+  "source": {}
+}

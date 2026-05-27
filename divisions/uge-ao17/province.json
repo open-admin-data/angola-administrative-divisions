@@ -1,0 +1,30 @@
+{
+  "id": "AO17",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Uíge",
+    "en": "Uíge",
+    "slug": "uge-ao17"
+  },
+  "code": {
+    "id": "AO17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 16,
+    "commune": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.139",
+    "lon": "15.411"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,284 @@
+[
+  {
+    "id": "AO01001",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ambriz",
+      "en": "Ambriz",
+      "slug": "ambriz-ao01001"
+    },
+    "code": {
+      "id": "AO01001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01",
+      "level": 1,
+      "name": {
+        "local": "Bengo",
+        "en": "Bengo",
+        "slug": "bengo-ao01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.972",
+      "lon": "13.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01040",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bula-Atumba",
+      "en": "Bula-Atumba",
+      "slug": "bula-atumba-ao01040"
+    },
+    "code": {
+      "id": "AO01040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01",
+      "level": 1,
+      "name": {
+        "local": "Bengo",
+        "en": "Bengo",
+        "slug": "bengo-ao01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.602",
+      "lon": "14.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01002",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dande",
+      "en": "Dande",
+      "slug": "dande-ao01002"
+    },
+    "code": {
+      "id": "AO01002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01",
+      "level": 1,
+      "name": {
+        "local": "Bengo",
+        "en": "Bengo",
+        "slug": "bengo-ao01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.5",
+      "lon": "13.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01043",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Dembos-Quibaxe",
+      "en": "Dembos-Quibaxe",
+      "slug": "dembos-quibaxe-ao01043"
+    },
+    "code": {
+      "id": "AO01043",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01",
+      "level": 1,
+      "name": {
+        "local": "Bengo",
+        "en": "Bengo",
+        "slug": "bengo-ao01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.548",
+      "lon": "14.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01005",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Nambuangongo",
+      "en": "Nambuangongo",
+      "slug": "nambuangongo-ao01005"
+    },
+    "code": {
+      "id": "AO01005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01",
+      "level": 1,
+      "name": {
+        "local": "Bengo",
+        "en": "Bengo",
+        "slug": "bengo-ao01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.042",
+      "lon": "14.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01047",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Pango-Aluquém",
+      "en": "Pango-Aluquém",
+      "slug": "pango-aluqum-ao01047"
+    },
+    "code": {
+      "id": "AO01047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01",
+      "level": 1,
+      "name": {
+        "local": "Bengo",
+        "en": "Bengo",
+        "slug": "bengo-ao01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.754",
+      "lon": "14.495"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

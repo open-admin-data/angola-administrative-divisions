@@ -1,0 +1,47 @@
+{
+  "id": "AO09165",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cacula",
+    "en": "Cacula",
+    "slug": "cacula-ao09165"
+  },
+  "code": {
+    "id": "AO09165",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO09",
+    "level": 1,
+    "name": {
+      "local": "Huíla",
+      "en": "Huíla",
+      "slug": "hula-ao09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.413",
+    "lon": "14.385"
+  },
+  "metadata": {},
+  "source": {}
+}

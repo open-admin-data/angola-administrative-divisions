@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO17149482",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Macocola",
+      "en": "Macocola",
+      "slug": "macocola-ao17149482"
+    },
+    "code": {
+      "id": "AO17149482",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17149",
+      "level": 2,
+      "name": {
+        "local": "Milunga",
+        "en": "Milunga",
+        "slug": "milunga-ao17149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17149",
+        "level": 2,
+        "name": {
+          "local": "Milunga",
+          "en": "Milunga",
+          "slug": "milunga-ao17149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.858",
+      "lon": "16.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17149483",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Macolo",
+      "en": "Macolo",
+      "slug": "macolo-ao17149483"
+    },
+    "code": {
+      "id": "AO17149483",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17149",
+      "level": 2,
+      "name": {
+        "local": "Milunga",
+        "en": "Milunga",
+        "slug": "milunga-ao17149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17149",
+        "level": 2,
+        "name": {
+          "local": "Milunga",
+          "en": "Milunga",
+          "slug": "milunga-ao17149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.038",
+      "lon": "16.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17149484",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Massau",
+      "en": "Massau",
+      "slug": "massau-ao17149484"
+    },
+    "code": {
+      "id": "AO17149484",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17149",
+      "level": 2,
+      "name": {
+        "local": "Milunga",
+        "en": "Milunga",
+        "slug": "milunga-ao17149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17149",
+        "level": 2,
+        "name": {
+          "local": "Milunga",
+          "en": "Milunga",
+          "slug": "milunga-ao17149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.335",
+      "lon": "16.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17149485",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Milunga",
+      "en": "Milunga",
+      "slug": "milunga-ao17149485"
+    },
+    "code": {
+      "id": "AO17149485",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17149",
+      "level": 2,
+      "name": {
+        "local": "Milunga",
+        "en": "Milunga",
+        "slug": "milunga-ao17149"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17149",
+        "level": 2,
+        "name": {
+          "local": "Milunga",
+          "en": "Milunga",
+          "slug": "milunga-ao17149"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.888",
+      "lon": "16.42"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

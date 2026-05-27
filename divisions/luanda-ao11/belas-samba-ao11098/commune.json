@@ -1,0 +1,326 @@
+[
+  {
+    "id": "AO11098316",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Benfica",
+      "en": "Benfica",
+      "slug": "benfica-ao11098316"
+    },
+    "code": {
+      "id": "AO11098316",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11098",
+      "level": 2,
+      "name": {
+        "local": "Belas (Samba)",
+        "en": "Belas (Samba)",
+        "slug": "belas-samba-ao11098"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11098",
+        "level": 2,
+        "name": {
+          "local": "Belas (Samba)",
+          "en": "Belas (Samba)",
+          "slug": "belas-samba-ao11098"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.038",
+      "lon": "13.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11098317",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Futungo de Belas",
+      "en": "Futungo de Belas",
+      "slug": "futungo-de-belas-ao11098317"
+    },
+    "code": {
+      "id": "AO11098317",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11098",
+      "level": 2,
+      "name": {
+        "local": "Belas (Samba)",
+        "en": "Belas (Samba)",
+        "slug": "belas-samba-ao11098"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11098",
+        "level": 2,
+        "name": {
+          "local": "Belas (Samba)",
+          "en": "Belas (Samba)",
+          "slug": "belas-samba-ao11098"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.931",
+      "lon": "13.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11098309",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kilamba Kiaxi",
+      "en": "Kilamba Kiaxi",
+      "slug": "kilamba-kiaxi-ao11098309"
+    },
+    "code": {
+      "id": "AO11098309",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11098",
+      "level": 2,
+      "name": {
+        "local": "Belas (Samba)",
+        "en": "Belas (Samba)",
+        "slug": "belas-samba-ao11098"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11098",
+        "level": 2,
+        "name": {
+          "local": "Belas (Samba)",
+          "en": "Belas (Samba)",
+          "slug": "belas-samba-ao11098"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.924",
+      "lon": "13.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11098318",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mussulo",
+      "en": "Mussulo",
+      "slug": "mussulo-ao11098318"
+    },
+    "code": {
+      "id": "AO11098318",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11098",
+      "level": 2,
+      "name": {
+        "local": "Belas (Samba)",
+        "en": "Belas (Samba)",
+        "slug": "belas-samba-ao11098"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11098",
+        "level": 2,
+        "name": {
+          "local": "Belas (Samba)",
+          "en": "Belas (Samba)",
+          "slug": "belas-samba-ao11098"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.073",
+      "lon": "13.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11098324",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Viana",
+      "en": "Viana",
+      "slug": "viana-ao11098324"
+    },
+    "code": {
+      "id": "AO11098324",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11098",
+      "level": 2,
+      "name": {
+        "local": "Belas (Samba)",
+        "en": "Belas (Samba)",
+        "slug": "belas-samba-ao11098"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11098",
+        "level": 2,
+        "name": {
+          "local": "Belas (Samba)",
+          "en": "Belas (Samba)",
+          "slug": "belas-samba-ao11098"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.195",
+      "lon": "13.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11098323",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Viana Sede",
+      "en": "Viana Sede",
+      "slug": "viana-sede-ao11098323"
+    },
+    "code": {
+      "id": "AO11098323",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11098",
+      "level": 2,
+      "name": {
+        "local": "Belas (Samba)",
+        "en": "Belas (Samba)",
+        "slug": "belas-samba-ao11098"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11098",
+        "level": 2,
+        "name": {
+          "local": "Belas (Samba)",
+          "en": "Belas (Samba)",
+          "slug": "belas-samba-ao11098"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.024",
+      "lon": "13.255"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

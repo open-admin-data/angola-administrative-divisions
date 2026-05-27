@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO08067221",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Humbe",
+      "en": "Humbe",
+      "slug": "humbe-ao08067221"
+    },
+    "code": {
+      "id": "AO08067221",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08067",
+      "level": 2,
+      "name": {
+        "local": "Ombadja",
+        "en": "Ombadja",
+        "slug": "ombadja-ao08067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08067",
+        "level": 2,
+        "name": {
+          "local": "Ombadja",
+          "en": "Ombadja",
+          "slug": "ombadja-ao08067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.879",
+      "lon": "14.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08067222",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mukope",
+      "en": "Mukope",
+      "slug": "mukope-ao08067222"
+    },
+    "code": {
+      "id": "AO08067222",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08067",
+      "level": 2,
+      "name": {
+        "local": "Ombadja",
+        "en": "Ombadja",
+        "slug": "ombadja-ao08067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08067",
+        "level": 2,
+        "name": {
+          "local": "Ombadja",
+          "en": "Ombadja",
+          "slug": "ombadja-ao08067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.295",
+      "lon": "14.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08067223",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Naulila",
+      "en": "Naulila",
+      "slug": "naulila-ao08067223"
+    },
+    "code": {
+      "id": "AO08067223",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08067",
+      "level": 2,
+      "name": {
+        "local": "Ombadja",
+        "en": "Ombadja",
+        "slug": "ombadja-ao08067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08067",
+        "level": 2,
+        "name": {
+          "local": "Ombadja",
+          "en": "Ombadja",
+          "slug": "ombadja-ao08067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.11",
+      "lon": "14.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08067224",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ombala yo Mungu",
+      "en": "Ombala yo Mungu",
+      "slug": "ombala-yo-mungu-ao08067224"
+    },
+    "code": {
+      "id": "AO08067224",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08067",
+      "level": 2,
+      "name": {
+        "local": "Ombadja",
+        "en": "Ombadja",
+        "slug": "ombadja-ao08067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08067",
+        "level": 2,
+        "name": {
+          "local": "Ombadja",
+          "en": "Ombadja",
+          "slug": "ombadja-ao08067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-17.151",
+      "lon": "15.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08067225",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Xangongo",
+      "en": "Xangongo",
+      "slug": "xangongo-ao08067225"
+    },
+    "code": {
+      "id": "AO08067225",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08067",
+      "level": 2,
+      "name": {
+        "local": "Ombadja",
+        "en": "Ombadja",
+        "slug": "ombadja-ao08067"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      },
+      {
+        "id": "AO08067",
+        "level": 2,
+        "name": {
+          "local": "Ombadja",
+          "en": "Ombadja",
+          "slug": "ombadja-ao08067"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.532",
+      "lon": "15.26"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

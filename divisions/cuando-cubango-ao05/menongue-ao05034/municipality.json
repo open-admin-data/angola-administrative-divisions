@@ -1,0 +1,47 @@
+{
+  "id": "AO05034",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Menongue",
+    "en": "Menongue",
+    "slug": "menongue-ao05034"
+  },
+  "code": {
+    "id": "AO05034",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO05",
+    "level": 1,
+    "name": {
+      "local": "Cuando Cubango",
+      "en": "Cuando Cubango",
+      "slug": "cuando-cubango-ao05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO05",
+      "level": 1,
+      "name": {
+        "local": "Cuando Cubango",
+        "en": "Cuando Cubango",
+        "slug": "cuando-cubango-ao05"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.152",
+    "lon": "17.723"
+  },
+  "metadata": {},
+  "source": {}
+}

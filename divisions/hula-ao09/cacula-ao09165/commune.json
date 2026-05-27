@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO09165250",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cacula",
+      "en": "Cacula",
+      "slug": "cacula-ao09165250"
+    },
+    "code": {
+      "id": "AO09165250",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09165",
+      "level": 2,
+      "name": {
+        "local": "Cacula",
+        "en": "Cacula",
+        "slug": "cacula-ao09165"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09165",
+        "level": 2,
+        "name": {
+          "local": "Cacula",
+          "en": "Cacula",
+          "slug": "cacula-ao09165"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.52",
+      "lon": "14.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09165259",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kilengue",
+      "en": "Kilengue",
+      "slug": "kilengue-ao09165259"
+    },
+    "code": {
+      "id": "AO09165259",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09165",
+      "level": 2,
+      "name": {
+        "local": "Cacula",
+        "en": "Cacula",
+        "slug": "cacula-ao09165"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09165",
+        "level": 2,
+        "name": {
+          "local": "Cacula",
+          "en": "Cacula",
+          "slug": "cacula-ao09165"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.264",
+      "lon": "14.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09165232",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ngola",
+      "en": "Ngola",
+      "slug": "ngola-ao09165232"
+    },
+    "code": {
+      "id": "AO09165232",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09165",
+      "level": 2,
+      "name": {
+        "local": "Cacula",
+        "en": "Cacula",
+        "slug": "cacula-ao09165"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09165",
+        "level": 2,
+        "name": {
+          "local": "Cacula",
+          "en": "Cacula",
+          "slug": "cacula-ao09165"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.388",
+      "lon": "14.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09165260",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tchipungo",
+      "en": "Tchipungo",
+      "slug": "tchipungo-ao09165260"
+    },
+    "code": {
+      "id": "AO09165260",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09165",
+      "level": 2,
+      "name": {
+        "local": "Cacula",
+        "en": "Cacula",
+        "slug": "cacula-ao09165"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09165",
+        "level": 2,
+        "name": {
+          "local": "Cacula",
+          "en": "Cacula",
+          "slug": "cacula-ao09165"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.605",
+      "lon": "14.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "AO08065",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuvelai",
+    "en": "Cuvelai",
+    "slug": "cuvelai-ao08065"
+  },
+  "code": {
+    "id": "AO08065",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO08",
+    "level": 1,
+    "name": {
+      "local": "Cunene",
+      "en": "Cunene",
+      "slug": "cunene-ao08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO08",
+      "level": 1,
+      "name": {
+        "local": "Cunene",
+        "en": "Cunene",
+        "slug": "cunene-ao08"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.774",
+    "lon": "16.085"
+  },
+  "metadata": {},
+  "source": {}
+}

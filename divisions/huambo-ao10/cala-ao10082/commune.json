@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO10082266",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaala",
+      "en": "Kaala",
+      "slug": "kaala-ao10082266"
+    },
+    "code": {
+      "id": "AO10082266",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10082",
+      "level": 2,
+      "name": {
+        "local": "Caála",
+        "en": "Caála",
+        "slug": "cala-ao10082"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10082",
+        "level": 2,
+        "name": {
+          "local": "Caála",
+          "en": "Caála",
+          "slug": "cala-ao10082"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.924",
+      "lon": "15.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10082267",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalenga",
+      "en": "Kalenga",
+      "slug": "kalenga-ao10082267"
+    },
+    "code": {
+      "id": "AO10082267",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10082",
+      "level": 2,
+      "name": {
+        "local": "Caála",
+        "en": "Caála",
+        "slug": "cala-ao10082"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10082",
+        "level": 2,
+        "name": {
+          "local": "Caála",
+          "en": "Caála",
+          "slug": "cala-ao10082"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.956",
+      "lon": "15.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10082268",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalima",
+      "en": "Kalima",
+      "slug": "kalima-ao10082268"
+    },
+    "code": {
+      "id": "AO10082268",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10082",
+      "level": 2,
+      "name": {
+        "local": "Caála",
+        "en": "Caála",
+        "slug": "cala-ao10082"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10082",
+        "level": 2,
+        "name": {
+          "local": "Caála",
+          "en": "Caála",
+          "slug": "cala-ao10082"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.402",
+      "lon": "15.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10082269",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Katata",
+      "en": "Katata",
+      "slug": "katata-ao10082269"
+    },
+    "code": {
+      "id": "AO10082269",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10082",
+      "level": 2,
+      "name": {
+        "local": "Caála",
+        "en": "Caála",
+        "slug": "cala-ao10082"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10082",
+        "level": 2,
+        "name": {
+          "local": "Caála",
+          "en": "Caála",
+          "slug": "cala-ao10082"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.371",
+      "lon": "15.429"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

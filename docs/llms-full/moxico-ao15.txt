@@ -1,0 +1,178 @@
+# Moxico — Angola Administrative Divisions
+
+> 9 municipalitys, 31 communes
+> Code: AO15
+> Coordinates: -13.383, 19.974
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Alto Zambeze
+
+Code: AO15128, Coordinates: -12.163, 23.161
+Communes: 8
+
+#### Alto Zambeze
+
+Code: AO15128415, Coordinates: -11.978, 22.887
+
+#### Caianda
+
+Code: AO15128416, Coordinates: -11.219, 23.651
+
+#### Calunda
+
+Code: AO15128417, Coordinates: -12.073, 23.654
+
+#### Kaquengue
+
+Code: AO15128418, Coordinates: -12.741, 22.06
+
+#### Kavungo
+
+Code: AO15128419, Coordinates: -11.384, 23.045
+
+#### Lovua
+
+Code: AO15128420, Coordinates: -11.517, 23.874
+
+#### Lumbala
+
+Code: AO15128421, Coordinates: -12.761, 22.994
+
+#### Mucondo
+
+Code: AO15128422, Coordinates: -12.556, 23.547
+
+### Bundas (Lumbala-Nguimbo)
+
+Code: AO15135, Coordinates: -14.443, 21.346
+Communes: 7
+
+#### Chiume
+
+Code: AO15135435, Coordinates: -15.5, 21.728
+
+#### Lumbala-Nguimbo
+
+Code: AO15135436, Coordinates: -14.013, 21.157
+
+#### Lutembo
+
+Code: AO15135437, Coordinates: -13.709, 21.665
+
+#### Luvuei
+
+Code: AO15135438, Coordinates: -13.056, 20.914
+
+#### Mussuma
+
+Code: AO15135439, Coordinates: -14.114, 21.693
+
+#### Ninda
+
+Code: AO15135440, Coordinates: -14.604, 21.37
+
+#### Sessa
+
+Code: AO15135441, Coordinates: -13.809, 20.716
+
+### Camanongue
+
+Code: AO15129, Coordinates: -11.41, 20.274
+Communes: 1
+
+#### Camanongue
+
+Code: AO15129423, Coordinates: -11.41, 20.274
+
+### Cameia (Lumeje)
+
+Code: AO15130, Coordinates: -11.775, 21.219
+Communes: 1
+
+#### Kameia
+
+Code: AO15130424, Coordinates: -11.775, 21.219
+
+### Léua
+
+Code: AO15131, Coordinates: -11.77, 20.597
+Communes: 2
+
+#### Leua
+
+Code: AO15131425, Coordinates: -11.719, 20.419
+
+#### Liangongo
+
+Code: AO15131426, Coordinates: -11.77, 20.665
+
+### Luacano
+
+Code: AO15133, Coordinates: -11.761, 22.053
+Communes: 2
+
+#### Lago-Dilolo
+
+Code: AO15133428, Coordinates: -11.779, 22.233
+
+#### Luacano
+
+Code: AO15133429, Coordinates: -11.51, 21.703
+
+### Luau
+
+Code: AO15132, Coordinates: -10.934, 21.933
+Communes: 1
+
+#### Luau
+
+Code: AO15132427, Coordinates: -10.934, 21.933
+
+### Luchazes
+
+Code: AO15134, Coordinates: -13.83, 19.483
+Communes: 5
+
+#### Cangombe
+
+Code: AO15134430, Coordinates: -14.403, 19.985
+
+#### Cassamba
+
+Code: AO15134431, Coordinates: -13.176, 20.221
+
+#### Luchazes
+
+Code: AO15134432, Coordinates: -13.712, 19.825
+
+#### Muie
+
+Code: AO15134433, Coordinates: -14.369, 20.495
+
+#### Tempue
+
+Code: AO15134434, Coordinates: -13.551, 18.622
+
+### Luena
+
+Code: AO15136, Coordinates: -12.271, 19.989
+Communes: 4
+
+#### Kangumbe
+
+Code: AO15136442, Coordinates: -12.218, 19.232
+
+#### Lucusse
+
+Code: AO15136443, Coordinates: -12.332, 20.588
+
+#### Luena
+
+Code: AO15136444, Coordinates: -11.733, 19.671
+
+#### Lutuai
+
+Code: AO15136445, Coordinates: -12.828, 19.456
+

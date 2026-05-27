@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO02012044",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cubal",
+      "en": "Cubal",
+      "slug": "cubal-ao02012044"
+    },
+    "code": {
+      "id": "AO02012044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02012",
+      "level": 2,
+      "name": {
+        "local": "Cubal",
+        "en": "Cubal",
+        "slug": "cubal-ao02012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02012",
+        "level": 2,
+        "name": {
+          "local": "Cubal",
+          "en": "Cubal",
+          "slug": "cubal-ao02012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.061",
+      "lon": "14.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02012045",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kapupa",
+      "en": "Kapupa",
+      "slug": "kapupa-ao02012045"
+    },
+    "code": {
+      "id": "AO02012045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02012",
+      "level": 2,
+      "name": {
+        "local": "Cubal",
+        "en": "Cubal",
+        "slug": "cubal-ao02012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02012",
+        "level": 2,
+        "name": {
+          "local": "Cubal",
+          "en": "Cubal",
+          "slug": "cubal-ao02012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.405",
+      "lon": "14.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02012046",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lambala",
+      "en": "Lambala",
+      "slug": "lambala-ao02012046"
+    },
+    "code": {
+      "id": "AO02012046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02012",
+      "level": 2,
+      "name": {
+        "local": "Cubal",
+        "en": "Cubal",
+        "slug": "cubal-ao02012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02012",
+        "level": 2,
+        "name": {
+          "local": "Cubal",
+          "en": "Cubal",
+          "slug": "cubal-ao02012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.417",
+      "lon": "14.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02012047",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Quendo",
+      "en": "Quendo",
+      "slug": "quendo-ao02012047"
+    },
+    "code": {
+      "id": "AO02012047",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02012",
+      "level": 2,
+      "name": {
+        "local": "Cubal",
+        "en": "Cubal",
+        "slug": "cubal-ao02012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02012",
+        "level": 2,
+        "name": {
+          "local": "Cubal",
+          "en": "Cubal",
+          "slug": "cubal-ao02012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.812",
+      "lon": "14.274"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

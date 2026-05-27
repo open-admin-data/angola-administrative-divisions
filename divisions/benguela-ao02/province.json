@@ -1,0 +1,30 @@
+{
+  "id": "AO02",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Benguela",
+    "en": "Benguela",
+    "slug": "benguela-ao02"
+  },
+  "code": {
+    "id": "AO02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 10,
+    "commune": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.819",
+    "lon": "13.9"
+  },
+  "metadata": {},
+  "source": {}
+}

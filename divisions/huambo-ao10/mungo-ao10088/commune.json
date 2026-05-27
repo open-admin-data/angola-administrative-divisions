@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO10088287",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kambuengo",
+      "en": "Kambuengo",
+      "slug": "kambuengo-ao10088287"
+    },
+    "code": {
+      "id": "AO10088287",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10088",
+      "level": 2,
+      "name": {
+        "local": "Mungo",
+        "en": "Mungo",
+        "slug": "mungo-ao10088"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10088",
+        "level": 2,
+        "name": {
+          "local": "Mungo",
+          "en": "Mungo",
+          "slug": "mungo-ao10088"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.68",
+      "lon": "16.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10088288",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mungo",
+      "en": "Mungo",
+      "slug": "mungo-ao10088288"
+    },
+    "code": {
+      "id": "AO10088288",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10088",
+      "level": 2,
+      "name": {
+        "local": "Mungo",
+        "en": "Mungo",
+        "slug": "mungo-ao10088"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10088",
+        "level": 2,
+        "name": {
+          "local": "Mungo",
+          "en": "Mungo",
+          "slug": "mungo-ao10088"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.825",
+      "lon": "16.296"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

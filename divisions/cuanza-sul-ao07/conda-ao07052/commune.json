@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO07052176",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Konda",
+      "en": "Konda",
+      "slug": "konda-ao07052176"
+    },
+    "code": {
+      "id": "AO07052176",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07052",
+      "level": 2,
+      "name": {
+        "local": "Conda",
+        "en": "Conda",
+        "slug": "conda-ao07052"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07052",
+        "level": 2,
+        "name": {
+          "local": "Conda",
+          "en": "Conda",
+          "slug": "conda-ao07052"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.125",
+      "lon": "14.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07052177",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kunju",
+      "en": "Kunju",
+      "slug": "kunju-ao07052177"
+    },
+    "code": {
+      "id": "AO07052177",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07052",
+      "level": 2,
+      "name": {
+        "local": "Conda",
+        "en": "Conda",
+        "slug": "conda-ao07052"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07052",
+        "level": 2,
+        "name": {
+          "local": "Conda",
+          "en": "Conda",
+          "slug": "conda-ao07052"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.19",
+      "lon": "14.642"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

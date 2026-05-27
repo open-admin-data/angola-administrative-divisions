@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO14114365",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cacuso",
+      "en": "Cacuso",
+      "slug": "cacuso-ao14114365"
+    },
+    "code": {
+      "id": "AO14114365",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14114",
+      "level": 2,
+      "name": {
+        "local": "Cacuso",
+        "en": "Cacuso",
+        "slug": "cacuso-ao14114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14114",
+        "level": 2,
+        "name": {
+          "local": "Cacuso",
+          "en": "Cacuso",
+          "slug": "cacuso-ao14114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.323",
+      "lon": "15.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14114366",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kizenga",
+      "en": "Kizenga",
+      "slug": "kizenga-ao14114366"
+    },
+    "code": {
+      "id": "AO14114366",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14114",
+      "level": 2,
+      "name": {
+        "local": "Cacuso",
+        "en": "Cacuso",
+        "slug": "cacuso-ao14114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14114",
+        "level": 2,
+        "name": {
+          "local": "Cacuso",
+          "en": "Cacuso",
+          "slug": "cacuso-ao14114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.395",
+      "lon": "15.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14114367",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lombe",
+      "en": "Lombe",
+      "slug": "lombe-ao14114367"
+    },
+    "code": {
+      "id": "AO14114367",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14114",
+      "level": 2,
+      "name": {
+        "local": "Cacuso",
+        "en": "Cacuso",
+        "slug": "cacuso-ao14114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14114",
+        "level": 2,
+        "name": {
+          "local": "Cacuso",
+          "en": "Cacuso",
+          "slug": "cacuso-ao14114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.522",
+      "lon": "16.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14114368",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pungo-Andongo",
+      "en": "Pungo-Andongo",
+      "slug": "pungo-andongo-ao14114368"
+    },
+    "code": {
+      "id": "AO14114368",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14114",
+      "level": 2,
+      "name": {
+        "local": "Cacuso",
+        "en": "Cacuso",
+        "slug": "cacuso-ao14114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14114",
+        "level": 2,
+        "name": {
+          "local": "Cacuso",
+          "en": "Cacuso",
+          "slug": "cacuso-ao14114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.65",
+      "lon": "15.516"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

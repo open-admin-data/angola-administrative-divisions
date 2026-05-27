@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO02009032",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bocoio",
+      "en": "Bocoio",
+      "slug": "bocoio-ao02009032"
+    },
+    "code": {
+      "id": "AO02009032",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02009",
+      "level": 2,
+      "name": {
+        "local": "Bocoio",
+        "en": "Bocoio",
+        "slug": "bocoio-ao02009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02009",
+        "level": 2,
+        "name": {
+          "local": "Bocoio",
+          "en": "Bocoio",
+          "slug": "bocoio-ao02009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.505",
+      "lon": "14.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02009033",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cavimbe",
+      "en": "Cavimbe",
+      "slug": "cavimbe-ao02009033"
+    },
+    "code": {
+      "id": "AO02009033",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02009",
+      "level": 2,
+      "name": {
+        "local": "Bocoio",
+        "en": "Bocoio",
+        "slug": "bocoio-ao02009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02009",
+        "level": 2,
+        "name": {
+          "local": "Bocoio",
+          "en": "Bocoio",
+          "slug": "bocoio-ao02009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.183",
+      "lon": "14.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02009034",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chila",
+      "en": "Chila",
+      "slug": "chila-ao02009034"
+    },
+    "code": {
+      "id": "AO02009034",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02009",
+      "level": 2,
+      "name": {
+        "local": "Bocoio",
+        "en": "Bocoio",
+        "slug": "bocoio-ao02009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02009",
+        "level": 2,
+        "name": {
+          "local": "Bocoio",
+          "en": "Bocoio",
+          "slug": "bocoio-ao02009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.034",
+      "lon": "14.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02009035",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Monte Belo",
+      "en": "Monte Belo",
+      "slug": "monte-belo-ao02009035"
+    },
+    "code": {
+      "id": "AO02009035",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02009",
+      "level": 2,
+      "name": {
+        "local": "Bocoio",
+        "en": "Bocoio",
+        "slug": "bocoio-ao02009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02009",
+        "level": 2,
+        "name": {
+          "local": "Bocoio",
+          "en": "Bocoio",
+          "slug": "bocoio-ao02009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.49",
+      "lon": "14.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02009036",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Passe",
+      "en": "Passe",
+      "slug": "passe-ao02009036"
+    },
+    "code": {
+      "id": "AO02009036",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02009",
+      "level": 2,
+      "name": {
+        "local": "Bocoio",
+        "en": "Bocoio",
+        "slug": "bocoio-ao02009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02009",
+        "level": 2,
+        "name": {
+          "local": "Bocoio",
+          "en": "Bocoio",
+          "slug": "bocoio-ao02009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.561",
+      "lon": "13.944"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

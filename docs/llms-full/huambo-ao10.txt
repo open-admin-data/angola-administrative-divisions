@@ -1,0 +1,212 @@
+# Huambo — Angola Administrative Divisions
+
+> 11 municipalitys, 37 communes
+> Code: AO10
+> Coordinates: -12.605, 15.609
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Bailundo
+
+Code: AO10081, Coordinates: -11.924, 15.679
+Communes: 5
+
+#### Bailundo
+
+Code: AO10081261, Coordinates: -12.126, 15.93
+
+#### Bimbe
+
+Code: AO10081262, Coordinates: -11.761, 15.831
+
+#### Hengue
+
+Code: AO10081263, Coordinates: -11.725, 15.561
+
+#### Lunge
+
+Code: AO10081264, Coordinates: -12.164, 16.247
+
+#### Luvemba
+
+Code: AO10081265, Coordinates: -11.986, 15.627
+
+### Caála
+
+Code: AO10082, Coordinates: -13.252, 15.515
+Communes: 4
+
+#### Kaala
+
+Code: AO10082266, Coordinates: -12.924, 15.61
+
+#### Kalenga
+
+Code: AO10082267, Coordinates: -12.956, 15.46
+
+#### Kalima
+
+Code: AO10082268, Coordinates: -13.402, 15.714
+
+#### Katata
+
+Code: AO10082269, Coordinates: -13.371, 15.429
+
+### Catchiungo
+
+Code: AO10083, Coordinates: -12.841, 16.351
+Communes: 3
+
+#### Chinhama
+
+Code: AO10083270, Coordinates: -13.114, 16.453
+
+#### Chiumbo
+
+Code: AO10083271, Coordinates: -12.419, 16.181
+
+#### Kachiungo
+
+Code: AO10083272, Coordinates: -12.716, 16.306
+
+### Ecunha (Ekunha)
+
+Code: AO10084, Coordinates: -12.522, 15.481
+Communes: 2
+
+#### Ekunha
+
+Code: AO10084273, Coordinates: -12.615, 15.482
+
+#### Tchipeio
+
+Code: AO10084274, Coordinates: -12.433, 15.478
+
+### Huambo
+
+Code: AO10085, Coordinates: -12.828, 15.804
+Communes: 3
+
+#### Chipipa
+
+Code: AO10085275, Coordinates: -12.46, 15.715
+
+#### Huambo
+
+Code: AO10085276, Coordinates: -12.756, 15.684
+
+#### Kalima
+
+Code: AO10085277, Coordinates: -13.051, 15.864
+
+### Londuimbale
+
+Code: AO10086, Coordinates: -12.252, 15.35
+Communes: 5
+
+#### Alto Uama
+
+Code: AO10086278, Coordinates: -12.2, 15.503
+
+#### Galanga
+
+Code: AO10086279, Coordinates: -12.082, 15.224
+
+#### Kumbila
+
+Code: AO10086280, Coordinates: -12.222, 15.121
+
+#### Londuimbali
+
+Code: AO10086281, Coordinates: -12.273, 15.328
+
+#### Ussoke
+
+Code: AO10086282, Coordinates: -12.374, 15.09
+
+### Longonjo
+
+Code: AO10087, Coordinates: -13.043, 15.314
+Communes: 4
+
+#### Chilata
+
+Code: AO10087283, Coordinates: -13.249, 15.086
+
+#### Katabola
+
+Code: AO10087284, Coordinates: -13.173, 15.285
+
+#### Lepi
+
+Code: AO10087285, Coordinates: -12.886, 15.358
+
+#### Longonjo
+
+Code: AO10087286, Coordinates: -12.879, 15.254
+
+### Mungo
+
+Code: AO10088, Coordinates: -11.737, 16.176
+Communes: 2
+
+#### Kambuengo
+
+Code: AO10088287, Coordinates: -11.68, 16.082
+
+#### Mungo
+
+Code: AO10088288, Coordinates: -11.825, 16.296
+
+### Tchikala-Tcholohanga
+
+Code: AO10089, Coordinates: -12.864, 16.089
+Communes: 4
+
+#### Hungulo
+
+Code: AO10089289, Coordinates: -13.265, 16.149
+
+#### Mbave
+
+Code: AO10089290, Coordinates: -12.418, 15.879
+
+#### Sambo
+
+Code: AO10089291, Coordinates: -13.016, 16.171
+
+#### Thicala-Thilohanga
+
+Code: AO10089292, Coordinates: -12.716, 16.048
+
+### Tchinjenje
+
+Code: AO10090, Coordinates: -12.84, 14.937
+Communes: 2
+
+#### Chiaca
+
+Code: AO10090293, Coordinates: -12.692, 14.894
+
+#### Chinjenje
+
+Code: AO10090294, Coordinates: -12.933, 14.947
+
+### Ukuma
+
+Code: AO10091, Coordinates: -12.762, 15.129
+Communes: 3
+
+#### Kakoma
+
+Code: AO10091295, Coordinates: -12.567, 15.209
+
+#### Mundundo
+
+Code: AO10091296, Coordinates: -12.996, 15.117
+
+#### Ukuma
+
+Code: AO10091297, Coordinates: -12.783, 15.127
+

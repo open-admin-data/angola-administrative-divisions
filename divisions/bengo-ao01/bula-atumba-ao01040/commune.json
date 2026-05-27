@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO01040145",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bula-Atumba",
+      "en": "Bula-Atumba",
+      "slug": "bula-atumba-ao01040145"
+    },
+    "code": {
+      "id": "AO01040145",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01040",
+      "level": 2,
+      "name": {
+        "local": "Bula-Atumba",
+        "en": "Bula-Atumba",
+        "slug": "bula-atumba-ao01040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01040",
+        "level": 2,
+        "name": {
+          "local": "Bula-Atumba",
+          "en": "Bula-Atumba",
+          "slug": "bula-atumba-ao01040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.673",
+      "lon": "14.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO01040146",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiaje",
+      "en": "Kiaje",
+      "slug": "kiaje-ao01040146"
+    },
+    "code": {
+      "id": "AO01040146",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO01040",
+      "level": 2,
+      "name": {
+        "local": "Bula-Atumba",
+        "en": "Bula-Atumba",
+        "slug": "bula-atumba-ao01040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO01",
+        "level": 1,
+        "name": {
+          "local": "Bengo",
+          "en": "Bengo",
+          "slug": "bengo-ao01"
+        }
+      },
+      {
+        "id": "AO01040",
+        "level": 2,
+        "name": {
+          "local": "Bula-Atumba",
+          "en": "Bula-Atumba",
+          "slug": "bula-atumba-ao01040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.493",
+      "lon": "14.914"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

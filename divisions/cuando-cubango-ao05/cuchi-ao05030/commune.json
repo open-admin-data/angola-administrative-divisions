@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO05030111",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chinguanja",
+      "en": "Chinguanja",
+      "slug": "chinguanja-ao05030111"
+    },
+    "code": {
+      "id": "AO05030111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05030",
+      "level": 2,
+      "name": {
+        "local": "Cuchi",
+        "en": "Cuchi",
+        "slug": "cuchi-ao05030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05030",
+        "level": 2,
+        "name": {
+          "local": "Cuchi",
+          "en": "Cuchi",
+          "slug": "cuchi-ao05030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.17",
+      "lon": "17.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05030112",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kuchi",
+      "en": "Kuchi",
+      "slug": "kuchi-ao05030112"
+    },
+    "code": {
+      "id": "AO05030112",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05030",
+      "level": 2,
+      "name": {
+        "local": "Cuchi",
+        "en": "Cuchi",
+        "slug": "cuchi-ao05030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05030",
+        "level": 2,
+        "name": {
+          "local": "Cuchi",
+          "en": "Cuchi",
+          "slug": "cuchi-ao05030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.457",
+      "lon": "17.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05030113",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kutato",
+      "en": "Kutato",
+      "slug": "kutato-ao05030113"
+    },
+    "code": {
+      "id": "AO05030113",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05030",
+      "level": 2,
+      "name": {
+        "local": "Cuchi",
+        "en": "Cuchi",
+        "slug": "cuchi-ao05030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05030",
+        "level": 2,
+        "name": {
+          "local": "Cuchi",
+          "en": "Cuchi",
+          "slug": "cuchi-ao05030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.347",
+      "lon": "16.641"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

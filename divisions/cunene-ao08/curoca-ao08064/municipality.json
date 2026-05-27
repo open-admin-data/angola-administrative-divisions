@@ -1,0 +1,47 @@
+{
+  "id": "AO08064",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Curoca",
+    "en": "Curoca",
+    "slug": "curoca-ao08064"
+  },
+  "code": {
+    "id": "AO08064",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO08",
+    "level": 1,
+    "name": {
+      "local": "Cunene",
+      "en": "Cunene",
+      "slug": "cunene-ao08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO08",
+      "level": 1,
+      "name": {
+        "local": "Cunene",
+        "en": "Cunene",
+        "slug": "cunene-ao08"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.845",
+    "lon": "13.509"
+  },
+  "metadata": {},
+  "source": {}
+}

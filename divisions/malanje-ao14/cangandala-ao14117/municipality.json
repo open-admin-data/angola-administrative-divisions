@@ -1,0 +1,47 @@
+{
+  "id": "AO14117",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cangandala",
+    "en": "Cangandala",
+    "slug": "cangandala-ao14117"
+  },
+  "code": {
+    "id": "AO14117",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO14",
+    "level": 1,
+    "name": {
+      "local": "Malanje",
+      "en": "Malanje",
+      "slug": "malanje-ao14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.963",
+    "lon": "16.636"
+  },
+  "metadata": {},
+  "source": {}
+}

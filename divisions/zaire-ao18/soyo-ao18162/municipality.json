@@ -1,0 +1,47 @@
+{
+  "id": "AO18162",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Soyo",
+    "en": "Soyo",
+    "slug": "soyo-ao18162"
+  },
+  "code": {
+    "id": "AO18162",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO18",
+    "level": 1,
+    "name": {
+      "local": "Zaire",
+      "en": "Zaire",
+      "slug": "zaire-ao18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO18",
+      "level": 1,
+      "name": {
+        "local": "Zaire",
+        "en": "Zaire",
+        "slug": "zaire-ao18"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.301",
+    "lon": "12.749"
+  },
+  "metadata": {},
+  "source": {}
+}

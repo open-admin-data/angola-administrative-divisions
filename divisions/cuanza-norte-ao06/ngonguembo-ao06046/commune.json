@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO06046163",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Camame",
+      "en": "Camame",
+      "slug": "camame-ao06046163"
+    },
+    "code": {
+      "id": "AO06046163",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06046",
+      "level": 2,
+      "name": {
+        "local": "Ngonguembo",
+        "en": "Ngonguembo",
+        "slug": "ngonguembo-ao06046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06046",
+        "level": 2,
+        "name": {
+          "local": "Ngonguembo",
+          "en": "Ngonguembo",
+          "slug": "ngonguembo-ao06046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.896",
+      "lon": "14.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06046164",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kilombo dos Dembos",
+      "en": "Kilombo dos Dembos",
+      "slug": "kilombo-dos-dembos-ao06046164"
+    },
+    "code": {
+      "id": "AO06046164",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06046",
+      "level": 2,
+      "name": {
+        "local": "Ngonguembo",
+        "en": "Ngonguembo",
+        "slug": "ngonguembo-ao06046"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06046",
+        "level": 2,
+        "name": {
+          "local": "Ngonguembo",
+          "en": "Ngonguembo",
+          "slug": "ngonguembo-ao06046"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.907",
+      "lon": "14.714"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

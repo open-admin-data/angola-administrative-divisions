@@ -1,0 +1,47 @@
+{
+  "id": "AO07054",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Libolo (Calulo)",
+    "en": "Libolo (Calulo)",
+    "slug": "libolo-calulo-ao07054"
+  },
+  "code": {
+    "id": "AO07054",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO07",
+    "level": 1,
+    "name": {
+      "local": "Cuanza Sul",
+      "en": "Cuanza Sul",
+      "slug": "cuanza-sul-ao07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO07",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Sul",
+        "en": "Cuanza Sul",
+        "slug": "cuanza-sul-ao07"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.079",
+    "lon": "14.968"
+  },
+  "metadata": {},
+  "source": {}
+}

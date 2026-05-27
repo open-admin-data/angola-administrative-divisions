@@ -1,0 +1,56 @@
+[
+  {
+    "id": "AO17157506",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Uige",
+      "en": "Uige",
+      "slug": "uige-ao17157506"
+    },
+    "code": {
+      "id": "AO17157506",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17157",
+      "level": 2,
+      "name": {
+        "local": "Uíge",
+        "en": "Uíge",
+        "slug": "uge-ao17157"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17157",
+        "level": 2,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17157"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.568",
+      "lon": "15.077"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

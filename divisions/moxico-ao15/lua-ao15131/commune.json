@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO15131425",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Leua",
+      "en": "Leua",
+      "slug": "leua-ao15131425"
+    },
+    "code": {
+      "id": "AO15131425",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15131",
+      "level": 2,
+      "name": {
+        "local": "Léua",
+        "en": "Léua",
+        "slug": "lua-ao15131"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15131",
+        "level": 2,
+        "name": {
+          "local": "Léua",
+          "en": "Léua",
+          "slug": "lua-ao15131"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.719",
+      "lon": "20.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15131426",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Liangongo",
+      "en": "Liangongo",
+      "slug": "liangongo-ao15131426"
+    },
+    "code": {
+      "id": "AO15131426",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15131",
+      "level": 2,
+      "name": {
+        "local": "Léua",
+        "en": "Léua",
+        "slug": "lua-ao15131"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15131",
+        "level": 2,
+        "name": {
+          "local": "Léua",
+          "en": "Léua",
+          "slug": "lua-ao15131"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.77",
+      "lon": "20.665"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO14127413",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Quirima",
+      "en": "Quirima",
+      "slug": "quirima-ao14127413"
+    },
+    "code": {
+      "id": "AO14127413",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14127",
+      "level": 2,
+      "name": {
+        "local": "Quirima",
+        "en": "Quirima",
+        "slug": "quirima-ao14127"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14127",
+        "level": 2,
+        "name": {
+          "local": "Quirima",
+          "en": "Quirima",
+          "slug": "quirima-ao14127"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.876",
+      "lon": "18.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14127414",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sautari",
+      "en": "Sautari",
+      "slug": "sautari-ao14127414"
+    },
+    "code": {
+      "id": "AO14127414",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14127",
+      "level": 2,
+      "name": {
+        "local": "Quirima",
+        "en": "Quirima",
+        "slug": "quirima-ao14127"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14127",
+        "level": 2,
+        "name": {
+          "local": "Quirima",
+          "en": "Quirima",
+          "slug": "quirima-ao14127"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.015",
+      "lon": "18.598"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

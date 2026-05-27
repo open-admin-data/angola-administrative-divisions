@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO06039142",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bolongongo",
+      "en": "Bolongongo",
+      "slug": "bolongongo-ao06039142"
+    },
+    "code": {
+      "id": "AO06039142",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06039",
+      "level": 2,
+      "name": {
+        "local": "Bolongongo",
+        "en": "Bolongongo",
+        "slug": "bolongongo-ao06039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06039",
+        "level": 2,
+        "name": {
+          "local": "Bolongongo",
+          "en": "Bolongongo",
+          "slug": "bolongongo-ao06039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.368",
+      "lon": "15.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06039143",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kikiemba",
+      "en": "Kikiemba",
+      "slug": "kikiemba-ao06039143"
+    },
+    "code": {
+      "id": "AO06039143",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06039",
+      "level": 2,
+      "name": {
+        "local": "Bolongongo",
+        "en": "Bolongongo",
+        "slug": "bolongongo-ao06039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06039",
+        "level": 2,
+        "name": {
+          "local": "Bolongongo",
+          "en": "Bolongongo",
+          "slug": "bolongongo-ao06039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.39",
+      "lon": "14.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06039144",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Terreiro",
+      "en": "Terreiro",
+      "slug": "terreiro-ao06039144"
+    },
+    "code": {
+      "id": "AO06039144",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06039",
+      "level": 2,
+      "name": {
+        "local": "Bolongongo",
+        "en": "Bolongongo",
+        "slug": "bolongongo-ao06039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06039",
+        "level": 2,
+        "name": {
+          "local": "Bolongongo",
+          "en": "Bolongongo",
+          "slug": "bolongongo-ao06039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.391",
+      "lon": "15.123"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

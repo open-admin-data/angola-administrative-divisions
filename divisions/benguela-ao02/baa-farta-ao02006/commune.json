@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO02006024",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Baia Farta",
+      "en": "Baia Farta",
+      "slug": "baia-farta-ao02006024"
+    },
+    "code": {
+      "id": "AO02006024",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02006",
+      "level": 2,
+      "name": {
+        "local": "Baía Farta",
+        "en": "Baía Farta",
+        "slug": "baa-farta-ao02006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02006",
+        "level": 2,
+        "name": {
+          "local": "Baía Farta",
+          "en": "Baía Farta",
+          "slug": "baa-farta-ao02006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.805",
+      "lon": "13.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02006025",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dombe Grande",
+      "en": "Dombe Grande",
+      "slug": "dombe-grande-ao02006025"
+    },
+    "code": {
+      "id": "AO02006025",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02006",
+      "level": 2,
+      "name": {
+        "local": "Baía Farta",
+        "en": "Baía Farta",
+        "slug": "baa-farta-ao02006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02006",
+        "level": 2,
+        "name": {
+          "local": "Baía Farta",
+          "en": "Baía Farta",
+          "slug": "baa-farta-ao02006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.223",
+      "lon": "13.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02006026",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ekimina",
+      "en": "Ekimina",
+      "slug": "ekimina-ao02006026"
+    },
+    "code": {
+      "id": "AO02006026",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02006",
+      "level": 2,
+      "name": {
+        "local": "Baía Farta",
+        "en": "Baía Farta",
+        "slug": "baa-farta-ao02006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02006",
+        "level": 2,
+        "name": {
+          "local": "Baía Farta",
+          "en": "Baía Farta",
+          "slug": "baa-farta-ao02006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.41",
+      "lon": "12.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02006027",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalahanga",
+      "en": "Kalahanga",
+      "slug": "kalahanga-ao02006027"
+    },
+    "code": {
+      "id": "AO02006027",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02006",
+      "level": 2,
+      "name": {
+        "local": "Baía Farta",
+        "en": "Baía Farta",
+        "slug": "baa-farta-ao02006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02006",
+        "level": 2,
+        "name": {
+          "local": "Baía Farta",
+          "en": "Baía Farta",
+          "slug": "baa-farta-ao02006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.05",
+      "lon": "13.451"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO09068226",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gungue",
+      "en": "Gungue",
+      "slug": "gungue-ao09068226"
+    },
+    "code": {
+      "id": "AO09068226",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09068",
+      "level": 2,
+      "name": {
+        "local": "Caconda",
+        "en": "Caconda",
+        "slug": "caconda-ao09068"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09068",
+        "level": 2,
+        "name": {
+          "local": "Caconda",
+          "en": "Caconda",
+          "slug": "caconda-ao09068"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.869",
+      "lon": "15.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09068227",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kakonda",
+      "en": "Kakonda",
+      "slug": "kakonda-ao09068227"
+    },
+    "code": {
+      "id": "AO09068227",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09068",
+      "level": 2,
+      "name": {
+        "local": "Caconda",
+        "en": "Caconda",
+        "slug": "caconda-ao09068"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09068",
+        "level": 2,
+        "name": {
+          "local": "Caconda",
+          "en": "Caconda",
+          "slug": "caconda-ao09068"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.785",
+      "lon": "15.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09068228",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kusse",
+      "en": "Kusse",
+      "slug": "kusse-ao09068228"
+    },
+    "code": {
+      "id": "AO09068228",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09068",
+      "level": 2,
+      "name": {
+        "local": "Caconda",
+        "en": "Caconda",
+        "slug": "caconda-ao09068"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09068",
+        "level": 2,
+        "name": {
+          "local": "Caconda",
+          "en": "Caconda",
+          "slug": "caconda-ao09068"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.544",
+      "lon": "15.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09068229",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Uaba",
+      "en": "Uaba",
+      "slug": "uaba-ao09068229"
+    },
+    "code": {
+      "id": "AO09068229",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09068",
+      "level": 2,
+      "name": {
+        "local": "Caconda",
+        "en": "Caconda",
+        "slug": "caconda-ao09068"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09068",
+        "level": 2,
+        "name": {
+          "local": "Caconda",
+          "en": "Caconda",
+          "slug": "caconda-ao09068"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.849",
+      "lon": "14.859"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

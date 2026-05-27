@@ -1,0 +1,131 @@
+# Bengo — Angola Administrative Divisions
+
+> 6 municipalitys, 23 communes
+> Code: AO01
+> Coordinates: -8.283, 13.987
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Ambriz
+
+Code: AO01001, Coordinates: -7.972, 13.511
+Communes: 3
+
+#### Ambriz
+
+Code: AO01001001, Coordinates: -7.86, 13.315
+
+#### Bela Vista
+
+Code: AO01001002, Coordinates: -7.852, 13.683
+
+#### Tabi
+
+Code: AO01001003, Coordinates: -8.135, 13.429
+
+### Bula-Atumba
+
+Code: AO01040, Coordinates: -8.602, 14.853
+Communes: 2
+
+#### Bula-Atumba
+
+Code: AO01040145, Coordinates: -8.673, 14.809
+
+#### Kiaje
+
+Code: AO01040146, Coordinates: -8.493, 14.914
+
+### Dande
+
+Code: AO01002, Coordinates: -8.5, 13.813
+Communes: 6
+
+#### Barra do Dande
+
+Code: AO01002004, Coordinates: -8.45, 13.46
+
+#### Caxito
+
+Code: AO01002005, Coordinates: -8.639, 13.639
+
+#### Funda
+
+Code: AO01002299, Coordinates: -8.735, 13.485
+
+#### Kikabo
+
+Code: AO01002006, Coordinates: -8.227, 13.785
+
+#### Mabubas
+
+Code: AO01002007, Coordinates: -8.546, 13.86
+
+#### Ucua
+
+Code: AO01002008, Coordinates: -8.704, 14.124
+
+### Dembos-Quibaxe
+
+Code: AO01043, Coordinates: -8.548, 14.532
+Communes: 4
+
+#### Kibaxe
+
+Code: AO01043153, Coordinates: -8.492, 14.601
+
+#### Paredes
+
+Code: AO01043154, Coordinates: -8.614, 14.655
+
+#### Piri
+
+Code: AO01043155, Coordinates: -8.501, 14.386
+
+#### S. Jose das Matas
+
+Code: AO01043156, Coordinates: -8.469, 14.751
+
+### Nambuangongo
+
+Code: AO01005, Coordinates: -8.042, 14.284
+Communes: 7
+
+#### Gombe
+
+Code: AO01005017, Coordinates: -8.157, 14.379
+
+#### Kage
+
+Code: AO01005018, Coordinates: -8.334, 14.27
+
+#### Kanacassala
+
+Code: AO01005019, Coordinates: -8.207, 14.15
+
+#### Kicunzo
+
+Code: AO01005020, Coordinates: -8.199, 14.56
+
+#### Kixico
+
+Code: AO01005021, Coordinates: -7.984, 14.52
+
+#### Muxiluando
+
+Code: AO01005022, Coordinates: -8.006, 14.242
+
+#### Zala
+
+Code: AO01005023, Coordinates: -7.869, 14.113
+
+### Pango-Aluquém
+
+Code: AO01047, Coordinates: -8.754, 14.495
+Communes: 1
+
+#### Pango-Aluquem
+
+Code: AO01047166, Coordinates: -8.754, 14.495
+

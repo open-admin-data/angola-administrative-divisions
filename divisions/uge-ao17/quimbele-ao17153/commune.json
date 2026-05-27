@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO17153492",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alto-Zaza",
+      "en": "Alto-Zaza",
+      "slug": "alto-zaza-ao17153492"
+    },
+    "code": {
+      "id": "AO17153492",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17153",
+      "level": 2,
+      "name": {
+        "local": "Quimbele",
+        "en": "Quimbele",
+        "slug": "quimbele-ao17153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17153",
+        "level": 2,
+        "name": {
+          "local": "Quimbele",
+          "en": "Quimbele",
+          "slug": "quimbele-ao17153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.526",
+      "lon": "16.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17153493",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cuango",
+      "en": "Cuango",
+      "slug": "cuango-ao17153493"
+    },
+    "code": {
+      "id": "AO17153493",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17153",
+      "level": 2,
+      "name": {
+        "local": "Quimbele",
+        "en": "Quimbele",
+        "slug": "quimbele-ao17153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17153",
+        "level": 2,
+        "name": {
+          "local": "Quimbele",
+          "en": "Quimbele",
+          "slug": "quimbele-ao17153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.153",
+      "lon": "16.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17153494",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Icoca",
+      "en": "Icoca",
+      "slug": "icoca-ao17153494"
+    },
+    "code": {
+      "id": "AO17153494",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17153",
+      "level": 2,
+      "name": {
+        "local": "Quimbele",
+        "en": "Quimbele",
+        "slug": "quimbele-ao17153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17153",
+        "level": 2,
+        "name": {
+          "local": "Quimbele",
+          "en": "Quimbele",
+          "slug": "quimbele-ao17153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.223",
+      "lon": "16.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17153495",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Quimbele",
+      "en": "Quimbele",
+      "slug": "quimbele-ao17153495"
+    },
+    "code": {
+      "id": "AO17153495",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17153",
+      "level": 2,
+      "name": {
+        "local": "Quimbele",
+        "en": "Quimbele",
+        "slug": "quimbele-ao17153"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17153",
+        "level": 2,
+        "name": {
+          "local": "Quimbele",
+          "en": "Quimbele",
+          "slug": "quimbele-ao17153"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.44",
+      "lon": "16.234"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

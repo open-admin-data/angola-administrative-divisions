@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO04024094",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Belize",
+      "en": "Belize",
+      "slug": "belize-ao04024094"
+    },
+    "code": {
+      "id": "AO04024094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04024",
+      "level": 2,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-ao04024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      },
+      {
+        "id": "AO04024",
+        "level": 2,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-ao04024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.68",
+      "lon": "12.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO04024095",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luali",
+      "en": "Luali",
+      "slug": "luali-ao04024095"
+    },
+    "code": {
+      "id": "AO04024095",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04024",
+      "level": 2,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-ao04024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      },
+      {
+        "id": "AO04024",
+        "level": 2,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-ao04024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.551",
+      "lon": "12.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO04024096",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mikonje",
+      "en": "Mikonje",
+      "slug": "mikonje-ao04024096"
+    },
+    "code": {
+      "id": "AO04024096",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04024",
+      "level": 2,
+      "name": {
+        "local": "Belize",
+        "en": "Belize",
+        "slug": "belize-ao04024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      },
+      {
+        "id": "AO04024",
+        "level": 2,
+        "name": {
+          "local": "Belize",
+          "en": "Belize",
+          "slug": "belize-ao04024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.55",
+      "lon": "12.91"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

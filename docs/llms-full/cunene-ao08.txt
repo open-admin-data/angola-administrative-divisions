@@ -1,0 +1,119 @@
+# Cunene — Angola Administrative Divisions
+
+> 6 municipalitys, 20 communes
+> Code: AO08
+> Coordinates: -16.293, 15.601
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Cahama
+
+Code: AO08062, Coordinates: -16.427, 14.117
+Communes: 2
+
+#### Kahama
+
+Code: AO08062206, Coordinates: -16.25, 14.418
+
+#### Otchinjau
+
+Code: AO08062207, Coordinates: -16.57, 14.032
+
+### Cuanhama
+
+Code: AO08063, Coordinates: -16.53, 16.372
+Communes: 5
+
+#### Evale
+
+Code: AO08063208, Coordinates: -16.554, 15.767
+
+#### Kafima
+
+Code: AO08063209, Coordinates: -16.686, 16.263
+
+#### Mongua
+
+Code: AO08063210, Coordinates: -16.815, 15.505
+
+#### Onjiva
+
+Code: AO08063211, Coordinates: -17.074, 15.683
+
+#### Oximolo
+
+Code: AO08063212, Coordinates: -16.22, 16.76
+
+### Curoca
+
+Code: AO08064, Coordinates: -16.845, 13.509
+Communes: 2
+
+#### Chitado
+
+Code: AO08064213, Coordinates: -17.129, 13.974
+
+#### Onkokwa
+
+Code: AO08064214, Coordinates: -16.665, 13.417
+
+### Cuvelai
+
+Code: AO08065, Coordinates: -15.774, 16.085
+Communes: 4
+
+#### Kalonga
+
+Code: AO08065215, Coordinates: -15.892, 15.428
+
+#### Kuvati
+
+Code: AO08065216, Coordinates: -15.504, 16.749
+
+#### Kuvelai
+
+Code: AO08065217, Coordinates: -15.637, 16.025
+
+#### Mupa
+
+Code: AO08065218, Coordinates: -16.177, 15.826
+
+### Namacunde
+
+Code: AO08066, Coordinates: -16.977, 16.589
+Communes: 2
+
+#### Namakunde
+
+Code: AO08066219, Coordinates: -17.305, 15.745
+
+#### Shiede
+
+Code: AO08066220, Coordinates: -16.977, 16.589
+
+### Ombadja
+
+Code: AO08067, Coordinates: -16.689, 14.853
+Communes: 5
+
+#### Humbe
+
+Code: AO08067221, Coordinates: -16.879, 14.591
+
+#### Mukope
+
+Code: AO08067222, Coordinates: -16.295, 14.97
+
+#### Naulila
+
+Code: AO08067223, Coordinates: -17.11, 14.824
+
+#### Ombala yo Mungu
+
+Code: AO08067224, Coordinates: -17.151, 15.158
+
+#### Xangongo
+
+Code: AO08067225, Coordinates: -16.532, 15.26
+

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO05034125",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaiundo",
+      "en": "Kaiundo",
+      "slug": "kaiundo-ao05034125"
+    },
+    "code": {
+      "id": "AO05034125",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05034",
+      "level": 2,
+      "name": {
+        "local": "Menongue",
+        "en": "Menongue",
+        "slug": "menongue-ao05034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05034",
+        "level": 2,
+        "name": {
+          "local": "Menongue",
+          "en": "Menongue",
+          "slug": "menongue-ao05034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.76",
+      "lon": "17.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05034126",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kueio",
+      "en": "Kueio",
+      "slug": "kueio-ao05034126"
+    },
+    "code": {
+      "id": "AO05034126",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05034",
+      "level": 2,
+      "name": {
+        "local": "Menongue",
+        "en": "Menongue",
+        "slug": "menongue-ao05034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05034",
+        "level": 2,
+        "name": {
+          "local": "Menongue",
+          "en": "Menongue",
+          "slug": "menongue-ao05034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.829",
+      "lon": "18.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05034127",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Menongue",
+      "en": "Menongue",
+      "slug": "menongue-ao05034127"
+    },
+    "code": {
+      "id": "AO05034127",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05034",
+      "level": 2,
+      "name": {
+        "local": "Menongue",
+        "en": "Menongue",
+        "slug": "menongue-ao05034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05034",
+        "level": 2,
+        "name": {
+          "local": "Menongue",
+          "en": "Menongue",
+          "slug": "menongue-ao05034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.545",
+      "lon": "17.783"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

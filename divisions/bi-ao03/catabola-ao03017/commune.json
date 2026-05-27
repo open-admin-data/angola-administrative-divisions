@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO03017067",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chipeta",
+      "en": "Chipeta",
+      "slug": "chipeta-ao03017067"
+    },
+    "code": {
+      "id": "AO03017067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03017",
+      "level": 2,
+      "name": {
+        "local": "Catabola",
+        "en": "Catabola",
+        "slug": "catabola-ao03017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03017",
+        "level": 2,
+        "name": {
+          "local": "Catabola",
+          "en": "Catabola",
+          "slug": "catabola-ao03017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.322",
+      "lon": "17.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03017068",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chiuca",
+      "en": "Chiuca",
+      "slug": "chiuca-ao03017068"
+    },
+    "code": {
+      "id": "AO03017068",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03017",
+      "level": 2,
+      "name": {
+        "local": "Catabola",
+        "en": "Catabola",
+        "slug": "catabola-ao03017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03017",
+        "level": 2,
+        "name": {
+          "local": "Catabola",
+          "en": "Catabola",
+          "slug": "catabola-ao03017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.379",
+      "lon": "17.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03017069",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaiuera",
+      "en": "Kaiuera",
+      "slug": "kaiuera-ao03017069"
+    },
+    "code": {
+      "id": "AO03017069",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03017",
+      "level": 2,
+      "name": {
+        "local": "Catabola",
+        "en": "Catabola",
+        "slug": "catabola-ao03017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03017",
+        "level": 2,
+        "name": {
+          "local": "Catabola",
+          "en": "Catabola",
+          "slug": "catabola-ao03017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.015",
+      "lon": "17.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03017070",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Katabola",
+      "en": "Katabola",
+      "slug": "katabola-ao03017070"
+    },
+    "code": {
+      "id": "AO03017070",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03017",
+      "level": 2,
+      "name": {
+        "local": "Catabola",
+        "en": "Catabola",
+        "slug": "catabola-ao03017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03017",
+        "level": 2,
+        "name": {
+          "local": "Catabola",
+          "en": "Catabola",
+          "slug": "catabola-ao03017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.146",
+      "lon": "17.325"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "AO09",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Huíla",
+    "en": "Huíla",
+    "slug": "hula-ao09"
+  },
+  "code": {
+    "id": "AO09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 14,
+    "commune": 38
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-14.852",
+    "lon": "15.01"
+  },
+  "metadata": {},
+  "source": {}
+}

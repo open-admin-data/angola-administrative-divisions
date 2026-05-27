@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO03022085",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cambandua",
+      "en": "Cambandua",
+      "slug": "cambandua-ao03022085"
+    },
+    "code": {
+      "id": "AO03022085",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03022",
+      "level": 2,
+      "name": {
+        "local": "Cuito (Kuito)",
+        "en": "Cuito (Kuito)",
+        "slug": "cuito-kuito-ao03022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03022",
+        "level": 2,
+        "name": {
+          "local": "Cuito (Kuito)",
+          "en": "Cuito (Kuito)",
+          "slug": "cuito-kuito-ao03022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.627",
+      "lon": "17.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03022086",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chicala",
+      "en": "Chicala",
+      "slug": "chicala-ao03022086"
+    },
+    "code": {
+      "id": "AO03022086",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03022",
+      "level": 2,
+      "name": {
+        "local": "Cuito (Kuito)",
+        "en": "Cuito (Kuito)",
+        "slug": "cuito-kuito-ao03022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03022",
+        "level": 2,
+        "name": {
+          "local": "Cuito (Kuito)",
+          "en": "Cuito (Kuito)",
+          "slug": "cuito-kuito-ao03022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.745",
+      "lon": "16.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03022087",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kuito",
+      "en": "Kuito",
+      "slug": "kuito-ao03022087"
+    },
+    "code": {
+      "id": "AO03022087",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03022",
+      "level": 2,
+      "name": {
+        "local": "Cuito (Kuito)",
+        "en": "Cuito (Kuito)",
+        "slug": "cuito-kuito-ao03022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03022",
+        "level": 2,
+        "name": {
+          "local": "Cuito (Kuito)",
+          "en": "Cuito (Kuito)",
+          "slug": "cuito-kuito-ao03022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.445",
+      "lon": "16.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03022088",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Trumba",
+      "en": "Trumba",
+      "slug": "trumba-ao03022088"
+    },
+    "code": {
+      "id": "AO03022088",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03022",
+      "level": 2,
+      "name": {
+        "local": "Cuito (Kuito)",
+        "en": "Cuito (Kuito)",
+        "slug": "cuito-kuito-ao03022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03022",
+        "level": 2,
+        "name": {
+          "local": "Cuito (Kuito)",
+          "en": "Cuito (Kuito)",
+          "slug": "cuito-kuito-ao03022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.209",
+      "lon": "16.947"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

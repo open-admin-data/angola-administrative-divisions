@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO09078254",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kapelongo",
+      "en": "Kapelongo",
+      "slug": "kapelongo-ao09078254"
+    },
+    "code": {
+      "id": "AO09078254",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09078",
+      "level": 2,
+      "name": {
+        "local": "Matala",
+        "en": "Matala",
+        "slug": "matala-ao09078"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09078",
+        "level": 2,
+        "name": {
+          "local": "Matala",
+          "en": "Matala",
+          "slug": "matala-ao09078"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.967",
+      "lon": "15.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09078255",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Matala",
+      "en": "Matala",
+      "slug": "matala-ao09078255"
+    },
+    "code": {
+      "id": "AO09078255",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09078",
+      "level": 2,
+      "name": {
+        "local": "Matala",
+        "en": "Matala",
+        "slug": "matala-ao09078"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09078",
+        "level": 2,
+        "name": {
+          "local": "Matala",
+          "en": "Matala",
+          "slug": "matala-ao09078"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.687",
+      "lon": "15.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09078256",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mulondo",
+      "en": "Mulondo",
+      "slug": "mulondo-ao09078256"
+    },
+    "code": {
+      "id": "AO09078256",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09078",
+      "level": 2,
+      "name": {
+        "local": "Matala",
+        "en": "Matala",
+        "slug": "matala-ao09078"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09078",
+        "level": 2,
+        "name": {
+          "local": "Matala",
+          "en": "Matala",
+          "slug": "matala-ao09078"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.572",
+      "lon": "15.174"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

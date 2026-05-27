@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO06041147",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Danje ia Menha",
+      "en": "Danje ia Menha",
+      "slug": "danje-ia-menha-ao06041147"
+    },
+    "code": {
+      "id": "AO06041147",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06041",
+      "level": 2,
+      "name": {
+        "local": "Cambambe (Kambambe)",
+        "en": "Cambambe (Kambambe)",
+        "slug": "cambambe-kambambe-ao06041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06041",
+        "level": 2,
+        "name": {
+          "local": "Cambambe (Kambambe)",
+          "en": "Cambambe (Kambambe)",
+          "slug": "cambambe-kambambe-ao06041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.533",
+      "lon": "14.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06041148",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dondo",
+      "en": "Dondo",
+      "slug": "dondo-ao06041148"
+    },
+    "code": {
+      "id": "AO06041148",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06041",
+      "level": 2,
+      "name": {
+        "local": "Cambambe (Kambambe)",
+        "en": "Cambambe (Kambambe)",
+        "slug": "cambambe-kambambe-ao06041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06041",
+        "level": 2,
+        "name": {
+          "local": "Cambambe (Kambambe)",
+          "en": "Cambambe (Kambambe)",
+          "slug": "cambambe-kambambe-ao06041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.554",
+      "lon": "14.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06041165",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kazua",
+      "en": "Kazua",
+      "slug": "kazua-ao06041165"
+    },
+    "code": {
+      "id": "AO06041165",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06041",
+      "level": 2,
+      "name": {
+        "local": "Cambambe (Kambambe)",
+        "en": "Cambambe (Kambambe)",
+        "slug": "cambambe-kambambe-ao06041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06041",
+        "level": 2,
+        "name": {
+          "local": "Cambambe (Kambambe)",
+          "en": "Cambambe (Kambambe)",
+          "slug": "cambambe-kambambe-ao06041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.055",
+      "lon": "14.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06041149",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "S. Pedro da Kilemba",
+      "en": "S. Pedro da Kilemba",
+      "slug": "s-pedro-da-kilemba-ao06041149"
+    },
+    "code": {
+      "id": "AO06041149",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06041",
+      "level": 2,
+      "name": {
+        "local": "Cambambe (Kambambe)",
+        "en": "Cambambe (Kambambe)",
+        "slug": "cambambe-kambambe-ao06041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06041",
+        "level": 2,
+        "name": {
+          "local": "Cambambe (Kambambe)",
+          "en": "Cambambe (Kambambe)",
+          "slug": "cambambe-kambambe-ao06041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.663",
+      "lon": "14.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06041150",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zenza do Itombe",
+      "en": "Zenza do Itombe",
+      "slug": "zenza-do-itombe-ao06041150"
+    },
+    "code": {
+      "id": "AO06041150",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06041",
+      "level": 2,
+      "name": {
+        "local": "Cambambe (Kambambe)",
+        "en": "Cambambe (Kambambe)",
+        "slug": "cambambe-kambambe-ao06041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06041",
+        "level": 2,
+        "name": {
+          "local": "Cambambe (Kambambe)",
+          "en": "Cambambe (Kambambe)",
+          "slug": "cambambe-kambambe-ao06041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.349",
+      "lon": "14.284"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

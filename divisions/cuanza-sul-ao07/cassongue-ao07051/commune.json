@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO07051172",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Atome",
+      "en": "Atome",
+      "slug": "atome-ao07051172"
+    },
+    "code": {
+      "id": "AO07051172",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07051",
+      "level": 2,
+      "name": {
+        "local": "Cassongue",
+        "en": "Cassongue",
+        "slug": "cassongue-ao07051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07051",
+        "level": 2,
+        "name": {
+          "local": "Cassongue",
+          "en": "Cassongue",
+          "slug": "cassongue-ao07051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.869",
+      "lon": "14.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07051173",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dumbi",
+      "en": "Dumbi",
+      "slug": "dumbi-ao07051173"
+    },
+    "code": {
+      "id": "AO07051173",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07051",
+      "level": 2,
+      "name": {
+        "local": "Cassongue",
+        "en": "Cassongue",
+        "slug": "cassongue-ao07051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07051",
+        "level": 2,
+        "name": {
+          "local": "Cassongue",
+          "en": "Cassongue",
+          "slug": "cassongue-ao07051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.635",
+      "lon": "14.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07051174",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kassongue",
+      "en": "Kassongue",
+      "slug": "kassongue-ao07051174"
+    },
+    "code": {
+      "id": "AO07051174",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07051",
+      "level": 2,
+      "name": {
+        "local": "Cassongue",
+        "en": "Cassongue",
+        "slug": "cassongue-ao07051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07051",
+        "level": 2,
+        "name": {
+          "local": "Cassongue",
+          "en": "Cassongue",
+          "slug": "cassongue-ao07051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.945",
+      "lon": "15.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07051175",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pambangala",
+      "en": "Pambangala",
+      "slug": "pambangala-ao07051175"
+    },
+    "code": {
+      "id": "AO07051175",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07051",
+      "level": 2,
+      "name": {
+        "local": "Cassongue",
+        "en": "Cassongue",
+        "slug": "cassongue-ao07051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07051",
+        "level": 2,
+        "name": {
+          "local": "Cassongue",
+          "en": "Cassongue",
+          "slug": "cassongue-ao07051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.8",
+      "lon": "15.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

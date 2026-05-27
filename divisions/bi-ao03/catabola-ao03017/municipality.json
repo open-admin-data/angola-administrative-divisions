@@ -1,0 +1,47 @@
+{
+  "id": "AO03017",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Catabola",
+    "en": "Catabola",
+    "slug": "catabola-ao03017"
+  },
+  "code": {
+    "id": "AO03017",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO03",
+    "level": 1,
+    "name": {
+      "local": "Bié",
+      "en": "Bié",
+      "slug": "bi-ao03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO03",
+      "level": 1,
+      "name": {
+        "local": "Bié",
+        "en": "Bié",
+        "slug": "bi-ao03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.138",
+    "lon": "17.248"
+  },
+  "metadata": {},
+  "source": {}
+}

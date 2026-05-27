@@ -1,0 +1,47 @@
+{
+  "id": "AO04027",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cacongo (Landana)",
+    "en": "Cacongo (Landana)",
+    "slug": "cacongo-landana-ao04027"
+  },
+  "code": {
+    "id": "AO04027",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO04",
+    "level": 1,
+    "name": {
+      "local": "Cabinda",
+      "en": "Cabinda",
+      "slug": "cabinda-ao04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO04",
+      "level": 1,
+      "name": {
+        "local": "Cabinda",
+        "en": "Cabinda",
+        "slug": "cabinda-ao04"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.022",
+    "lon": "12.238"
+  },
+  "metadata": {},
+  "source": {}
+}

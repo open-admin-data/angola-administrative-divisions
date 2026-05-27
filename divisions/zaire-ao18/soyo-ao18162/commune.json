@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO18162520",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kelo",
+      "en": "Kelo",
+      "slug": "kelo-ao18162520"
+    },
+    "code": {
+      "id": "AO18162520",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18162",
+      "level": 2,
+      "name": {
+        "local": "Soyo",
+        "en": "Soyo",
+        "slug": "soyo-ao18162"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18162",
+        "level": 2,
+        "name": {
+          "local": "Soyo",
+          "en": "Soyo",
+          "slug": "soyo-ao18162"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.471",
+      "lon": "12.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18162521",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pedra do Feitico",
+      "en": "Pedra do Feitico",
+      "slug": "pedra-do-feitico-ao18162521"
+    },
+    "code": {
+      "id": "AO18162521",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18162",
+      "level": 2,
+      "name": {
+        "local": "Soyo",
+        "en": "Soyo",
+        "slug": "soyo-ao18162"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18162",
+        "level": 2,
+        "name": {
+          "local": "Soyo",
+          "en": "Soyo",
+          "slug": "soyo-ao18162"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.124",
+      "lon": "12.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18162522",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Soyo",
+      "en": "Soyo",
+      "slug": "soyo-ao18162522"
+    },
+    "code": {
+      "id": "AO18162522",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18162",
+      "level": 2,
+      "name": {
+        "local": "Soyo",
+        "en": "Soyo",
+        "slug": "soyo-ao18162"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18162",
+        "level": 2,
+        "name": {
+          "local": "Soyo",
+          "en": "Soyo",
+          "slug": "soyo-ao18162"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.257",
+      "lon": "12.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18162523",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sumba",
+      "en": "Sumba",
+      "slug": "sumba-ao18162523"
+    },
+    "code": {
+      "id": "AO18162523",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18162",
+      "level": 2,
+      "name": {
+        "local": "Soyo",
+        "en": "Soyo",
+        "slug": "soyo-ao18162"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18162",
+        "level": 2,
+        "name": {
+          "local": "Soyo",
+          "en": "Soyo",
+          "slug": "soyo-ao18162"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.139",
+      "lon": "12.644"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

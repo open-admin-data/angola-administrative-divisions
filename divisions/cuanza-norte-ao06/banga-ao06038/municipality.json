@@ -1,0 +1,47 @@
+{
+  "id": "AO06038",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Banga",
+    "en": "Banga",
+    "slug": "banga-ao06038"
+  },
+  "code": {
+    "id": "AO06038",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO06",
+    "level": 1,
+    "name": {
+      "local": "Cuanza Norte",
+      "en": "Cuanza Norte",
+      "slug": "cuanza-norte-ao06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.709",
+    "lon": "15.136"
+  },
+  "metadata": {},
+  "source": {}
+}

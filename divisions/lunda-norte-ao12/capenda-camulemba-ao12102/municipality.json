@@ -1,0 +1,47 @@
+{
+  "id": "AO12102",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Capenda-Camulemba",
+    "en": "Capenda-Camulemba",
+    "slug": "capenda-camulemba-ao12102"
+  },
+  "code": {
+    "id": "AO12102",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO12",
+    "level": 1,
+    "name": {
+      "local": "Lunda Norte",
+      "en": "Lunda Norte",
+      "slug": "lunda-norte-ao12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.686",
+    "lon": "18.931"
+  },
+  "metadata": {},
+  "source": {}
+}

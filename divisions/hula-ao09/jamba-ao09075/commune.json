@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO09075244",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dongo",
+      "en": "Dongo",
+      "slug": "dongo-ao09075244"
+    },
+    "code": {
+      "id": "AO09075244",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09075",
+      "level": 2,
+      "name": {
+        "local": "Jamba",
+        "en": "Jamba",
+        "slug": "jamba-ao09075"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09075",
+        "level": 2,
+        "name": {
+          "local": "Jamba",
+          "en": "Jamba",
+          "slug": "jamba-ao09075"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.529",
+      "lon": "15.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09075245",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Jamba",
+      "en": "Jamba",
+      "slug": "jamba-ao09075245"
+    },
+    "code": {
+      "id": "AO09075245",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09075",
+      "level": 2,
+      "name": {
+        "local": "Jamba",
+        "en": "Jamba",
+        "slug": "jamba-ao09075"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09075",
+        "level": 2,
+        "name": {
+          "local": "Jamba",
+          "en": "Jamba",
+          "slug": "jamba-ao09075"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.764",
+      "lon": "15.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09075246",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kassinga",
+      "en": "Kassinga",
+      "slug": "kassinga-ao09075246"
+    },
+    "code": {
+      "id": "AO09075246",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09075",
+      "level": 2,
+      "name": {
+        "local": "Jamba",
+        "en": "Jamba",
+        "slug": "jamba-ao09075"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09075",
+        "level": 2,
+        "name": {
+          "local": "Jamba",
+          "en": "Jamba",
+          "slug": "jamba-ao09075"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.166",
+      "lon": "15.927"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

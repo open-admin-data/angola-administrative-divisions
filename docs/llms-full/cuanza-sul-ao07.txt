@@ -1,0 +1,213 @@
+# Cuanza Sul — Angola Administrative Divisions
+
+> 12 municipalitys, 36 communes
+> Code: AO07
+> Coordinates: -10.942, 15.049
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Amboim (Gabela)
+
+Code: AO07050, Coordinates: -10.9, 14.402
+Communes: 2
+
+#### Assango
+
+Code: AO07050170, Coordinates: -10.922, 14.398
+
+#### Gabela
+
+Code: AO07050171, Coordinates: -10.83, 14.38
+
+### Cassongue
+
+Code: AO07051, Coordinates: -11.787, 14.961
+Communes: 4
+
+#### Atome
+
+Code: AO07051172, Coordinates: -11.869, 14.654
+
+#### Dumbi
+
+Code: AO07051173, Coordinates: -11.635, 14.982
+
+#### Kassongue
+
+Code: AO07051174, Coordinates: -11.945, 15.041
+
+#### Pambangala
+
+Code: AO07051175, Coordinates: -11.8, 15.283
+
+### Cela (Waku Kungo)
+
+Code: AO07061, Coordinates: -11.31, 15.351
+Communes: 3
+
+#### Kissanga Kungo
+
+Code: AO07061203, Coordinates: -11.443, 15.266
+
+#### Sanga
+
+Code: AO07061204, Coordinates: -11.23, 15.542
+
+#### Waco Kungo
+
+Code: AO07061205, Coordinates: -11.215, 15.135
+
+### Conda
+
+Code: AO07052, Coordinates: -11.164, 14.493
+Communes: 2
+
+#### Konda
+
+Code: AO07052176, Coordinates: -11.125, 14.291
+
+#### Kunju
+
+Code: AO07052177, Coordinates: -11.19, 14.642
+
+### Ebo
+
+Code: AO07053, Coordinates: -10.89, 14.751
+Communes: 3
+
+#### Conde
+
+Code: AO07053178, Coordinates: -10.801, 14.689
+
+#### Ebo
+
+Code: AO07053179, Coordinates: -11.02, 14.675
+
+#### Kassanje
+
+Code: AO07053180, Coordinates: -11.033, 14.943
+
+### Libolo (Calulo)
+
+Code: AO07054, Coordinates: -10.079, 14.968
+Communes: 4
+
+#### Kabuta
+
+Code: AO07054181, Coordinates: -9.829, 14.965
+
+#### Kalulo
+
+Code: AO07054182, Coordinates: -10.125, 14.982
+
+#### Kissongo
+
+Code: AO07054183, Coordinates: -10.028, 15.217
+
+#### Munenga
+
+Code: AO07054184, Coordinates: -10.017, 14.665
+
+### Mussende
+
+Code: AO07055, Coordinates: -10.36, 16.111
+Communes: 3
+
+#### Kienha
+
+Code: AO07055185, Coordinates: -10.082, 15.703
+
+#### Mussende
+
+Code: AO07055186, Coordinates: -10.242, 16.167
+
+#### Sao Lucas
+
+Code: AO07055187, Coordinates: -10.764, 16.263
+
+### Porto Amboim
+
+Code: AO07056, Coordinates: -10.617, 14.003
+Communes: 2
+
+#### Kapolo
+
+Code: AO07056188, Coordinates: -10.448, 13.876
+
+#### Porto Amboim
+
+Code: AO07056189, Coordinates: -10.784, 14.007
+
+### Quibala
+
+Code: AO07057, Coordinates: -10.76, 15.367
+Communes: 4
+
+#### Kariango
+
+Code: AO07057190, Coordinates: -10.569, 15.514
+
+#### Kibala
+
+Code: AO07057191, Coordinates: -10.673, 14.983
+
+#### Lonhe
+
+Code: AO07057192, Coordinates: -10.978, 15.691
+
+#### Ndala Kachimbo
+
+Code: AO07057193, Coordinates: -10.457, 14.746
+
+### Quilenda
+
+Code: AO07058, Coordinates: -10.529, 14.401
+Communes: 2
+
+#### Kilenda
+
+Code: AO07058194, Coordinates: -10.695, 14.341
+
+#### Kirimbo
+
+Code: AO07058195, Coordinates: -10.518, 14.4
+
+### Seles (Uku Seles)
+
+Code: AO07059, Coordinates: -11.438, 14.498
+Communes: 3
+
+#### Amboiva
+
+Code: AO07059196, Coordinates: -11.431, 14.789
+
+#### Botera
+
+Code: AO07059197, Coordinates: -11.582, 14.343
+
+#### Ucu-Seles
+
+Code: AO07059198, Coordinates: -11.376, 14.32
+
+### Sumbe (Ngangula)
+
+Code: AO07060, Coordinates: -11.436, 13.924
+Communes: 4
+
+#### Gangula
+
+Code: AO07060199, Coordinates: -11.046, 14.01
+
+#### Gungo
+
+Code: AO07060200, Coordinates: -11.75, 14.187
+
+#### Kikombo
+
+Code: AO07060201, Coordinates: -11.542, 13.935
+
+#### Sumbe
+
+Code: AO07060202, Coordinates: -11.266, 13.937
+

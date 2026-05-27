@@ -1,0 +1,93 @@
+# Lunda Sul — Angola Administrative Divisions
+
+> 4 municipalitys, 16 communes
+> Code: AO13
+> Coordinates: -9.897, 20.954
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Cacolo
+
+Code: AO13110, Coordinates: -10.517, 19.094
+Communes: 6
+
+#### Alto-Chicapa
+
+Code: AO13110351, Coordinates: -10.889, 19.164
+
+#### Cacolo
+
+Code: AO13110352, Coordinates: -10.309, 19.376
+
+#### Cucumbi
+
+Code: AO13110353, Coordinates: -10.389, 19.026
+
+#### Luangue
+
+Code: AO13110340, Coordinates: -9.794, 19.503
+
+#### Xassengue
+
+Code: AO13110354, Coordinates: -10.495, 18.711
+
+#### Xinge
+
+Code: AO13110330, Coordinates: -10.139, 18.719
+
+### Dala
+
+Code: AO13111, Coordinates: -10.909, 20.311
+Communes: 3
+
+#### Cazage
+
+Code: AO13111355, Coordinates: -10.963, 20.82
+
+#### Dala
+
+Code: AO13111356, Coordinates: -10.856, 20.099
+
+#### Luma Cassai
+
+Code: AO13111357, Coordinates: -11.088, 19.776
+
+### Muconda
+
+Code: AO13112, Coordinates: -10.168, 21.471
+Communes: 4
+
+#### Cassai
+
+Code: AO13112358, Coordinates: -10.725, 21.637
+
+#### Chiluange
+
+Code: AO13112359, Coordinates: -9.709, 21.666
+
+#### Muconda
+
+Code: AO13112360, Coordinates: -10.761, 21.195
+
+#### Muriege
+
+Code: AO13112361, Coordinates: -9.785, 21.043
+
+### Saurimo
+
+Code: AO13113, Coordinates: -9.49, 20.347
+Communes: 3
+
+#### Mona Quimbundo
+
+Code: AO13113362, Coordinates: -10.015, 19.931
+
+#### Saurimo
+
+Code: AO13113363, Coordinates: -9.714, 20.545
+
+#### Sombo
+
+Code: AO13113364, Coordinates: -8.875, 21.307
+

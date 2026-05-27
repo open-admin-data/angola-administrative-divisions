@@ -1,0 +1,47 @@
+{
+  "id": "AO14119",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Kiuaba-N'Zoji (Cuaba Nzogo)",
+    "en": "Kiuaba-N'Zoji (Cuaba Nzogo)",
+    "slug": "kiuaba-nzoji-cuaba-nzogo-ao14119"
+  },
+  "code": {
+    "id": "AO14119",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO14",
+    "level": 1,
+    "name": {
+      "local": "Malanje",
+      "en": "Malanje",
+      "slug": "malanje-ao14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.039",
+    "lon": "16.415"
+  },
+  "metadata": {},
+  "source": {}
+}

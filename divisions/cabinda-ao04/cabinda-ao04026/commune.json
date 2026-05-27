@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO04026100",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cabinda",
+      "en": "Cabinda",
+      "slug": "cabinda-ao04026100"
+    },
+    "code": {
+      "id": "AO04026100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04026",
+      "level": 2,
+      "name": {
+        "local": "Cabinda",
+        "en": "Cabinda",
+        "slug": "cabinda-ao04026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      },
+      {
+        "id": "AO04026",
+        "level": 2,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.615",
+      "lon": "12.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO04026101",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Malembo",
+      "en": "Malembo",
+      "slug": "malembo-ao04026101"
+    },
+    "code": {
+      "id": "AO04026101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04026",
+      "level": 2,
+      "name": {
+        "local": "Cabinda",
+        "en": "Cabinda",
+        "slug": "cabinda-ao04026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      },
+      {
+        "id": "AO04026",
+        "level": 2,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.301",
+      "lon": "12.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO04026102",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tando Zinze",
+      "en": "Tando Zinze",
+      "slug": "tando-zinze-ao04026102"
+    },
+    "code": {
+      "id": "AO04026102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO04026",
+      "level": 2,
+      "name": {
+        "local": "Cabinda",
+        "en": "Cabinda",
+        "slug": "cabinda-ao04026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO04",
+        "level": 1,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04"
+        }
+      },
+      {
+        "id": "AO04026",
+        "level": 2,
+        "name": {
+          "local": "Cabinda",
+          "en": "Cabinda",
+          "slug": "cabinda-ao04026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.3",
+      "lon": "12.465"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

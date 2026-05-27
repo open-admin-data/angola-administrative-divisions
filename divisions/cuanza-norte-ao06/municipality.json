@@ -1,0 +1,472 @@
+[
+  {
+    "id": "AO06037",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ambaca",
+      "en": "Ambaca",
+      "slug": "ambaca-ao06037"
+    },
+    "code": {
+      "id": "AO06037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.248",
+      "lon": "15.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06038",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Banga",
+      "en": "Banga",
+      "slug": "banga-ao06038"
+    },
+    "code": {
+      "id": "AO06038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.709",
+      "lon": "15.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06039",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bolongongo",
+      "en": "Bolongongo",
+      "slug": "bolongongo-ao06039"
+    },
+    "code": {
+      "id": "AO06039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.384",
+      "lon": "15.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06041",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cambambe (Kambambe)",
+      "en": "Cambambe (Kambambe)",
+      "slug": "cambambe-kambambe-ao06041"
+    },
+    "code": {
+      "id": "AO06041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.315",
+      "lon": "14.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06042",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cazengo",
+      "en": "Cazengo",
+      "slug": "cazengo-ao06042"
+    },
+    "code": {
+      "id": "AO06042",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.285",
+      "lon": "14.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06044",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Golungo Alto",
+      "en": "Golungo Alto",
+      "slug": "golungo-alto-ao06044"
+    },
+    "code": {
+      "id": "AO06044",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.043",
+      "lon": "14.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06045",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lucala",
+      "en": "Lucala",
+      "slug": "lucala-ao06045"
+    },
+    "code": {
+      "id": "AO06045",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.144",
+      "lon": "15.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06046",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ngonguembo",
+      "en": "Ngonguembo",
+      "slug": "ngonguembo-ao06046"
+    },
+    "code": {
+      "id": "AO06046",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.902",
+      "lon": "14.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06048",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quiculungo",
+      "en": "Quiculungo",
+      "slug": "quiculungo-ao06048"
+    },
+    "code": {
+      "id": "AO06048",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.493",
+      "lon": "15.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06049",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Samba Cajú",
+      "en": "Samba Cajú",
+      "slug": "samba-caj-ao06049"
+    },
+    "code": {
+      "id": "AO06049",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.816",
+      "lon": "15.486"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

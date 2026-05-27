@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO14121390",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dombo",
+      "en": "Dombo",
+      "slug": "dombo-ao14121390"
+    },
+    "code": {
+      "id": "AO14121390",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14121",
+      "level": 2,
+      "name": {
+        "local": "Luquembo",
+        "en": "Luquembo",
+        "slug": "luquembo-ao14121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14121",
+        "level": 2,
+        "name": {
+          "local": "Luquembo",
+          "en": "Luquembo",
+          "slug": "luquembo-ao14121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.497",
+      "lon": "17.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14121391",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kapunda",
+      "en": "Kapunda",
+      "slug": "kapunda-ao14121391"
+    },
+    "code": {
+      "id": "AO14121391",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14121",
+      "level": 2,
+      "name": {
+        "local": "Luquembo",
+        "en": "Luquembo",
+        "slug": "luquembo-ao14121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14121",
+        "level": 2,
+        "name": {
+          "local": "Luquembo",
+          "en": "Luquembo",
+          "slug": "luquembo-ao14121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.584",
+      "lon": "17.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14121392",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kimbango",
+      "en": "Kimbango",
+      "slug": "kimbango-ao14121392"
+    },
+    "code": {
+      "id": "AO14121392",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14121",
+      "level": 2,
+      "name": {
+        "local": "Luquembo",
+        "en": "Luquembo",
+        "slug": "luquembo-ao14121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14121",
+        "level": 2,
+        "name": {
+          "local": "Luquembo",
+          "en": "Luquembo",
+          "slug": "luquembo-ao14121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.185",
+      "lon": "17.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14121393",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luquembo",
+      "en": "Luquembo",
+      "slug": "luquembo-ao14121393"
+    },
+    "code": {
+      "id": "AO14121393",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14121",
+      "level": 2,
+      "name": {
+        "local": "Luquembo",
+        "en": "Luquembo",
+        "slug": "luquembo-ao14121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14121",
+        "level": 2,
+        "name": {
+          "local": "Luquembo",
+          "en": "Luquembo",
+          "slug": "luquembo-ao14121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.672",
+      "lon": "17.756"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

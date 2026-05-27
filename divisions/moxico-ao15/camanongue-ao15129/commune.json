@@ -1,0 +1,56 @@
+[
+  {
+    "id": "AO15129423",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Camanongue",
+      "en": "Camanongue",
+      "slug": "camanongue-ao15129423"
+    },
+    "code": {
+      "id": "AO15129423",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15129",
+      "level": 2,
+      "name": {
+        "local": "Camanongue",
+        "en": "Camanongue",
+        "slug": "camanongue-ao15129"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15129",
+        "level": 2,
+        "name": {
+          "local": "Camanongue",
+          "en": "Camanongue",
+          "slug": "camanongue-ao15129"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.41",
+      "lon": "20.274"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

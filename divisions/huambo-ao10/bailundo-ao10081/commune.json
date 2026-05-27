@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO10081261",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bailundo",
+      "en": "Bailundo",
+      "slug": "bailundo-ao10081261"
+    },
+    "code": {
+      "id": "AO10081261",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10081",
+      "level": 2,
+      "name": {
+        "local": "Bailundo",
+        "en": "Bailundo",
+        "slug": "bailundo-ao10081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10081",
+        "level": 2,
+        "name": {
+          "local": "Bailundo",
+          "en": "Bailundo",
+          "slug": "bailundo-ao10081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.126",
+      "lon": "15.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10081262",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bimbe",
+      "en": "Bimbe",
+      "slug": "bimbe-ao10081262"
+    },
+    "code": {
+      "id": "AO10081262",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10081",
+      "level": 2,
+      "name": {
+        "local": "Bailundo",
+        "en": "Bailundo",
+        "slug": "bailundo-ao10081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10081",
+        "level": 2,
+        "name": {
+          "local": "Bailundo",
+          "en": "Bailundo",
+          "slug": "bailundo-ao10081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.761",
+      "lon": "15.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10081263",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hengue",
+      "en": "Hengue",
+      "slug": "hengue-ao10081263"
+    },
+    "code": {
+      "id": "AO10081263",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10081",
+      "level": 2,
+      "name": {
+        "local": "Bailundo",
+        "en": "Bailundo",
+        "slug": "bailundo-ao10081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10081",
+        "level": 2,
+        "name": {
+          "local": "Bailundo",
+          "en": "Bailundo",
+          "slug": "bailundo-ao10081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.725",
+      "lon": "15.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10081264",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lunge",
+      "en": "Lunge",
+      "slug": "lunge-ao10081264"
+    },
+    "code": {
+      "id": "AO10081264",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10081",
+      "level": 2,
+      "name": {
+        "local": "Bailundo",
+        "en": "Bailundo",
+        "slug": "bailundo-ao10081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10081",
+        "level": 2,
+        "name": {
+          "local": "Bailundo",
+          "en": "Bailundo",
+          "slug": "bailundo-ao10081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.164",
+      "lon": "16.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10081265",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luvemba",
+      "en": "Luvemba",
+      "slug": "luvemba-ao10081265"
+    },
+    "code": {
+      "id": "AO10081265",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10081",
+      "level": 2,
+      "name": {
+        "local": "Bailundo",
+        "en": "Bailundo",
+        "slug": "bailundo-ao10081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10081",
+        "level": 2,
+        "name": {
+          "local": "Bailundo",
+          "en": "Bailundo",
+          "slug": "bailundo-ao10081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.986",
+      "lon": "15.627"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

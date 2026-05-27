@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO15136442",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kangumbe",
+      "en": "Kangumbe",
+      "slug": "kangumbe-ao15136442"
+    },
+    "code": {
+      "id": "AO15136442",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15136",
+      "level": 2,
+      "name": {
+        "local": "Luena",
+        "en": "Luena",
+        "slug": "luena-ao15136"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15136",
+        "level": 2,
+        "name": {
+          "local": "Luena",
+          "en": "Luena",
+          "slug": "luena-ao15136"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.218",
+      "lon": "19.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15136443",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lucusse",
+      "en": "Lucusse",
+      "slug": "lucusse-ao15136443"
+    },
+    "code": {
+      "id": "AO15136443",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15136",
+      "level": 2,
+      "name": {
+        "local": "Luena",
+        "en": "Luena",
+        "slug": "luena-ao15136"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15136",
+        "level": 2,
+        "name": {
+          "local": "Luena",
+          "en": "Luena",
+          "slug": "luena-ao15136"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.332",
+      "lon": "20.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15136444",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luena",
+      "en": "Luena",
+      "slug": "luena-ao15136444"
+    },
+    "code": {
+      "id": "AO15136444",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15136",
+      "level": 2,
+      "name": {
+        "local": "Luena",
+        "en": "Luena",
+        "slug": "luena-ao15136"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15136",
+        "level": 2,
+        "name": {
+          "local": "Luena",
+          "en": "Luena",
+          "slug": "luena-ao15136"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.733",
+      "lon": "19.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15136445",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lutuai",
+      "en": "Lutuai",
+      "slug": "lutuai-ao15136445"
+    },
+    "code": {
+      "id": "AO15136445",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15136",
+      "level": 2,
+      "name": {
+        "local": "Luena",
+        "en": "Luena",
+        "slug": "luena-ao15136"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15136",
+        "level": 2,
+        "name": {
+          "local": "Luena",
+          "en": "Luena",
+          "slug": "luena-ao15136"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.828",
+      "lon": "19.456"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

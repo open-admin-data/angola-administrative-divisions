@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO11100322",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Calumbo",
+      "en": "Calumbo",
+      "slug": "calumbo-ao11100322"
+    },
+    "code": {
+      "id": "AO11100322",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11100",
+      "level": 2,
+      "name": {
+        "local": "Viana",
+        "en": "Viana",
+        "slug": "viana-ao11100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11100",
+        "level": 2,
+        "name": {
+          "local": "Viana",
+          "en": "Viana",
+          "slug": "viana-ao11100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.079",
+      "lon": "13.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11100323",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Viana Sede",
+      "en": "Viana Sede",
+      "slug": "viana-sede-ao11100323"
+    },
+    "code": {
+      "id": "AO11100323",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11100",
+      "level": 2,
+      "name": {
+        "local": "Viana",
+        "en": "Viana",
+        "slug": "viana-ao11100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11100",
+        "level": 2,
+        "name": {
+          "local": "Viana",
+          "en": "Viana",
+          "slug": "viana-ao11100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.006",
+      "lon": "13.387"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

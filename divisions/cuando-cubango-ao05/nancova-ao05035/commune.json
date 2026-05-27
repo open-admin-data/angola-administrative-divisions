@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO05035128",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nancova",
+      "en": "Nancova",
+      "slug": "nancova-ao05035128"
+    },
+    "code": {
+      "id": "AO05035128",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05035",
+      "level": 2,
+      "name": {
+        "local": "Nancova",
+        "en": "Nancova",
+        "slug": "nancova-ao05035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05035",
+        "level": 2,
+        "name": {
+          "local": "Nancova",
+          "en": "Nancova",
+          "slug": "nancova-ao05035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.327",
+      "lon": "18.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO05035129",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Rito",
+      "en": "Rito",
+      "slug": "rito-ao05035129"
+    },
+    "code": {
+      "id": "AO05035129",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO05035",
+      "level": 2,
+      "name": {
+        "local": "Nancova",
+        "en": "Nancova",
+        "slug": "nancova-ao05035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO05",
+        "level": 1,
+        "name": {
+          "local": "Cuando Cubango",
+          "en": "Cuando Cubango",
+          "slug": "cuando-cubango-ao05"
+        }
+      },
+      {
+        "id": "AO05035",
+        "level": 2,
+        "name": {
+          "local": "Nancova",
+          "en": "Nancova",
+          "slug": "nancova-ao05035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.713",
+      "lon": "18.844"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

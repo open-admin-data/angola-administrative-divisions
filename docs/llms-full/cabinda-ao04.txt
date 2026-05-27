@@ -1,0 +1,77 @@
+# Cabinda — Angola Administrative Divisions
+
+> 4 municipalitys, 12 communes
+> Code: AO04
+> Coordinates: -5.083, 12.26
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Belize
+
+Code: AO04024, Coordinates: -4.587, 12.839
+Communes: 3
+
+#### Belize
+
+Code: AO04024094, Coordinates: -4.68, 12.768
+
+#### Luali
+
+Code: AO04024095, Coordinates: -4.551, 12.73
+
+#### Mikonje
+
+Code: AO04024096, Coordinates: -4.55, 12.91
+
+### Buco Zau
+
+Code: AO04025, Coordinates: -4.817, 12.546
+Communes: 3
+
+#### Buco Zau
+
+Code: AO04025097, Coordinates: -4.727, 12.566
+
+#### Nekuto
+
+Code: AO04025098, Coordinates: -4.962, 12.544
+
+#### Nhuca
+
+Code: AO04025099, Coordinates: -4.852, 12.396
+
+### Cabinda
+
+Code: AO04026, Coordinates: -5.442, 12.376
+Communes: 3
+
+#### Cabinda
+
+Code: AO04026100, Coordinates: -5.615, 12.347
+
+#### Malembo
+
+Code: AO04026101, Coordinates: -5.301, 12.281
+
+#### Tando Zinze
+
+Code: AO04026102, Coordinates: -5.3, 12.465
+
+### Cacongo (Landana)
+
+Code: AO04027, Coordinates: -5.022, 12.238
+Communes: 3
+
+#### Dinge
+
+Code: AO04027103, Coordinates: -5.044, 12.369
+
+#### Kakongo
+
+Code: AO04027104, Coordinates: -5.142, 12.192
+
+#### Massabi
+
+Code: AO04027105, Coordinates: -4.93, 12.218
+

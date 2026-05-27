@@ -1,0 +1,47 @@
+{
+  "id": "AO02012",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cubal",
+    "en": "Cubal",
+    "slug": "cubal-ao02012"
+  },
+  "code": {
+    "id": "AO02012",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO02",
+    "level": 1,
+    "name": {
+      "local": "Benguela",
+      "en": "Benguela",
+      "slug": "benguela-ao02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.157",
+    "lon": "14.392"
+  },
+  "metadata": {},
+  "source": {}
+}

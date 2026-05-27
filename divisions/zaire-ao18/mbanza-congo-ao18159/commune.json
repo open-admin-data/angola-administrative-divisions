@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO18159509",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiende",
+      "en": "Kiende",
+      "slug": "kiende-ao18159509"
+    },
+    "code": {
+      "id": "AO18159509",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18159",
+      "level": 2,
+      "name": {
+        "local": "Mbanza Congo",
+        "en": "Mbanza Congo",
+        "slug": "mbanza-congo-ao18159"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18159",
+        "level": 2,
+        "name": {
+          "local": "Mbanza Congo",
+          "en": "Mbanza Congo",
+          "slug": "mbanza-congo-ao18159"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.36",
+      "lon": "13.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18159510",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luvo",
+      "en": "Luvo",
+      "slug": "luvo-ao18159510"
+    },
+    "code": {
+      "id": "AO18159510",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18159",
+      "level": 2,
+      "name": {
+        "local": "Mbanza Congo",
+        "en": "Mbanza Congo",
+        "slug": "mbanza-congo-ao18159"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18159",
+        "level": 2,
+        "name": {
+          "local": "Mbanza Congo",
+          "en": "Mbanza Congo",
+          "slug": "mbanza-congo-ao18159"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.98",
+      "lon": "14.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18159511",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Madimba",
+      "en": "Madimba",
+      "slug": "madimba-ao18159511"
+    },
+    "code": {
+      "id": "AO18159511",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18159",
+      "level": 2,
+      "name": {
+        "local": "Mbanza Congo",
+        "en": "Mbanza Congo",
+        "slug": "mbanza-congo-ao18159"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18159",
+        "level": 2,
+        "name": {
+          "local": "Mbanza Congo",
+          "en": "Mbanza Congo",
+          "slug": "mbanza-congo-ao18159"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.595",
+      "lon": "14.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18159512",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mbanza Congo",
+      "en": "Mbanza Congo",
+      "slug": "mbanza-congo-ao18159512"
+    },
+    "code": {
+      "id": "AO18159512",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18159",
+      "level": 2,
+      "name": {
+        "local": "Mbanza Congo",
+        "en": "Mbanza Congo",
+        "slug": "mbanza-congo-ao18159"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18159",
+        "level": 2,
+        "name": {
+          "local": "Mbanza Congo",
+          "en": "Mbanza Congo",
+          "slug": "mbanza-congo-ao18159"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.251",
+      "lon": "14.222"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

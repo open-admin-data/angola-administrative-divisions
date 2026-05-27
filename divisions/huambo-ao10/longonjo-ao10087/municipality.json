@@ -1,0 +1,47 @@
+{
+  "id": "AO10087",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Longonjo",
+    "en": "Longonjo",
+    "slug": "longonjo-ao10087"
+  },
+  "code": {
+    "id": "AO10087",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO10",
+    "level": 1,
+    "name": {
+      "local": "Huambo",
+      "en": "Huambo",
+      "slug": "huambo-ao10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-13.043",
+    "lon": "15.314"
+  },
+  "metadata": {},
+  "source": {}
+}

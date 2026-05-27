@@ -1,0 +1,284 @@
+[
+  {
+    "id": "AO08062",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cahama",
+      "en": "Cahama",
+      "slug": "cahama-ao08062"
+    },
+    "code": {
+      "id": "AO08062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08",
+      "level": 1,
+      "name": {
+        "local": "Cunene",
+        "en": "Cunene",
+        "slug": "cunene-ao08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.427",
+      "lon": "14.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08063",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuanhama",
+      "en": "Cuanhama",
+      "slug": "cuanhama-ao08063"
+    },
+    "code": {
+      "id": "AO08063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08",
+      "level": 1,
+      "name": {
+        "local": "Cunene",
+        "en": "Cunene",
+        "slug": "cunene-ao08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.53",
+      "lon": "16.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08064",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Curoca",
+      "en": "Curoca",
+      "slug": "curoca-ao08064"
+    },
+    "code": {
+      "id": "AO08064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08",
+      "level": 1,
+      "name": {
+        "local": "Cunene",
+        "en": "Cunene",
+        "slug": "cunene-ao08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.845",
+      "lon": "13.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08065",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuvelai",
+      "en": "Cuvelai",
+      "slug": "cuvelai-ao08065"
+    },
+    "code": {
+      "id": "AO08065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08",
+      "level": 1,
+      "name": {
+        "local": "Cunene",
+        "en": "Cunene",
+        "slug": "cunene-ao08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.774",
+      "lon": "16.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08066",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Namacunde",
+      "en": "Namacunde",
+      "slug": "namacunde-ao08066"
+    },
+    "code": {
+      "id": "AO08066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08",
+      "level": 1,
+      "name": {
+        "local": "Cunene",
+        "en": "Cunene",
+        "slug": "cunene-ao08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.977",
+      "lon": "16.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO08067",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Ombadja",
+      "en": "Ombadja",
+      "slug": "ombadja-ao08067"
+    },
+    "code": {
+      "id": "AO08067",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO08",
+      "level": 1,
+      "name": {
+        "local": "Cunene",
+        "en": "Cunene",
+        "slug": "cunene-ao08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO08",
+        "level": 1,
+        "name": {
+          "local": "Cunene",
+          "en": "Cunene",
+          "slug": "cunene-ao08"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.689",
+      "lon": "14.853"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "id": "AO11098",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Belas (Samba)",
+      "en": "Belas (Samba)",
+      "slug": "belas-samba-ao11098"
+    },
+    "code": {
+      "id": "AO11098",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11",
+      "level": 1,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.115",
+      "lon": "13.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11092",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacuaco",
+      "en": "Cacuaco",
+      "slug": "cacuaco-ao11092"
+    },
+    "code": {
+      "id": "AO11092",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11",
+      "level": 1,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.817",
+      "lon": "13.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11093",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cazenga",
+      "en": "Cazenga",
+      "slug": "cazenga-ao11093"
+    },
+    "code": {
+      "id": "AO11093",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11",
+      "level": 1,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.822",
+      "lon": "13.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11003",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Icolo e Bengo",
+      "en": "Icolo e Bengo",
+      "slug": "icolo-e-bengo-ao11003"
+    },
+    "code": {
+      "id": "AO11003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11",
+      "level": 1,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.189",
+      "lon": "13.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11094",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Luanda",
+      "en": "Luanda",
+      "slug": "luanda-ao11094"
+    },
+    "code": {
+      "id": "AO11094",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11",
+      "level": 1,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.832",
+      "lon": "13.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11004",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quissama (Muxima, Quiçama)",
+      "en": "Quissama (Muxima, Quiçama)",
+      "slug": "quissama-muxima-quiama-ao11004"
+    },
+    "code": {
+      "id": "AO11004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11",
+      "level": 1,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.795",
+      "lon": "13.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11100",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Viana",
+      "en": "Viana",
+      "slug": "viana-ao11100"
+    },
+    "code": {
+      "id": "AO11100",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11",
+      "level": 1,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.008",
+      "lon": "13.399"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

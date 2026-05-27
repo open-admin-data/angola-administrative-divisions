@@ -1,0 +1,47 @@
+{
+  "id": "AO11003",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Icolo e Bengo",
+    "en": "Icolo e Bengo",
+    "slug": "icolo-e-bengo-ao11003"
+  },
+  "code": {
+    "id": "AO11003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO11",
+    "level": 1,
+    "name": {
+      "local": "Luanda",
+      "en": "Luanda",
+      "slug": "luanda-ao11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO11",
+      "level": 1,
+      "name": {
+        "local": "Luanda",
+        "en": "Luanda",
+        "slug": "luanda-ao11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.189",
+    "lon": "13.887"
+  },
+  "metadata": {},
+  "source": {}
+}

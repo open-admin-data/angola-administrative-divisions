@@ -1,0 +1,56 @@
+[
+  {
+    "id": "AO09074243",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Humpata",
+      "en": "Humpata",
+      "slug": "humpata-ao09074243"
+    },
+    "code": {
+      "id": "AO09074243",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09074",
+      "level": 2,
+      "name": {
+        "local": "Humpata",
+        "en": "Humpata",
+        "slug": "humpata-ao09074"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09074",
+        "level": 2,
+        "name": {
+          "local": "Humpata",
+          "en": "Humpata",
+          "slug": "humpata-ao09074"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.098",
+      "lon": "13.384"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

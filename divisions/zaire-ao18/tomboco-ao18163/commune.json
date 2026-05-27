@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO18163524",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kingombe",
+      "en": "Kingombe",
+      "slug": "kingombe-ao18163524"
+    },
+    "code": {
+      "id": "AO18163524",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18163",
+      "level": 2,
+      "name": {
+        "local": "Tomboco",
+        "en": "Tomboco",
+        "slug": "tomboco-ao18163"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18163",
+        "level": 2,
+        "name": {
+          "local": "Tomboco",
+          "en": "Tomboco",
+          "slug": "tomboco-ao18163"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.559",
+      "lon": "13.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18163525",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kinzau",
+      "en": "Kinzau",
+      "slug": "kinzau-ao18163525"
+    },
+    "code": {
+      "id": "AO18163525",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18163",
+      "level": 2,
+      "name": {
+        "local": "Tomboco",
+        "en": "Tomboco",
+        "slug": "tomboco-ao18163"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18163",
+        "level": 2,
+        "name": {
+          "local": "Tomboco",
+          "en": "Tomboco",
+          "slug": "tomboco-ao18163"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.837",
+      "lon": "12.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18163526",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Quiximba",
+      "en": "Quiximba",
+      "slug": "quiximba-ao18163526"
+    },
+    "code": {
+      "id": "AO18163526",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18163",
+      "level": 2,
+      "name": {
+        "local": "Tomboco",
+        "en": "Tomboco",
+        "slug": "tomboco-ao18163"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18163",
+        "level": 2,
+        "name": {
+          "local": "Tomboco",
+          "en": "Tomboco",
+          "slug": "tomboco-ao18163"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.708",
+      "lon": "13.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO18163527",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tomboco",
+      "en": "Tomboco",
+      "slug": "tomboco-ao18163527"
+    },
+    "code": {
+      "id": "AO18163527",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO18163",
+      "level": 2,
+      "name": {
+        "local": "Tomboco",
+        "en": "Tomboco",
+        "slug": "tomboco-ao18163"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO18",
+        "level": 1,
+        "name": {
+          "local": "Zaire",
+          "en": "Zaire",
+          "slug": "zaire-ao18"
+        }
+      },
+      {
+        "id": "AO18163",
+        "level": 2,
+        "name": {
+          "local": "Tomboco",
+          "en": "Tomboco",
+          "slug": "tomboco-ao18163"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.764",
+      "lon": "13.239"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

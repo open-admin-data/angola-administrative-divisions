@@ -1,0 +1,47 @@
+{
+  "id": "AO02164",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Catumbela",
+    "en": "Catumbela",
+    "slug": "catumbela-ao02164"
+  },
+  "code": {
+    "id": "AO02164",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO02",
+    "level": 1,
+    "name": {
+      "local": "Benguela",
+      "en": "Benguela",
+      "slug": "benguela-ao02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO02",
+      "level": 1,
+      "name": {
+        "local": "Benguela",
+        "en": "Benguela",
+        "slug": "benguela-ao02"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.497",
+    "lon": "13.652"
+  },
+  "metadata": {},
+  "source": {}
+}

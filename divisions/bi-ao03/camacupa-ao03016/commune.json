@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO03016062",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kamakupa",
+      "en": "Kamakupa",
+      "slug": "kamakupa-ao03016062"
+    },
+    "code": {
+      "id": "AO03016062",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03016",
+      "level": 2,
+      "name": {
+        "local": "Camacupa",
+        "en": "Camacupa",
+        "slug": "camacupa-ao03016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03016",
+        "level": 2,
+        "name": {
+          "local": "Camacupa",
+          "en": "Camacupa",
+          "slug": "camacupa-ao03016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.091",
+      "lon": "17.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03016063",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kwanza",
+      "en": "Kwanza",
+      "slug": "kwanza-ao03016063"
+    },
+    "code": {
+      "id": "AO03016063",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03016",
+      "level": 2,
+      "name": {
+        "local": "Camacupa",
+        "en": "Camacupa",
+        "slug": "camacupa-ao03016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03016",
+        "level": 2,
+        "name": {
+          "local": "Camacupa",
+          "en": "Camacupa",
+          "slug": "camacupa-ao03016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.071",
+      "lon": "17.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03016064",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ringoma",
+      "en": "Ringoma",
+      "slug": "ringoma-ao03016064"
+    },
+    "code": {
+      "id": "AO03016064",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03016",
+      "level": 2,
+      "name": {
+        "local": "Camacupa",
+        "en": "Camacupa",
+        "slug": "camacupa-ao03016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03016",
+        "level": 2,
+        "name": {
+          "local": "Camacupa",
+          "en": "Camacupa",
+          "slug": "camacupa-ao03016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.419",
+      "lon": "17.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03016065",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "St. Antonio da Muinha",
+      "en": "St. Antonio da Muinha",
+      "slug": "st-antonio-da-muinha-ao03016065"
+    },
+    "code": {
+      "id": "AO03016065",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03016",
+      "level": 2,
+      "name": {
+        "local": "Camacupa",
+        "en": "Camacupa",
+        "slug": "camacupa-ao03016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03016",
+        "level": 2,
+        "name": {
+          "local": "Camacupa",
+          "en": "Camacupa",
+          "slug": "camacupa-ao03016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.842",
+      "lon": "17.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03016066",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Umpulo",
+      "en": "Umpulo",
+      "slug": "umpulo-ao03016066"
+    },
+    "code": {
+      "id": "AO03016066",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03016",
+      "level": 2,
+      "name": {
+        "local": "Camacupa",
+        "en": "Camacupa",
+        "slug": "camacupa-ao03016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03016",
+        "level": 2,
+        "name": {
+          "local": "Camacupa",
+          "en": "Camacupa",
+          "slug": "camacupa-ao03016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.692",
+      "lon": "17.848"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

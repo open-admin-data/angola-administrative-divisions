@@ -1,0 +1,56 @@
+[
+  {
+    "id": "AO15130424",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kameia",
+      "en": "Kameia",
+      "slug": "kameia-ao15130424"
+    },
+    "code": {
+      "id": "AO15130424",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15130",
+      "level": 2,
+      "name": {
+        "local": "Cameia (Lumeje)",
+        "en": "Cameia (Lumeje)",
+        "slug": "cameia-lumeje-ao15130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15130",
+        "level": 2,
+        "name": {
+          "local": "Cameia (Lumeje)",
+          "en": "Cameia (Lumeje)",
+          "slug": "cameia-lumeje-ao15130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.775",
+      "lon": "21.219"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

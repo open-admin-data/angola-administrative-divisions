@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO06049168",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Samba Caju",
+      "en": "Samba Caju",
+      "slug": "samba-caju-ao06049168"
+    },
+    "code": {
+      "id": "AO06049168",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06049",
+      "level": 2,
+      "name": {
+        "local": "Samba Cajú",
+        "en": "Samba Cajú",
+        "slug": "samba-caj-ao06049"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06049",
+        "level": 2,
+        "name": {
+          "local": "Samba Cajú",
+          "en": "Samba Cajú",
+          "slug": "samba-caj-ao06049"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.729",
+      "lon": "15.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06049169",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Samba Lukala",
+      "en": "Samba Lukala",
+      "slug": "samba-lukala-ao06049169"
+    },
+    "code": {
+      "id": "AO06049169",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06049",
+      "level": 2,
+      "name": {
+        "local": "Samba Cajú",
+        "en": "Samba Cajú",
+        "slug": "samba-caj-ao06049"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06049",
+        "level": 2,
+        "name": {
+          "local": "Samba Cajú",
+          "en": "Samba Cajú",
+          "slug": "samba-caj-ao06049"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.917",
+      "lon": "15.573"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

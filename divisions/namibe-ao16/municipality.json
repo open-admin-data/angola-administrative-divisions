@@ -1,0 +1,237 @@
+[
+  {
+    "id": "AO16137",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Bibala",
+      "en": "Bibala",
+      "slug": "bibala-ao16137"
+    },
+    "code": {
+      "id": "AO16137",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16",
+      "level": 1,
+      "name": {
+        "local": "Namibe",
+        "en": "Namibe",
+        "slug": "namibe-ao16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.695",
+      "lon": "13.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO16138",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Camucuio",
+      "en": "Camucuio",
+      "slug": "camucuio-ao16138"
+    },
+    "code": {
+      "id": "AO16138",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16",
+      "level": 1,
+      "name": {
+        "local": "Namibe",
+        "en": "Namibe",
+        "slug": "namibe-ao16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.009",
+      "lon": "13.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO16139",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Namibe",
+      "en": "Namibe",
+      "slug": "namibe-ao16139"
+    },
+    "code": {
+      "id": "AO16139",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16",
+      "level": 1,
+      "name": {
+        "local": "Namibe",
+        "en": "Namibe",
+        "slug": "namibe-ao16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.562",
+      "lon": "12.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO16140",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Tômbwa (Porto Alexandre)",
+      "en": "Tômbwa (Porto Alexandre)",
+      "slug": "tmbwa-porto-alexandre-ao16140"
+    },
+    "code": {
+      "id": "AO16140",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16",
+      "level": 1,
+      "name": {
+        "local": "Namibe",
+        "en": "Namibe",
+        "slug": "namibe-ao16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-16.395",
+      "lon": "12.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO16141",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Virei",
+      "en": "Virei",
+      "slug": "virei-ao16141"
+    },
+    "code": {
+      "id": "AO16141",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO16",
+      "level": 1,
+      "name": {
+        "local": "Namibe",
+        "en": "Namibe",
+        "slug": "namibe-ao16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO16",
+        "level": 1,
+        "name": {
+          "local": "Namibe",
+          "en": "Namibe",
+          "slug": "namibe-ao16"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.817",
+      "lon": "12.996"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

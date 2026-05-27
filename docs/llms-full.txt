@@ -1,0 +1,47 @@
+# Angola Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Bengo](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/bengo-ao01.txt) — 6 municipalitys, 23 communes
+- [Benguela](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/benguela-ao02.txt) — 10 municipalitys, 35 communes
+- [Bié](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/bi-ao03.txt) — 9 municipalitys, 36 communes
+- [Cabinda](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/cabinda-ao04.txt) — 4 municipalitys, 12 communes
+- [Cuando Cubango](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/cuando-cubango-ao05.txt) — 9 municipalitys, 27 communes
+- [Cuanza Norte](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/cuanza-norte-ao06.txt) — 10 municipalitys, 31 communes
+- [Cuanza Sul](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/cuanza-sul-ao07.txt) — 12 municipalitys, 36 communes
+- [Cunene](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/cunene-ao08.txt) — 6 municipalitys, 20 communes
+- [Huambo](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/huambo-ao10.txt) — 11 municipalitys, 37 communes
+- [Huíla](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/hula-ao09.txt) — 14 municipalitys, 38 communes
+- [Luanda](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/luanda-ao11.txt) — 7 municipalitys, 39 communes
+- [Lunda Norte](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/lunda-norte-ao12.txt) — 9 municipalitys, 25 communes
+- [Lunda Sul](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/lunda-sul-ao13.txt) — 4 municipalitys, 16 communes
+- [Malanje](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/malanje-ao14.txt) — 14 municipalitys, 51 communes
+- [Moxico](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/moxico-ao15.txt) — 9 municipalitys, 31 communes
+- [Namibe](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/namibe-ao16.txt) — 5 municipalitys, 14 communes
+- [Uíge](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/uge-ao17.txt) — 16 municipalitys, 47 communes
+- [Zaire](https://github.com/open-admin-data/angola-administrative-divisions/blob/main/docs/llms-full/zaire-ao18.txt) — 6 municipalitys, 21 communes
+
+## Summary
+
+| Province | Municipalitys | Communes | 
+|---|---|---|
+| Bengo | 6 | 23 | 
+| Benguela | 10 | 35 | 
+| Bié | 9 | 36 | 
+| Cabinda | 4 | 12 | 
+| Cuando Cubango | 9 | 27 | 
+| Cuanza Norte | 10 | 31 | 
+| Cuanza Sul | 12 | 36 | 
+| Cunene | 6 | 20 | 
+| Huambo | 11 | 37 | 
+| Huíla | 14 | 38 | 
+| Luanda | 7 | 39 | 
+| Lunda Norte | 9 | 25 | 
+| Lunda Sul | 4 | 16 | 
+| Malanje | 14 | 51 | 
+| Moxico | 9 | 31 | 
+| Namibe | 5 | 14 | 
+| Uíge | 16 | 47 | 
+| Zaire | 6 | 21 | 

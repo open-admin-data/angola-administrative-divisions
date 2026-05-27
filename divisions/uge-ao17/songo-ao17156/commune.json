@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO17156504",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kinvuenga",
+      "en": "Kinvuenga",
+      "slug": "kinvuenga-ao17156504"
+    },
+    "code": {
+      "id": "AO17156504",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17156",
+      "level": 2,
+      "name": {
+        "local": "Songo",
+        "en": "Songo",
+        "slug": "songo-ao17156"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17156",
+        "level": 2,
+        "name": {
+          "local": "Songo",
+          "en": "Songo",
+          "slug": "songo-ao17156"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.986",
+      "lon": "14.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17156505",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Songo",
+      "en": "Songo",
+      "slug": "songo-ao17156505"
+    },
+    "code": {
+      "id": "AO17156505",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17156",
+      "level": 2,
+      "name": {
+        "local": "Songo",
+        "en": "Songo",
+        "slug": "songo-ao17156"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17156",
+        "level": 2,
+        "name": {
+          "local": "Songo",
+          "en": "Songo",
+          "slug": "songo-ao17156"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.191",
+      "lon": "14.777"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

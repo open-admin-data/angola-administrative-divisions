@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO12102329",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kapenda Kamulemba",
+      "en": "Kapenda Kamulemba",
+      "slug": "kapenda-kamulemba-ao12102329"
+    },
+    "code": {
+      "id": "AO12102329",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12102",
+      "level": 2,
+      "name": {
+        "local": "Capenda-Camulemba",
+        "en": "Capenda-Camulemba",
+        "slug": "capenda-camulemba-ao12102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12102",
+        "level": 2,
+        "name": {
+          "local": "Capenda-Camulemba",
+          "en": "Capenda-Camulemba",
+          "slug": "capenda-camulemba-ao12102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.426",
+      "lon": "18.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12102330",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Xinge",
+      "en": "Xinge",
+      "slug": "xinge-ao12102330"
+    },
+    "code": {
+      "id": "AO12102330",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12102",
+      "level": 2,
+      "name": {
+        "local": "Capenda-Camulemba",
+        "en": "Capenda-Camulemba",
+        "slug": "capenda-camulemba-ao12102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      },
+      {
+        "id": "AO12102",
+        "level": 2,
+        "name": {
+          "local": "Capenda-Camulemba",
+          "en": "Capenda-Camulemba",
+          "slug": "capenda-camulemba-ao12102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.784",
+      "lon": "18.999"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

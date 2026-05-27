@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO10090293",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chiaca",
+      "en": "Chiaca",
+      "slug": "chiaca-ao10090293"
+    },
+    "code": {
+      "id": "AO10090293",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10090",
+      "level": 2,
+      "name": {
+        "local": "Tchinjenje",
+        "en": "Tchinjenje",
+        "slug": "tchinjenje-ao10090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10090",
+        "level": 2,
+        "name": {
+          "local": "Tchinjenje",
+          "en": "Tchinjenje",
+          "slug": "tchinjenje-ao10090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.692",
+      "lon": "14.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10090294",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chinjenje",
+      "en": "Chinjenje",
+      "slug": "chinjenje-ao10090294"
+    },
+    "code": {
+      "id": "AO10090294",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10090",
+      "level": 2,
+      "name": {
+        "local": "Tchinjenje",
+        "en": "Tchinjenje",
+        "slug": "tchinjenje-ao10090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10090",
+        "level": 2,
+        "name": {
+          "local": "Tchinjenje",
+          "en": "Tchinjenje",
+          "slug": "tchinjenje-ao10090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.933",
+      "lon": "14.947"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

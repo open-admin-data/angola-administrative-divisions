@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO06042151",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kanhoca",
+      "en": "Kanhoca",
+      "slug": "kanhoca-ao06042151"
+    },
+    "code": {
+      "id": "AO06042151",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06042",
+      "level": 2,
+      "name": {
+        "local": "Cazengo",
+        "en": "Cazengo",
+        "slug": "cazengo-ao06042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06042",
+        "level": 2,
+        "name": {
+          "local": "Cazengo",
+          "en": "Cazengo",
+          "slug": "cazengo-ao06042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.319",
+      "lon": "14.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06042152",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ndalatando",
+      "en": "Ndalatando",
+      "slug": "ndalatando-ao06042152"
+    },
+    "code": {
+      "id": "AO06042152",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06042",
+      "level": 2,
+      "name": {
+        "local": "Cazengo",
+        "en": "Cazengo",
+        "slug": "cazengo-ao06042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06042",
+        "level": 2,
+        "name": {
+          "local": "Cazengo",
+          "en": "Cazengo",
+          "slug": "cazengo-ao06042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.292",
+      "lon": "14.924"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

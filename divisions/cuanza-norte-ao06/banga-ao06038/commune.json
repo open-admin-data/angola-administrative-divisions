@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO06038138",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Aldeia Nova",
+      "en": "Aldeia Nova",
+      "slug": "aldeia-nova-ao06038138"
+    },
+    "code": {
+      "id": "AO06038138",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06038",
+      "level": 2,
+      "name": {
+        "local": "Banga",
+        "en": "Banga",
+        "slug": "banga-ao06038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06038",
+        "level": 2,
+        "name": {
+          "local": "Banga",
+          "en": "Banga",
+          "slug": "banga-ao06038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.619",
+      "lon": "15.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06038139",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Banga",
+      "en": "Banga",
+      "slug": "banga-ao06038139"
+    },
+    "code": {
+      "id": "AO06038139",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06038",
+      "level": 2,
+      "name": {
+        "local": "Banga",
+        "en": "Banga",
+        "slug": "banga-ao06038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06038",
+        "level": 2,
+        "name": {
+          "local": "Banga",
+          "en": "Banga",
+          "slug": "banga-ao06038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.71",
+      "lon": "15.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06038140",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaculo Kabassa",
+      "en": "Kaculo Kabassa",
+      "slug": "kaculo-kabassa-ao06038140"
+    },
+    "code": {
+      "id": "AO06038140",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06038",
+      "level": 2,
+      "name": {
+        "local": "Banga",
+        "en": "Banga",
+        "slug": "banga-ao06038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06038",
+        "level": 2,
+        "name": {
+          "local": "Banga",
+          "en": "Banga",
+          "slug": "banga-ao06038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.774",
+      "lon": "15.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06038141",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kariamba",
+      "en": "Kariamba",
+      "slug": "kariamba-ao06038141"
+    },
+    "code": {
+      "id": "AO06038141",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06038",
+      "level": 2,
+      "name": {
+        "local": "Banga",
+        "en": "Banga",
+        "slug": "banga-ao06038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06038",
+        "level": 2,
+        "name": {
+          "local": "Banga",
+          "en": "Banga",
+          "slug": "banga-ao06038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.54",
+      "lon": "15.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO06038143",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kikiemba",
+      "en": "Kikiemba",
+      "slug": "kikiemba-ao06038143"
+    },
+    "code": {
+      "id": "AO06038143",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO06038",
+      "level": 2,
+      "name": {
+        "local": "Banga",
+        "en": "Banga",
+        "slug": "banga-ao06038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO06",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Norte",
+          "en": "Cuanza Norte",
+          "slug": "cuanza-norte-ao06"
+        }
+      },
+      {
+        "id": "AO06038",
+        "level": 2,
+        "name": {
+          "local": "Banga",
+          "en": "Banga",
+          "slug": "banga-ao06038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.607",
+      "lon": "15.062"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

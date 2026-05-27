@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO07061203",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kissanga Kungo",
+      "en": "Kissanga Kungo",
+      "slug": "kissanga-kungo-ao07061203"
+    },
+    "code": {
+      "id": "AO07061203",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07061",
+      "level": 2,
+      "name": {
+        "local": "Cela (Waku Kungo)",
+        "en": "Cela (Waku Kungo)",
+        "slug": "cela-waku-kungo-ao07061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07061",
+        "level": 2,
+        "name": {
+          "local": "Cela (Waku Kungo)",
+          "en": "Cela (Waku Kungo)",
+          "slug": "cela-waku-kungo-ao07061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.443",
+      "lon": "15.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07061204",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sanga",
+      "en": "Sanga",
+      "slug": "sanga-ao07061204"
+    },
+    "code": {
+      "id": "AO07061204",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07061",
+      "level": 2,
+      "name": {
+        "local": "Cela (Waku Kungo)",
+        "en": "Cela (Waku Kungo)",
+        "slug": "cela-waku-kungo-ao07061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07061",
+        "level": 2,
+        "name": {
+          "local": "Cela (Waku Kungo)",
+          "en": "Cela (Waku Kungo)",
+          "slug": "cela-waku-kungo-ao07061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.23",
+      "lon": "15.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07061205",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Waco Kungo",
+      "en": "Waco Kungo",
+      "slug": "waco-kungo-ao07061205"
+    },
+    "code": {
+      "id": "AO07061205",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07061",
+      "level": 2,
+      "name": {
+        "local": "Cela (Waku Kungo)",
+        "en": "Cela (Waku Kungo)",
+        "slug": "cela-waku-kungo-ao07061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07061",
+        "level": 2,
+        "name": {
+          "local": "Cela (Waku Kungo)",
+          "en": "Cela (Waku Kungo)",
+          "slug": "cela-waku-kungo-ao07061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.215",
+      "lon": "15.135"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

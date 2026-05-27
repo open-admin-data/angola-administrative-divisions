@@ -1,0 +1,47 @@
+{
+  "id": "AO08063",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuanhama",
+    "en": "Cuanhama",
+    "slug": "cuanhama-ao08063"
+  },
+  "code": {
+    "id": "AO08063",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO08",
+    "level": 1,
+    "name": {
+      "local": "Cunene",
+      "en": "Cunene",
+      "slug": "cunene-ao08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO08",
+      "level": 1,
+      "name": {
+        "local": "Cunene",
+        "en": "Cunene",
+        "slug": "cunene-ao08"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-16.53",
+    "lon": "16.372"
+  },
+  "metadata": {},
+  "source": {}
+}

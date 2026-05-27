@@ -1,0 +1,88 @@
+# Angola Administrative Divisions
+
+> Open dataset of Angola's administrative hierarchy:
+> 18 provinces, 161 municipalitys, 539 communes.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 18
+- Total municipalitys: 161
+- Total communes: 539
+- Coordinates: included (all levels)
+- Last updated: 2026-05-26
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/data/all-province.json)
+- [All municipalitys (JSON)](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/data/all-municipality.json)
+- [All communes (JSON)](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/data/all-commune.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Bengo](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/bengo-ao01/) — 6 municipalitys, 23 communes
+- [Benguela](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/benguela-ao02/) — 10 municipalitys, 35 communes
+- [Bié](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/bi-ao03/) — 9 municipalitys, 36 communes
+- [Cabinda](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/cabinda-ao04/) — 4 municipalitys, 12 communes
+- [Cuando Cubango](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/cuando-cubango-ao05/) — 9 municipalitys, 27 communes
+- [Cuanza Norte](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/cuanza-norte-ao06/) — 10 municipalitys, 31 communes
+- [Cuanza Sul](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/cuanza-sul-ao07/) — 12 municipalitys, 36 communes
+- [Cunene](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/cunene-ao08/) — 6 municipalitys, 20 communes
+- [Huambo](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/huambo-ao10/) — 11 municipalitys, 37 communes
+- [Huíla](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/hula-ao09/) — 14 municipalitys, 38 communes
+- [Luanda](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/luanda-ao11/) — 7 municipalitys, 39 communes
+- [Lunda Norte](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/lunda-norte-ao12/) — 9 municipalitys, 25 communes
+- [Lunda Sul](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/lunda-sul-ao13/) — 4 municipalitys, 16 communes
+- [Malanje](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/malanje-ao14/) — 14 municipalitys, 51 communes
+- [Moxico](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/moxico-ao15/) — 9 municipalitys, 31 communes
+- [Namibe](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/namibe-ao16/) — 5 municipalitys, 14 communes
+- [Uíge](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/uge-ao17/) — 16 municipalitys, 47 communes
+- [Zaire](https://github.com/open-admin-data/angola-administrative-divisions/tree/main/divisions/zaire-ao18/) — 6 municipalitys, 21 communes
+
+## Per-Province Full Data
+
+- [Bengo](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/bengo-ao01.txt)
+- [Benguela](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/benguela-ao02.txt)
+- [Bié](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/bi-ao03.txt)
+- [Cabinda](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/cabinda-ao04.txt)
+- [Cuando Cubango](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/cuando-cubango-ao05.txt)
+- [Cuanza Norte](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/cuanza-norte-ao06.txt)
+- [Cuanza Sul](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/cuanza-sul-ao07.txt)
+- [Cunene](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/cunene-ao08.txt)
+- [Huambo](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/huambo-ao10.txt)
+- [Huíla](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/hula-ao09.txt)
+- [Luanda](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/luanda-ao11.txt)
+- [Lunda Norte](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/lunda-norte-ao12.txt)
+- [Lunda Sul](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/lunda-sul-ao13.txt)
+- [Malanje](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/malanje-ao14.txt)
+- [Moxico](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/moxico-ao15.txt)
+- [Namibe](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/namibe-ao16.txt)
+- [Uíge](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/uge-ao17.txt)
+- [Zaire](https://raw.githubusercontent.com/open-admin-data/angola-administrative-divisions/main/docs/llms-full/zaire-ao18.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (municipality), 3 (commune)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Angola Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/angola-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

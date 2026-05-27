@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO14126410",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moma",
+      "en": "Moma",
+      "slug": "moma-ao14126410"
+    },
+    "code": {
+      "id": "AO14126410",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14126",
+      "level": 2,
+      "name": {
+        "local": "Quela",
+        "en": "Quela",
+        "slug": "quela-ao14126"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14126",
+        "level": 2,
+        "name": {
+          "local": "Quela",
+          "en": "Quela",
+          "slug": "quela-ao14126"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.736",
+      "lon": "17.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14126411",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Quela",
+      "en": "Quela",
+      "slug": "quela-ao14126411"
+    },
+    "code": {
+      "id": "AO14126411",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14126",
+      "level": 2,
+      "name": {
+        "local": "Quela",
+        "en": "Quela",
+        "slug": "quela-ao14126"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14126",
+        "level": 2,
+        "name": {
+          "local": "Quela",
+          "en": "Quela",
+          "slug": "quela-ao14126"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.164",
+      "lon": "17.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14126412",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Xandele",
+      "en": "Xandele",
+      "slug": "xandele-ao14126412"
+    },
+    "code": {
+      "id": "AO14126412",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14126",
+      "level": 2,
+      "name": {
+        "local": "Quela",
+        "en": "Quela",
+        "slug": "quela-ao14126"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14126",
+        "level": 2,
+        "name": {
+          "local": "Quela",
+          "en": "Quela",
+          "slug": "quela-ao14126"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.226",
+      "lon": "17.36"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO17143463",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kimpetelu",
+      "en": "Kimpetelu",
+      "slug": "kimpetelu-ao17143463"
+    },
+    "code": {
+      "id": "AO17143463",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17143",
+      "level": 2,
+      "name": {
+        "local": "Ambuíla",
+        "en": "Ambuíla",
+        "slug": "ambula-ao17143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17143",
+        "level": 2,
+        "name": {
+          "local": "Ambuíla",
+          "en": "Ambuíla",
+          "slug": "ambula-ao17143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.644",
+      "lon": "14.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO17143464",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sede Mantoyo",
+      "en": "Sede Mantoyo",
+      "slug": "sede-mantoyo-ao17143464"
+    },
+    "code": {
+      "id": "AO17143464",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO17143",
+      "level": 2,
+      "name": {
+        "local": "Ambuíla",
+        "en": "Ambuíla",
+        "slug": "ambula-ao17143"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO17",
+        "level": 1,
+        "name": {
+          "local": "Uíge",
+          "en": "Uíge",
+          "slug": "uge-ao17"
+        }
+      },
+      {
+        "id": "AO17143",
+        "level": 2,
+        "name": {
+          "local": "Ambuíla",
+          "en": "Ambuíla",
+          "slug": "ambula-ao17143"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.552",
+      "lon": "14.672"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

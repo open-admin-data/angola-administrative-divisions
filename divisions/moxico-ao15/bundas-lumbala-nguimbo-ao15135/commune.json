@@ -1,0 +1,380 @@
+[
+  {
+    "id": "AO15135435",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chiume",
+      "en": "Chiume",
+      "slug": "chiume-ao15135435"
+    },
+    "code": {
+      "id": "AO15135435",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15135",
+      "level": 2,
+      "name": {
+        "local": "Bundas (Lumbala-Nguimbo)",
+        "en": "Bundas (Lumbala-Nguimbo)",
+        "slug": "bundas-lumbala-nguimbo-ao15135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15135",
+        "level": 2,
+        "name": {
+          "local": "Bundas (Lumbala-Nguimbo)",
+          "en": "Bundas (Lumbala-Nguimbo)",
+          "slug": "bundas-lumbala-nguimbo-ao15135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.5",
+      "lon": "21.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15135436",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lumbala-Nguimbo",
+      "en": "Lumbala-Nguimbo",
+      "slug": "lumbala-nguimbo-ao15135436"
+    },
+    "code": {
+      "id": "AO15135436",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15135",
+      "level": 2,
+      "name": {
+        "local": "Bundas (Lumbala-Nguimbo)",
+        "en": "Bundas (Lumbala-Nguimbo)",
+        "slug": "bundas-lumbala-nguimbo-ao15135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15135",
+        "level": 2,
+        "name": {
+          "local": "Bundas (Lumbala-Nguimbo)",
+          "en": "Bundas (Lumbala-Nguimbo)",
+          "slug": "bundas-lumbala-nguimbo-ao15135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.013",
+      "lon": "21.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15135437",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lutembo",
+      "en": "Lutembo",
+      "slug": "lutembo-ao15135437"
+    },
+    "code": {
+      "id": "AO15135437",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15135",
+      "level": 2,
+      "name": {
+        "local": "Bundas (Lumbala-Nguimbo)",
+        "en": "Bundas (Lumbala-Nguimbo)",
+        "slug": "bundas-lumbala-nguimbo-ao15135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15135",
+        "level": 2,
+        "name": {
+          "local": "Bundas (Lumbala-Nguimbo)",
+          "en": "Bundas (Lumbala-Nguimbo)",
+          "slug": "bundas-lumbala-nguimbo-ao15135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.709",
+      "lon": "21.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15135438",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Luvuei",
+      "en": "Luvuei",
+      "slug": "luvuei-ao15135438"
+    },
+    "code": {
+      "id": "AO15135438",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15135",
+      "level": 2,
+      "name": {
+        "local": "Bundas (Lumbala-Nguimbo)",
+        "en": "Bundas (Lumbala-Nguimbo)",
+        "slug": "bundas-lumbala-nguimbo-ao15135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15135",
+        "level": 2,
+        "name": {
+          "local": "Bundas (Lumbala-Nguimbo)",
+          "en": "Bundas (Lumbala-Nguimbo)",
+          "slug": "bundas-lumbala-nguimbo-ao15135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.056",
+      "lon": "20.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15135439",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mussuma",
+      "en": "Mussuma",
+      "slug": "mussuma-ao15135439"
+    },
+    "code": {
+      "id": "AO15135439",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15135",
+      "level": 2,
+      "name": {
+        "local": "Bundas (Lumbala-Nguimbo)",
+        "en": "Bundas (Lumbala-Nguimbo)",
+        "slug": "bundas-lumbala-nguimbo-ao15135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15135",
+        "level": 2,
+        "name": {
+          "local": "Bundas (Lumbala-Nguimbo)",
+          "en": "Bundas (Lumbala-Nguimbo)",
+          "slug": "bundas-lumbala-nguimbo-ao15135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.114",
+      "lon": "21.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15135440",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ninda",
+      "en": "Ninda",
+      "slug": "ninda-ao15135440"
+    },
+    "code": {
+      "id": "AO15135440",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15135",
+      "level": 2,
+      "name": {
+        "local": "Bundas (Lumbala-Nguimbo)",
+        "en": "Bundas (Lumbala-Nguimbo)",
+        "slug": "bundas-lumbala-nguimbo-ao15135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15135",
+        "level": 2,
+        "name": {
+          "local": "Bundas (Lumbala-Nguimbo)",
+          "en": "Bundas (Lumbala-Nguimbo)",
+          "slug": "bundas-lumbala-nguimbo-ao15135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.604",
+      "lon": "21.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO15135441",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sessa",
+      "en": "Sessa",
+      "slug": "sessa-ao15135441"
+    },
+    "code": {
+      "id": "AO15135441",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO15135",
+      "level": 2,
+      "name": {
+        "local": "Bundas (Lumbala-Nguimbo)",
+        "en": "Bundas (Lumbala-Nguimbo)",
+        "slug": "bundas-lumbala-nguimbo-ao15135"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO15",
+        "level": 1,
+        "name": {
+          "local": "Moxico",
+          "en": "Moxico",
+          "slug": "moxico-ao15"
+        }
+      },
+      {
+        "id": "AO15135",
+        "level": 2,
+        "name": {
+          "local": "Bundas (Lumbala-Nguimbo)",
+          "en": "Bundas (Lumbala-Nguimbo)",
+          "slug": "bundas-lumbala-nguimbo-ao15135"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.809",
+      "lon": "20.716"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

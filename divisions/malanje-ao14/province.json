@@ -1,0 +1,30 @@
+{
+  "id": "AO14",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Malanje",
+    "en": "Malanje",
+    "slug": "malanje-ao14"
+  },
+  "code": {
+    "id": "AO14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 14,
+    "commune": 51
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.53",
+    "lon": "16.266"
+  },
+  "metadata": {},
+  "source": {}
+}

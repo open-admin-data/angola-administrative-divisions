@@ -1,0 +1,47 @@
+{
+  "id": "AO14120",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cunda-dia-Baze",
+    "en": "Cunda-dia-Baze",
+    "slug": "cunda-dia-baze-ao14120"
+  },
+  "code": {
+    "id": "AO14120",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO14",
+    "level": 1,
+    "name": {
+      "local": "Malanje",
+      "en": "Malanje",
+      "slug": "malanje-ao14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.632",
+    "lon": "17.387"
+  },
+  "metadata": {},
+  "source": {}
+}

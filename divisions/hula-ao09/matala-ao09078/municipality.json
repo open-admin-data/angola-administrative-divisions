@@ -1,0 +1,47 @@
+{
+  "id": "AO09078",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Matala",
+    "en": "Matala",
+    "slug": "matala-ao09078"
+  },
+  "code": {
+    "id": "AO09078",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO09",
+    "level": 1,
+    "name": {
+      "local": "Huíla",
+      "en": "Huíla",
+      "slug": "hula-ao09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO09",
+      "level": 1,
+      "name": {
+        "local": "Huíla",
+        "en": "Huíla",
+        "slug": "hula-ao09"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-15.252",
+    "lon": "15.192"
+  },
+  "metadata": {},
+  "source": {}
+}

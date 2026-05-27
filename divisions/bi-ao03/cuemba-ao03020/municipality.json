@@ -1,0 +1,47 @@
+{
+  "id": "AO03020",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Cuemba",
+    "en": "Cuemba",
+    "slug": "cuemba-ao03020"
+  },
+  "code": {
+    "id": "AO03020",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO03",
+    "level": 1,
+    "name": {
+      "local": "Bié",
+      "en": "Bié",
+      "slug": "bi-ao03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO03",
+      "level": 1,
+      "name": {
+        "local": "Bié",
+        "en": "Bié",
+        "slug": "bi-ao03"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-11.734",
+    "lon": "18.302"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO07059196",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Amboiva",
+      "en": "Amboiva",
+      "slug": "amboiva-ao07059196"
+    },
+    "code": {
+      "id": "AO07059196",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07059",
+      "level": 2,
+      "name": {
+        "local": "Seles (Uku Seles)",
+        "en": "Seles (Uku Seles)",
+        "slug": "seles-uku-seles-ao07059"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07059",
+        "level": 2,
+        "name": {
+          "local": "Seles (Uku Seles)",
+          "en": "Seles (Uku Seles)",
+          "slug": "seles-uku-seles-ao07059"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.431",
+      "lon": "14.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07059197",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Botera",
+      "en": "Botera",
+      "slug": "botera-ao07059197"
+    },
+    "code": {
+      "id": "AO07059197",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07059",
+      "level": 2,
+      "name": {
+        "local": "Seles (Uku Seles)",
+        "en": "Seles (Uku Seles)",
+        "slug": "seles-uku-seles-ao07059"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07059",
+        "level": 2,
+        "name": {
+          "local": "Seles (Uku Seles)",
+          "en": "Seles (Uku Seles)",
+          "slug": "seles-uku-seles-ao07059"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.582",
+      "lon": "14.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07059198",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ucu-Seles",
+      "en": "Ucu-Seles",
+      "slug": "ucu-seles-ao07059198"
+    },
+    "code": {
+      "id": "AO07059198",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07059",
+      "level": 2,
+      "name": {
+        "local": "Seles (Uku Seles)",
+        "en": "Seles (Uku Seles)",
+        "slug": "seles-uku-seles-ao07059"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07059",
+        "level": 2,
+        "name": {
+          "local": "Seles (Uku Seles)",
+          "en": "Seles (Uku Seles)",
+          "slug": "seles-uku-seles-ao07059"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.376",
+      "lon": "14.32"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

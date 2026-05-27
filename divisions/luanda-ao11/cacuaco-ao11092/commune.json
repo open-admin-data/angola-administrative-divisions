@@ -1,0 +1,164 @@
+[
+  {
+    "id": "AO11092298",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cacuaco",
+      "en": "Cacuaco",
+      "slug": "cacuaco-ao11092298"
+    },
+    "code": {
+      "id": "AO11092298",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11092",
+      "level": 2,
+      "name": {
+        "local": "Cacuaco",
+        "en": "Cacuaco",
+        "slug": "cacuaco-ao11092"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11092",
+        "level": 2,
+        "name": {
+          "local": "Cacuaco",
+          "en": "Cacuaco",
+          "slug": "cacuaco-ao11092"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.79",
+      "lon": "13.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11092299",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Funda",
+      "en": "Funda",
+      "slug": "funda-ao11092299"
+    },
+    "code": {
+      "id": "AO11092299",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11092",
+      "level": 2,
+      "name": {
+        "local": "Cacuaco",
+        "en": "Cacuaco",
+        "slug": "cacuaco-ao11092"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11092",
+        "level": 2,
+        "name": {
+          "local": "Cacuaco",
+          "en": "Cacuaco",
+          "slug": "cacuaco-ao11092"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.816",
+      "lon": "13.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO11092300",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kikolo",
+      "en": "Kikolo",
+      "slug": "kikolo-ao11092300"
+    },
+    "code": {
+      "id": "AO11092300",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO11092",
+      "level": 2,
+      "name": {
+        "local": "Cacuaco",
+        "en": "Cacuaco",
+        "slug": "cacuaco-ao11092"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO11",
+        "level": 1,
+        "name": {
+          "local": "Luanda",
+          "en": "Luanda",
+          "slug": "luanda-ao11"
+        }
+      },
+      {
+        "id": "AO11092",
+        "level": 2,
+        "name": {
+          "local": "Cacuaco",
+          "en": "Cacuaco",
+          "slug": "cacuaco-ao11092"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.803",
+      "lon": "13.341"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

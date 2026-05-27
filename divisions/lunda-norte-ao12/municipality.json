@@ -1,0 +1,425 @@
+[
+  {
+    "id": "AO12101",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cambulo",
+      "en": "Cambulo",
+      "slug": "cambulo-ao12101"
+    },
+    "code": {
+      "id": "AO12101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.93",
+      "lon": "21.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12102",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Capenda-Camulemba",
+      "en": "Capenda-Camulemba",
+      "slug": "capenda-camulemba-ao12102"
+    },
+    "code": {
+      "id": "AO12102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.686",
+      "lon": "18.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12103",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Caungula",
+      "en": "Caungula",
+      "slug": "caungula-ao12103"
+    },
+    "code": {
+      "id": "AO12103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.366",
+      "lon": "18.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12104",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Chitato (Lóvua)",
+      "en": "Chitato (Lóvua)",
+      "slug": "chitato-lvua-ao12104"
+    },
+    "code": {
+      "id": "AO12104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.394",
+      "lon": "20.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12105",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuango",
+      "en": "Cuango",
+      "slug": "cuango-ao12105"
+    },
+    "code": {
+      "id": "AO12105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.667",
+      "lon": "18.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12106",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cuilo",
+      "en": "Cuilo",
+      "slug": "cuilo-ao12106"
+    },
+    "code": {
+      "id": "AO12106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.011",
+      "lon": "19.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12107",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lubalo",
+      "en": "Lubalo",
+      "slug": "lubalo-ao12107"
+    },
+    "code": {
+      "id": "AO12107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.281",
+      "lon": "19.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12108",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Lucapa",
+      "en": "Lucapa",
+      "slug": "lucapa-ao12108"
+    },
+    "code": {
+      "id": "AO12108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.526",
+      "lon": "20.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO12109",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Xá-Muteba",
+      "en": "Xá-Muteba",
+      "slug": "x-muteba-ao12109"
+    },
+    "code": {
+      "id": "AO12109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO12",
+      "level": 1,
+      "name": {
+        "local": "Lunda Norte",
+        "en": "Lunda Norte",
+        "slug": "lunda-norte-ao12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO12",
+        "level": 1,
+        "name": {
+          "local": "Lunda Norte",
+          "en": "Lunda Norte",
+          "slug": "lunda-norte-ao12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.138",
+      "lon": "17.815"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

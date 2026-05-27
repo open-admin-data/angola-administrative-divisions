@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO14119385",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kiwaba-Ngozi",
+      "en": "Kiwaba-Ngozi",
+      "slug": "kiwaba-ngozi-ao14119385"
+    },
+    "code": {
+      "id": "AO14119385",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14119",
+      "level": 2,
+      "name": {
+        "local": "Kiuaba-N'Zoji (Cuaba Nzogo)",
+        "en": "Kiuaba-N'Zoji (Cuaba Nzogo)",
+        "slug": "kiuaba-nzoji-cuaba-nzogo-ao14119"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14119",
+        "level": 2,
+        "name": {
+          "local": "Kiuaba-N'Zoji (Cuaba Nzogo)",
+          "en": "Kiuaba-N'Zoji (Cuaba Nzogo)",
+          "slug": "kiuaba-nzoji-cuaba-nzogo-ao14119"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.932",
+      "lon": "16.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14119386",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mufuma",
+      "en": "Mufuma",
+      "slug": "mufuma-ao14119386"
+    },
+    "code": {
+      "id": "AO14119386",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14119",
+      "level": 2,
+      "name": {
+        "local": "Kiuaba-N'Zoji (Cuaba Nzogo)",
+        "en": "Kiuaba-N'Zoji (Cuaba Nzogo)",
+        "slug": "kiuaba-nzoji-cuaba-nzogo-ao14119"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14119",
+        "level": 2,
+        "name": {
+          "local": "Kiuaba-N'Zoji (Cuaba Nzogo)",
+          "en": "Kiuaba-N'Zoji (Cuaba Nzogo)",
+          "slug": "kiuaba-nzoji-cuaba-nzogo-ao14119"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.142",
+      "lon": "16.609"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

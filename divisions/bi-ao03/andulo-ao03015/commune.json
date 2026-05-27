@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO03015058",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Andulo",
+      "en": "Andulo",
+      "slug": "andulo-ao03015058"
+    },
+    "code": {
+      "id": "AO03015058",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03015",
+      "level": 2,
+      "name": {
+        "local": "Andulo",
+        "en": "Andulo",
+        "slug": "andulo-ao03015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03015",
+        "level": 2,
+        "name": {
+          "local": "Andulo",
+          "en": "Andulo",
+          "slug": "andulo-ao03015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.472",
+      "lon": "16.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03015059",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chivaulo",
+      "en": "Chivaulo",
+      "slug": "chivaulo-ao03015059"
+    },
+    "code": {
+      "id": "AO03015059",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03015",
+      "level": 2,
+      "name": {
+        "local": "Andulo",
+        "en": "Andulo",
+        "slug": "andulo-ao03015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03015",
+        "level": 2,
+        "name": {
+          "local": "Andulo",
+          "en": "Andulo",
+          "slug": "andulo-ao03015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.671",
+      "lon": "16.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03015060",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalucinga",
+      "en": "Kalucinga",
+      "slug": "kalucinga-ao03015060"
+    },
+    "code": {
+      "id": "AO03015060",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03015",
+      "level": 2,
+      "name": {
+        "local": "Andulo",
+        "en": "Andulo",
+        "slug": "andulo-ao03015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03015",
+        "level": 2,
+        "name": {
+          "local": "Andulo",
+          "en": "Andulo",
+          "slug": "andulo-ao03015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.127",
+      "lon": "16.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO03015061",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kassumbe",
+      "en": "Kassumbe",
+      "slug": "kassumbe-ao03015061"
+    },
+    "code": {
+      "id": "AO03015061",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO03015",
+      "level": 2,
+      "name": {
+        "local": "Andulo",
+        "en": "Andulo",
+        "slug": "andulo-ao03015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO03",
+        "level": 1,
+        "name": {
+          "local": "Bié",
+          "en": "Bié",
+          "slug": "bi-ao03"
+        }
+      },
+      {
+        "id": "AO03015",
+        "level": 2,
+        "name": {
+          "local": "Andulo",
+          "en": "Andulo",
+          "slug": "andulo-ao03015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.972",
+      "lon": "16.66"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

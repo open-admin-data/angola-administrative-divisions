@@ -1,0 +1,47 @@
+{
+  "id": "AO10086",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Londuimbale",
+    "en": "Londuimbale",
+    "slug": "londuimbale-ao10086"
+  },
+  "code": {
+    "id": "AO10086",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO10",
+    "level": 1,
+    "name": {
+      "local": "Huambo",
+      "en": "Huambo",
+      "slug": "huambo-ao10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO10",
+      "level": 1,
+      "name": {
+        "local": "Huambo",
+        "en": "Huambo",
+        "slug": "huambo-ao10"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-12.252",
+    "lon": "15.35"
+  },
+  "metadata": {},
+  "source": {}
+}

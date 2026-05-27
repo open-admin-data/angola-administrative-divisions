@@ -1,0 +1,162 @@
+# Cuando Cubango — Angola Administrative Divisions
+
+> 9 municipalitys, 27 communes
+> Code: AO05
+> Coordinates: -15.803, 19.467
+> Last updated: 2026-05-26. License: CC-BY-4.0.
+
+## Municipalitys
+
+### Calai
+
+Code: AO05028, Coordinates: -17.338, 19.476
+Communes: 2
+
+#### Kalai
+
+Code: AO05028106, Coordinates: -17.519, 19.222
+
+#### Maue
+
+Code: AO05028107, Coordinates: -17.226, 19.489
+
+### Cuangar
+
+Code: AO05029, Coordinates: -17.095, 18.15
+Communes: 3
+
+#### Bondo
+
+Code: AO05029108, Coordinates: -16.824, 18.222
+
+#### Cuangar
+
+Code: AO05029109, Coordinates: -17.494, 18.777
+
+#### Savate
+
+Code: AO05029110, Coordinates: -16.882, 17.58
+
+### Cuchi
+
+Code: AO05030, Coordinates: -14.739, 17.009
+Communes: 3
+
+#### Chinguanja
+
+Code: AO05030111, Coordinates: -15.17, 17.064
+
+#### Kuchi
+
+Code: AO05030112, Coordinates: -14.457, 17.068
+
+#### Kutato
+
+Code: AO05030113, Coordinates: -14.347, 16.641
+
+### Cuito Cuanavale
+
+Code: AO05031, Coordinates: -14.852, 19.023
+Communes: 4
+
+#### Baixo Longa
+
+Code: AO05031114, Coordinates: -15.672, 18.605
+
+#### Kuito Kuanavale
+
+Code: AO05031115, Coordinates: -15.399, 19.214
+
+#### Longa
+
+Code: AO05031116, Coordinates: -14.448, 18.518
+
+#### Lupire
+
+Code: AO05031117, Coordinates: -14.645, 19.403
+
+### Dirico
+
+Code: AO05032, Coordinates: -17.517, 20.731
+Communes: 3
+
+#### Dirico
+
+Code: AO05032118, Coordinates: -17.516, 20.824
+
+#### Mucusso
+
+Code: AO05032119, Coordinates: -17.526, 21.425
+
+#### Xa-Mavera
+
+Code: AO05032120, Coordinates: -17.465, 20.261
+
+### Mavinga
+
+Code: AO05033, Coordinates: -16.142, 20.091
+Communes: 4
+
+#### Kunjamba
+
+Code: AO05033121, Coordinates: -15.262, 20.016
+
+#### Kutuile
+
+Code: AO05033122, Coordinates: -15.329, 20.849
+
+#### Luengue
+
+Code: AO05033123, Coordinates: -16.827, 20.348
+
+#### Mavinga
+
+Code: AO05033124, Coordinates: -16.024, 20.076
+
+### Menongue
+
+Code: AO05034, Coordinates: -15.152, 17.723
+Communes: 3
+
+#### Kaiundo
+
+Code: AO05034125, Coordinates: -15.76, 17.527
+
+#### Kueio
+
+Code: AO05034126, Coordinates: -15.829, 18.015
+
+#### Menongue
+
+Code: AO05034127, Coordinates: -14.545, 17.783
+
+### Nancova
+
+Code: AO05035, Coordinates: -16.448, 18.697
+Communes: 2
+
+#### Nancova
+
+Code: AO05035128, Coordinates: -16.327, 18.75
+
+#### Rito
+
+Code: AO05035129, Coordinates: -16.713, 18.844
+
+### Rivungo
+
+Code: AO05036, Coordinates: -16.771, 21.921
+Communes: 3
+
+#### Luiana
+
+Code: AO05036130, Coordinates: -17.446, 22.399
+
+#### Neriquinha
+
+Code: AO05036131, Coordinates: -16.081, 21.415
+
+#### Rivungo
+
+Code: AO05036132, Coordinates: -16.79, 21.93
+

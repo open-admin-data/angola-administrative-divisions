@@ -1,0 +1,110 @@
+[
+  {
+    "id": "AO07056188",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kapolo",
+      "en": "Kapolo",
+      "slug": "kapolo-ao07056188"
+    },
+    "code": {
+      "id": "AO07056188",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07056",
+      "level": 2,
+      "name": {
+        "local": "Porto Amboim",
+        "en": "Porto Amboim",
+        "slug": "porto-amboim-ao07056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07056",
+        "level": 2,
+        "name": {
+          "local": "Porto Amboim",
+          "en": "Porto Amboim",
+          "slug": "porto-amboim-ao07056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.448",
+      "lon": "13.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07056189",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Porto Amboim",
+      "en": "Porto Amboim",
+      "slug": "porto-amboim-ao07056189"
+    },
+    "code": {
+      "id": "AO07056189",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07056",
+      "level": 2,
+      "name": {
+        "local": "Porto Amboim",
+        "en": "Porto Amboim",
+        "slug": "porto-amboim-ao07056"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07056",
+        "level": 2,
+        "name": {
+          "local": "Porto Amboim",
+          "en": "Porto Amboim",
+          "slug": "porto-amboim-ao07056"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.784",
+      "lon": "14.007"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "AO06046",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Ngonguembo",
+    "en": "Ngonguembo",
+    "slug": "ngonguembo-ao06046"
+  },
+  "code": {
+    "id": "AO06046",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO06",
+    "level": 1,
+    "name": {
+      "local": "Cuanza Norte",
+      "en": "Cuanza Norte",
+      "slug": "cuanza-norte-ao06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.902",
+    "lon": "14.845"
+  },
+  "metadata": {},
+  "source": {}
+}

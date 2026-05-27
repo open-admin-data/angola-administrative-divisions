@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO09070233",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Chibia",
+      "en": "Chibia",
+      "slug": "chibia-ao09070233"
+    },
+    "code": {
+      "id": "AO09070233",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09070",
+      "level": 2,
+      "name": {
+        "local": "Chibia",
+        "en": "Chibia",
+        "slug": "chibia-ao09070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09070",
+        "level": 2,
+        "name": {
+          "local": "Chibia",
+          "en": "Chibia",
+          "slug": "chibia-ao09070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.313",
+      "lon": "13.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09070234",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Jau",
+      "en": "Jau",
+      "slug": "jau-ao09070234"
+    },
+    "code": {
+      "id": "AO09070234",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09070",
+      "level": 2,
+      "name": {
+        "local": "Chibia",
+        "en": "Chibia",
+        "slug": "chibia-ao09070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09070",
+        "level": 2,
+        "name": {
+          "local": "Chibia",
+          "en": "Chibia",
+          "slug": "chibia-ao09070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.421",
+      "lon": "13.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09070235",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kapunda Kavilongo",
+      "en": "Kapunda Kavilongo",
+      "slug": "kapunda-kavilongo-ao09070235"
+    },
+    "code": {
+      "id": "AO09070235",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09070",
+      "level": 2,
+      "name": {
+        "local": "Chibia",
+        "en": "Chibia",
+        "slug": "chibia-ao09070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09070",
+        "level": 2,
+        "name": {
+          "local": "Chibia",
+          "en": "Chibia",
+          "slug": "chibia-ao09070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-14.934",
+      "lon": "14.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO09070236",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kihita",
+      "en": "Kihita",
+      "slug": "kihita-ao09070236"
+    },
+    "code": {
+      "id": "AO09070236",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO09070",
+      "level": 2,
+      "name": {
+        "local": "Chibia",
+        "en": "Chibia",
+        "slug": "chibia-ao09070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO09",
+        "level": 1,
+        "name": {
+          "local": "Huíla",
+          "en": "Huíla",
+          "slug": "hula-ao09"
+        }
+      },
+      {
+        "id": "AO09070",
+        "level": 2,
+        "name": {
+          "local": "Chibia",
+          "en": "Chibia",
+          "slug": "chibia-ao09070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-15.344",
+      "lon": "13.936"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

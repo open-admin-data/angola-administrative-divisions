@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO14118381",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bange-Angola",
+      "en": "Bange-Angola",
+      "slug": "bange-angola-ao14118381"
+    },
+    "code": {
+      "id": "AO14118381",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14118",
+      "level": 2,
+      "name": {
+        "local": "Cahombo",
+        "en": "Cahombo",
+        "slug": "cahombo-ao14118"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14118",
+        "level": 2,
+        "name": {
+          "local": "Cahombo",
+          "en": "Cahombo",
+          "slug": "cahombo-ao14118"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.772",
+      "lon": "16.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14118382",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kahombo",
+      "en": "Kahombo",
+      "slug": "kahombo-ao14118382"
+    },
+    "code": {
+      "id": "AO14118382",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14118",
+      "level": 2,
+      "name": {
+        "local": "Cahombo",
+        "en": "Cahombo",
+        "slug": "cahombo-ao14118"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14118",
+        "level": 2,
+        "name": {
+          "local": "Cahombo",
+          "en": "Cahombo",
+          "slug": "cahombo-ao14118"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.724",
+      "lon": "16.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14118383",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kambo",
+      "en": "Kambo",
+      "slug": "kambo-ao14118383"
+    },
+    "code": {
+      "id": "AO14118383",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14118",
+      "level": 2,
+      "name": {
+        "local": "Cahombo",
+        "en": "Cahombo",
+        "slug": "cahombo-ao14118"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14118",
+        "level": 2,
+        "name": {
+          "local": "Cahombo",
+          "en": "Cahombo",
+          "slug": "cahombo-ao14118"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.448",
+      "lon": "16.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14118384",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mikanda",
+      "en": "Mikanda",
+      "slug": "mikanda-ao14118384"
+    },
+    "code": {
+      "id": "AO14118384",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14118",
+      "level": 2,
+      "name": {
+        "local": "Cahombo",
+        "en": "Cahombo",
+        "slug": "cahombo-ao14118"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      },
+      {
+        "id": "AO14118",
+        "level": 2,
+        "name": {
+          "local": "Cahombo",
+          "en": "Cahombo",
+          "slug": "cahombo-ao14118"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.522",
+      "lon": "16.435"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

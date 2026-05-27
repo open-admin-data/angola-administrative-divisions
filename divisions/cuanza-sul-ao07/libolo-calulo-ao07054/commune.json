@@ -1,0 +1,218 @@
+[
+  {
+    "id": "AO07054181",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kabuta",
+      "en": "Kabuta",
+      "slug": "kabuta-ao07054181"
+    },
+    "code": {
+      "id": "AO07054181",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07054",
+      "level": 2,
+      "name": {
+        "local": "Libolo (Calulo)",
+        "en": "Libolo (Calulo)",
+        "slug": "libolo-calulo-ao07054"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07054",
+        "level": 2,
+        "name": {
+          "local": "Libolo (Calulo)",
+          "en": "Libolo (Calulo)",
+          "slug": "libolo-calulo-ao07054"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.829",
+      "lon": "14.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07054182",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kalulo",
+      "en": "Kalulo",
+      "slug": "kalulo-ao07054182"
+    },
+    "code": {
+      "id": "AO07054182",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07054",
+      "level": 2,
+      "name": {
+        "local": "Libolo (Calulo)",
+        "en": "Libolo (Calulo)",
+        "slug": "libolo-calulo-ao07054"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07054",
+        "level": 2,
+        "name": {
+          "local": "Libolo (Calulo)",
+          "en": "Libolo (Calulo)",
+          "slug": "libolo-calulo-ao07054"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.125",
+      "lon": "14.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07054183",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kissongo",
+      "en": "Kissongo",
+      "slug": "kissongo-ao07054183"
+    },
+    "code": {
+      "id": "AO07054183",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07054",
+      "level": 2,
+      "name": {
+        "local": "Libolo (Calulo)",
+        "en": "Libolo (Calulo)",
+        "slug": "libolo-calulo-ao07054"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07054",
+        "level": 2,
+        "name": {
+          "local": "Libolo (Calulo)",
+          "en": "Libolo (Calulo)",
+          "slug": "libolo-calulo-ao07054"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.028",
+      "lon": "15.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO07054184",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Munenga",
+      "en": "Munenga",
+      "slug": "munenga-ao07054184"
+    },
+    "code": {
+      "id": "AO07054184",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO07054",
+      "level": 2,
+      "name": {
+        "local": "Libolo (Calulo)",
+        "en": "Libolo (Calulo)",
+        "slug": "libolo-calulo-ao07054"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO07",
+        "level": 1,
+        "name": {
+          "local": "Cuanza Sul",
+          "en": "Cuanza Sul",
+          "slug": "cuanza-sul-ao07"
+        }
+      },
+      {
+        "id": "AO07054",
+        "level": 2,
+        "name": {
+          "local": "Libolo (Calulo)",
+          "en": "Libolo (Calulo)",
+          "slug": "libolo-calulo-ao07054"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.017",
+      "lon": "14.665"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "AO04",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Cabinda",
+    "en": "Cabinda",
+    "slug": "cabinda-ao04"
+  },
+  "code": {
+    "id": "AO04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 4,
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.083",
+    "lon": "12.26"
+  },
+  "metadata": {},
+  "source": {}
+}

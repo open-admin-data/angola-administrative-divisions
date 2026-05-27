@@ -1,0 +1,47 @@
+{
+  "id": "AO06049",
+  "level": 2,
+  "level_name": {
+    "local": "Município",
+    "en": "Municipality"
+  },
+  "name": {
+    "local": "Samba Cajú",
+    "en": "Samba Cajú",
+    "slug": "samba-caj-ao06049"
+  },
+  "code": {
+    "id": "AO06049",
+    "iso": null
+  },
+  "parent": {
+    "id": "AO06",
+    "level": 1,
+    "name": {
+      "local": "Cuanza Norte",
+      "en": "Cuanza Norte",
+      "slug": "cuanza-norte-ao06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AO06",
+      "level": 1,
+      "name": {
+        "local": "Cuanza Norte",
+        "en": "Cuanza Norte",
+        "slug": "cuanza-norte-ao06"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.816",
+    "lon": "15.486"
+  },
+  "metadata": {},
+  "source": {}
+}

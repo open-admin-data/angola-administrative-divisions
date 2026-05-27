@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO10086278",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alto Uama",
+      "en": "Alto Uama",
+      "slug": "alto-uama-ao10086278"
+    },
+    "code": {
+      "id": "AO10086278",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10086",
+      "level": 2,
+      "name": {
+        "local": "Londuimbale",
+        "en": "Londuimbale",
+        "slug": "londuimbale-ao10086"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10086",
+        "level": 2,
+        "name": {
+          "local": "Londuimbale",
+          "en": "Londuimbale",
+          "slug": "londuimbale-ao10086"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.2",
+      "lon": "15.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10086279",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Galanga",
+      "en": "Galanga",
+      "slug": "galanga-ao10086279"
+    },
+    "code": {
+      "id": "AO10086279",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10086",
+      "level": 2,
+      "name": {
+        "local": "Londuimbale",
+        "en": "Londuimbale",
+        "slug": "londuimbale-ao10086"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10086",
+        "level": 2,
+        "name": {
+          "local": "Londuimbale",
+          "en": "Londuimbale",
+          "slug": "londuimbale-ao10086"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.082",
+      "lon": "15.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10086280",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kumbila",
+      "en": "Kumbila",
+      "slug": "kumbila-ao10086280"
+    },
+    "code": {
+      "id": "AO10086280",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10086",
+      "level": 2,
+      "name": {
+        "local": "Londuimbale",
+        "en": "Londuimbale",
+        "slug": "londuimbale-ao10086"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10086",
+        "level": 2,
+        "name": {
+          "local": "Londuimbale",
+          "en": "Londuimbale",
+          "slug": "londuimbale-ao10086"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.222",
+      "lon": "15.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10086281",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Londuimbali",
+      "en": "Londuimbali",
+      "slug": "londuimbali-ao10086281"
+    },
+    "code": {
+      "id": "AO10086281",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10086",
+      "level": 2,
+      "name": {
+        "local": "Londuimbale",
+        "en": "Londuimbale",
+        "slug": "londuimbale-ao10086"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10086",
+        "level": 2,
+        "name": {
+          "local": "Londuimbale",
+          "en": "Londuimbale",
+          "slug": "londuimbale-ao10086"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.273",
+      "lon": "15.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO10086282",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ussoke",
+      "en": "Ussoke",
+      "slug": "ussoke-ao10086282"
+    },
+    "code": {
+      "id": "AO10086282",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO10086",
+      "level": 2,
+      "name": {
+        "local": "Londuimbale",
+        "en": "Londuimbale",
+        "slug": "londuimbale-ao10086"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO10",
+        "level": 1,
+        "name": {
+          "local": "Huambo",
+          "en": "Huambo",
+          "slug": "huambo-ao10"
+        }
+      },
+      {
+        "id": "AO10086",
+        "level": 2,
+        "name": {
+          "local": "Londuimbale",
+          "en": "Londuimbale",
+          "slug": "londuimbale-ao10086"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.374",
+      "lon": "15.09"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

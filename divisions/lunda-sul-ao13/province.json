@@ -1,0 +1,30 @@
+{
+  "id": "AO13",
+  "level": 1,
+  "level_name": {
+    "local": "Província",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Lunda Sul",
+    "en": "Lunda Sul",
+    "slug": "lunda-sul-ao13"
+  },
+  "code": {
+    "id": "AO13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "municipality": 4,
+    "commune": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.897",
+    "lon": "20.954"
+  },
+  "metadata": {},
+  "source": {}
+}

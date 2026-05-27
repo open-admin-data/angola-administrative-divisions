@@ -1,0 +1,660 @@
+[
+  {
+    "id": "AO14114",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cacuso",
+      "en": "Cacuso",
+      "slug": "cacuso-ao14114"
+    },
+    "code": {
+      "id": "AO14114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.473",
+      "lon": "15.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14118",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cahombo",
+      "en": "Cahombo",
+      "slug": "cahombo-ao14118"
+    },
+    "code": {
+      "id": "AO14118",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.715",
+      "lon": "16.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14115",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Calandula",
+      "en": "Calandula",
+      "slug": "calandula-ao14115"
+    },
+    "code": {
+      "id": "AO14115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.737",
+      "lon": "15.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14116",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cambundi-Catembo",
+      "en": "Cambundi-Catembo",
+      "slug": "cambundi-catembo-ao14116"
+    },
+    "code": {
+      "id": "AO14116",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.124",
+      "lon": "17.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14117",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cangandala",
+      "en": "Cangandala",
+      "slug": "cangandala-ao14117"
+    },
+    "code": {
+      "id": "AO14117",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.963",
+      "lon": "16.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14120",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Cunda-dia-Baze",
+      "en": "Cunda-dia-Baze",
+      "slug": "cunda-dia-baze-ao14120"
+    },
+    "code": {
+      "id": "AO14120",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.632",
+      "lon": "17.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14119",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Kiuaba-N'Zoji (Cuaba Nzogo)",
+      "en": "Kiuaba-N'Zoji (Cuaba Nzogo)",
+      "slug": "kiuaba-nzoji-cuaba-nzogo-ao14119"
+    },
+    "code": {
+      "id": "AO14119",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.039",
+      "lon": "16.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14121",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Luquembo",
+      "en": "Luquembo",
+      "slug": "luquembo-ao14121"
+    },
+    "code": {
+      "id": "AO14121",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.99",
+      "lon": "17.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14122",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Malanje",
+      "en": "Malanje",
+      "slug": "malanje-ao14122"
+    },
+    "code": {
+      "id": "AO14122",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.447",
+      "lon": "16.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14123",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Marimba",
+      "en": "Marimba",
+      "slug": "marimba-ao14123"
+    },
+    "code": {
+      "id": "AO14123",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.169",
+      "lon": "17.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14124",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Massango",
+      "en": "Massango",
+      "slug": "massango-ao14124"
+    },
+    "code": {
+      "id": "AO14124",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.768",
+      "lon": "16.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14125",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Mucari",
+      "en": "Mucari",
+      "slug": "mucari-ao14125"
+    },
+    "code": {
+      "id": "AO14125",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.448",
+      "lon": "16.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14126",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quela",
+      "en": "Quela",
+      "slug": "quela-ao14126"
+    },
+    "code": {
+      "id": "AO14126",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.406",
+      "lon": "17.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO14127",
+    "level": 2,
+    "level_name": {
+      "local": "Município",
+      "en": "Municipality"
+    },
+    "name": {
+      "local": "Quirima",
+      "en": "Quirima",
+      "slug": "quirima-ao14127"
+    },
+    "code": {
+      "id": "AO14127",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO14",
+      "level": 1,
+      "name": {
+        "local": "Malanje",
+        "en": "Malanje",
+        "slug": "malanje-ao14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO14",
+        "level": 1,
+        "name": {
+          "local": "Malanje",
+          "en": "Malanje",
+          "slug": "malanje-ao14"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-11.015",
+      "lon": "18.266"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

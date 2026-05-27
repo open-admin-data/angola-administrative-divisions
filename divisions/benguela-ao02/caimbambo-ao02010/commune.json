@@ -1,0 +1,272 @@
+[
+  {
+    "id": "AO02010037",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Cayavi",
+      "en": "Cayavi",
+      "slug": "cayavi-ao02010037"
+    },
+    "code": {
+      "id": "AO02010037",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02010",
+      "level": 2,
+      "name": {
+        "local": "Caimbambo",
+        "en": "Caimbambo",
+        "slug": "caimbambo-ao02010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02010",
+        "level": 2,
+        "name": {
+          "local": "Caimbambo",
+          "en": "Caimbambo",
+          "slug": "caimbambo-ao02010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.851",
+      "lon": "13.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02010038",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaimbambo",
+      "en": "Kaimbambo",
+      "slug": "kaimbambo-ao02010038"
+    },
+    "code": {
+      "id": "AO02010038",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02010",
+      "level": 2,
+      "name": {
+        "local": "Caimbambo",
+        "en": "Caimbambo",
+        "slug": "caimbambo-ao02010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02010",
+        "level": 2,
+        "name": {
+          "local": "Caimbambo",
+          "en": "Caimbambo",
+          "slug": "caimbambo-ao02010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.11",
+      "lon": "13.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02010039",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kanhamela",
+      "en": "Kanhamela",
+      "slug": "kanhamela-ao02010039"
+    },
+    "code": {
+      "id": "AO02010039",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02010",
+      "level": 2,
+      "name": {
+        "local": "Caimbambo",
+        "en": "Caimbambo",
+        "slug": "caimbambo-ao02010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02010",
+        "level": 2,
+        "name": {
+          "local": "Caimbambo",
+          "en": "Caimbambo",
+          "slug": "caimbambo-ao02010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.262",
+      "lon": "14.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02010040",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Katengue",
+      "en": "Katengue",
+      "slug": "katengue-ao02010040"
+    },
+    "code": {
+      "id": "AO02010040",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02010",
+      "level": 2,
+      "name": {
+        "local": "Caimbambo",
+        "en": "Caimbambo",
+        "slug": "caimbambo-ao02010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02010",
+        "level": 2,
+        "name": {
+          "local": "Caimbambo",
+          "en": "Caimbambo",
+          "slug": "caimbambo-ao02010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-13.136",
+      "lon": "13.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AO02010041",
+    "level": 3,
+    "level_name": {
+      "local": "Comuna",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Wyiagombe",
+      "en": "Wyiagombe",
+      "slug": "wyiagombe-ao02010041"
+    },
+    "code": {
+      "id": "AO02010041",
+      "iso": null
+    },
+    "parent": {
+      "id": "AO02010",
+      "level": 2,
+      "name": {
+        "local": "Caimbambo",
+        "en": "Caimbambo",
+        "slug": "caimbambo-ao02010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AO02",
+        "level": 1,
+        "name": {
+          "local": "Benguela",
+          "en": "Benguela",
+          "slug": "benguela-ao02"
+        }
+      },
+      {
+        "id": "AO02010",
+        "level": 2,
+        "name": {
+          "local": "Caimbambo",
+          "en": "Caimbambo",
+          "slug": "caimbambo-ao02010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "-12.993",
+      "lon": "14.129"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
