@@ -3,7 +3,7 @@
 > 6 municipalitys, 20 communes
 > Code: AO08
 > Coordinates: -16.293, 15.601
-> Last updated: 2026-05-26. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Municipalitys
 

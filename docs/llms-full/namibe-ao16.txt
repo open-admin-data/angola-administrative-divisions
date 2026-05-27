@@ -3,7 +3,7 @@
 > 5 municipalitys, 14 communes
 > Code: AO16
 > Coordinates: -15.391, 12.731
-> Last updated: 2026-05-26. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Municipalitys
 

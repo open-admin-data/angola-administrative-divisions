@@ -3,7 +3,7 @@
 > 10 municipalitys, 35 communes
 > Code: AO02
 > Coordinates: -12.819, 13.9
-> Last updated: 2026-05-26. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Municipalitys
 
