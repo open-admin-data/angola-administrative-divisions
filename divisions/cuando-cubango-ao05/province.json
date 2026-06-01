@@ -26,5 +26,9 @@
     "lon": "19.467"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ao/provinces/cuando-cubango-ao05/",
+    "api": "https://openadmindata.org/api/ao/"
+  }
 }

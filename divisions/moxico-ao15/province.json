@@ -26,5 +26,9 @@
     "lon": "19.974"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ao/provinces/moxico-ao15/",
+    "api": "https://openadmindata.org/api/ao/"
+  }
 }

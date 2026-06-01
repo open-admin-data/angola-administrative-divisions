@@ -26,5 +26,9 @@
     "lon": "13.464"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ao/provinces/zaire-ao18/",
+    "api": "https://openadmindata.org/api/ao/"
+  }
 }

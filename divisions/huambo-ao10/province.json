@@ -26,5 +26,9 @@
     "lon": "15.609"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ao/provinces/huambo-ao10/",
+    "api": "https://openadmindata.org/api/ao/"
+  }
 }

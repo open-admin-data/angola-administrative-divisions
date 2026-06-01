@@ -26,5 +26,9 @@
     "lon": "12.731"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ao/provinces/namibe-ao16/",
+    "api": "https://openadmindata.org/api/ao/"
+  }
 }

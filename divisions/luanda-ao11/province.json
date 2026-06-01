@@ -26,5 +26,9 @@
     "lon": "13.679"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ao/provinces/luanda-ao11/",
+    "api": "https://openadmindata.org/api/ao/"
+  }
 }

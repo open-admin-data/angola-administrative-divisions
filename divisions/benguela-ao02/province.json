@@ -26,5 +26,9 @@
     "lon": "13.9"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ao/provinces/benguela-ao02/",
+    "api": "https://openadmindata.org/api/ao/"
+  }
 }

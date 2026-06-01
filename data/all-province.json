@@ -27,7 +27,11 @@
       "lon": "13.987"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/bengo-ao01/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO02",
@@ -57,7 +61,11 @@
       "lon": "13.9"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/benguela-ao02/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO03",
@@ -87,7 +95,11 @@
       "lon": "17.417"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/bi-ao03/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO04",
@@ -117,7 +129,11 @@
       "lon": "12.26"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/cabinda-ao04/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO05",
@@ -147,7 +163,11 @@
       "lon": "19.467"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/cuando-cubango-ao05/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO06",
@@ -177,7 +197,11 @@
       "lon": "15.096"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/cuanza-norte-ao06/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO07",
@@ -207,7 +231,11 @@
       "lon": "15.049"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/cuanza-sul-ao07/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO08",
@@ -237,7 +265,11 @@
       "lon": "15.601"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/cunene-ao08/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO10",
@@ -267,7 +299,11 @@
       "lon": "15.609"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/huambo-ao10/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO09",
@@ -297,7 +333,11 @@
       "lon": "15.01"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/hula-ao09/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO11",
@@ -327,7 +367,11 @@
       "lon": "13.679"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/luanda-ao11/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO12",
@@ -357,7 +401,11 @@
       "lon": "19.35"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/lunda-norte-ao12/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO13",
@@ -387,7 +435,11 @@
       "lon": "20.954"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/lunda-sul-ao13/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO14",
@@ -417,7 +469,11 @@
       "lon": "16.266"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/malanje-ao14/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO15",
@@ -447,7 +503,11 @@
       "lon": "19.974"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/moxico-ao15/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO16",
@@ -477,7 +537,11 @@
       "lon": "12.731"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/namibe-ao16/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO17",
@@ -507,7 +571,11 @@
       "lon": "15.411"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/uge-ao17/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   },
   {
     "id": "AO18",
@@ -537,6 +605,10 @@
       "lon": "13.464"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ao/provinces/zaire-ao18/",
+      "api": "https://openadmindata.org/api/ao/"
+    }
   }
 ]

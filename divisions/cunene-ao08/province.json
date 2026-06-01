@@ -26,5 +26,9 @@
     "lon": "15.601"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ao/provinces/cunene-ao08/",
+    "api": "https://openadmindata.org/api/ao/"
+  }
 }

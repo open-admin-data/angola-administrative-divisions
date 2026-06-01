@@ -26,5 +26,9 @@
     "lon": "17.417"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ao/provinces/bi-ao03/",
+    "api": "https://openadmindata.org/api/ao/"
+  }
 }

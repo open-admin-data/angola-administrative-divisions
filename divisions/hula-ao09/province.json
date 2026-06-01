@@ -26,5 +26,9 @@
     "lon": "15.01"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ao/provinces/hula-ao09/",
+    "api": "https://openadmindata.org/api/ao/"
+  }
 }

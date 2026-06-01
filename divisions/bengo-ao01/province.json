@@ -26,5 +26,9 @@
     "lon": "13.987"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ao/provinces/bengo-ao01/",
+    "api": "https://openadmindata.org/api/ao/"
+  }
 }

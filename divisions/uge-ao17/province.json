@@ -26,5 +26,9 @@
     "lon": "15.411"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ao/provinces/uge-ao17/",
+    "api": "https://openadmindata.org/api/ao/"
+  }
 }

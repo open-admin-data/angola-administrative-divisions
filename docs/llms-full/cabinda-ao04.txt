@@ -3,7 +3,7 @@
 > 4 municipalitys, 12 communes
 > Code: AO04
 > Coordinates: -5.083, 12.26
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Municipalitys
 
