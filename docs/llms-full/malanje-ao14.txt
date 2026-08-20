@@ -3,7 +3,7 @@
 > 14 municipalitys, 51 communes
 > Code: AO14
 > Coordinates: -9.53, 16.266
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Municipalitys
 

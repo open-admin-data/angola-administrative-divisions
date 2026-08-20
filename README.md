@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/ao](https://openadmindata.org/ao/) |
 | API | [openadmindata.org/api/ao](https://openadmindata.org/api/ao/) |
+| Flag | [PNG](https://onlygames.me/flags-png/ao/) · [SVG](https://onlygames.me/flags-svg/ao/) · [PDF](https://onlygames.me/flags-pdf/ao/) |
 | National Anthem | [🎵 Listen & Download Angola National Anthem MP3](https://onlygames.me/national-anthems/ao/) |
 
 ## Browse by Province
