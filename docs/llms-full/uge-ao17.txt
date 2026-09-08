@@ -3,7 +3,7 @@
 > 16 municipalitys, 47 communes
 > Code: AO17
 > Coordinates: -7.139, 15.411
-> Last updated: 2026-09-02. License: CC-BY-4.0.
+> Last updated: 2026-09-08. License: CC-BY-4.0.
 
 ## Municipalitys
 
